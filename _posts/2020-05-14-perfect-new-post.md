@@ -7,4 +7,4 @@ this:
 ---
 
 This is the new post with some [links](www.google.com)
-This is the new add
+Auth test
