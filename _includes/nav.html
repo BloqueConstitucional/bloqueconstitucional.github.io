@@ -1,0 +1,43 @@
+<!-- Top navbar -->
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper black-text white">
+            <!-- Brand -->
+            <a href="{{ site.url }}" class="black-text brand-logo">
+                <img src="{{ site.url }}/assets/img/favicon.png">
+                <span>
+                    {{ site.title }}
+                </span>
+            </a>
+
+            <!-- Mobile sidenav activator -->
+            <a href="#" data-target="slide-out" class="sidenav-trigger">
+                <i class="fas fa-bars mainnav-icon black-text"></i>
+            </a>
+
+            <!-- Main navbar links - Desktop -->
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% for link in site.data.navigation %}
+                {% if link.url %}
+                <li>
+                    <a href="{{ site.url }}{{ link.url }}" class="black-text"> {{ link.title }} </a>
+                </li>
+                {% elsif link.children %}
+                <li>
+                    <a href='#' data-target='dropdown1' class="dropdown-trigger black-text">
+                        {{ link.title }} <i class="material-icons right">arrow_drop_down</i> </a>
+                </li>
+                <!-- Dropdown Structure -->
+                <ul id='dropdown1' class='dropdown-content'>
+                    {% for sublink in link.children %}
+                    <li><a href="{{ site.url }}{{ sublink.url }}" class="black-text">
+                            {{ sublink.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </nav>
+</div>

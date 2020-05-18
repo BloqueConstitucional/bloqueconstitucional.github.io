@@ -1,0 +1,28 @@
+.brand-logo {
+    img {
+        max-height: 50px;
+        vertical-align: sub;
+        margin: 0 15px;
+    }
+    
+    @media #{$medium} {
+        span {
+            margin: 0;
+            display: none;
+        }
+    }
+    @media #{$small} {
+        span {
+            margin: 0;
+            display: none;
+        }
+    }
+}
+
+.collapsible-sidenav {
+    margin: 0 16px !important;
+
+    .collapsible-header {
+        background-color: white;
+    }
+}

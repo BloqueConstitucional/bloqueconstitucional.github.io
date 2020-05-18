@@ -1,0 +1,19 @@
+# Site navigation links
+
+ - title: Nosotros
+   children:
+     - title: Bloque Constitucional
+       url: /propuesta/
+     - title: Miembros
+       url: /miembros/
+     - title: Cargos
+       url: /cargos/
+ - title: Campaña CPACF 2020
+   url: /campaign/
+ - title: Novdades
+   url: /novedades/
+ - title: Eventos
+   url: /eventos/
+ - title: Contacto
+   url: /contacto/
+  

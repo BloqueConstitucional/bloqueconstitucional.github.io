@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body class="black-text">
+    {% include nav.html %}
+    {% include sidenav.html %}
+    {% include addons/social_bar.html %}
+
+    <!-- Body -->
+    <div class="container">
+        <h1>This is an event</h1>
+        <div class="justified content">
+            {{ content }}
+        </div>
+
+        <!-- Share -->
+        {% include addons/share_buttons.html %}
+
+    </div>
+
+    {% include footer.html %}
+</body>
+
+</html>

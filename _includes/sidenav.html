@@ -1,0 +1,34 @@
+<!-- Left Sidenav -->
+<ul id="slide-out" class="sidenav">
+    <li>
+        <div class="user-view">
+            <h4> {{ site.title }} </h4>
+            <p class="description-short"> {{ site.description_short }} </p>
+        </div>
+    </li>
+    {% for link in site.data.navigation %}
+    {% if link.url %}
+    <li>
+        <a href="{{ site.url }}{{ link.url }}" class="black-text"> {{ link.title }} </a>
+    </li>
+    {% elsif link.children %}
+    <li>
+        <ul class="collapsible collapsible-accordion collapsible-sidenav">
+            <li class="active">
+                <a class="collapsible-header" tabindex="0">{{ link.title }}</a>
+                <div class="collapsible-body">
+                    <ul>
+                        {% for sublink in link.children %}
+                        <li><a href="{{ site.url }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </li>
+    {% endif %}
+    {% endfor %}
+    <li>
+        <div class="divider"></div>
+    </li>
+</ul>
