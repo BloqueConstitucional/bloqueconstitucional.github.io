@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: post_list
 title: Novedades
 ---

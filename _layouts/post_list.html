@@ -8,15 +8,10 @@
     {% include sidenav.html %}
     {% include addons/social_bar.html %}
 
-    {% include banner.html %}
-
-    <!-- Featured post / campaña -->
-
     <!-- Feed -->
     <div class="container">
-        <h3>Novedades</h3>
-        <a href="{{ site.url }}/novedades">Ver más</a>
-        {% include grids/post_grid.html limit=3 %}
+        <h1>Novedades</h1>
+        {% include grids/post_grid.html limit=99999999 %}
     </div>
 
     <!-- Footer -->
