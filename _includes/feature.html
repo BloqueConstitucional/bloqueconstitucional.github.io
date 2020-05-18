@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="col m6 s12">
+        {% if site.current_campaign %}
+        {% for post in site.campaign %}
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        <div class="card">
+            <div class="card-image">
+                <img src="{{ site.url }}/assets/img/sample.jpg">
+            </div>
+            <div class="card-stacked">
+                <div class="card-content">
+                    <h4>Featured post</h4>
+                    <p>
+                        La presentación dirigida al presidente del Tribunal, Dr. Carlos
+                        Rosenkrantz,
+                        sostiene que las herramientas informáticas ya disponibles y
+                        mayormente en
+                        funcionamiento permiten poner a la Justicia
+                    </p>
+                    <br>
+                    <!-- <img src="{{ site.url }}/assets/img/sample-2.jpg"> -->
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

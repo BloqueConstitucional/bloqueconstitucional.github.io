@@ -10,12 +10,23 @@
 
     {% include banner.html %}
 
-    <!-- Featured post / campaña -->
-
-    <!-- Feed -->
     <div class="container">
+        <!-- Featured post / campaña -->
+        {% include feature.html %}
+
+        <!-- Campaña -->
+        <h3>Estamos de Campaña</h3>
+        <a href="{{ site.url }}/campaign">Ver más</a>
+        {% include grids/post_grid.html limit=3 %}
+
+        <!-- Novedades -->
         <h3>Novedades</h3>
         <a href="{{ site.url }}/novedades">Ver más</a>
+        {% include grids/post_grid.html limit=3 %}
+
+        <!-- Eventos -->
+        <h3>Eventos</h3>
+        <a href="{{ site.url }}/eventos">Ver más</a>
         {% include grids/post_grid.html limit=3 %}
     </div>
 

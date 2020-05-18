@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body class="black-text">
+    {% include nav.html %}
+    {% include sidenav.html %}
+    {% include addons/social_bar.html %}
+
+    <!-- Feed -->
+    <div class="container">
+        <h1>Miembros</h1>
+
+        {% for miembro in site.miembros %}
+        <div class="card horizontal">
+            <div class="card-image">
+                <img class="miembro-image"
+                    src="{{ site.url }}/assets/img/miembros/{{ miembro.foto }}">
+            </div>
+            <div class="card-stacked">
+                <div class="card-content">
+                    <span class="card-title">{{ miembro.nombre }}</span>
+                    <p>{{ miembro.short_bio }}</p>
+                </div>
+                <div class="card-action">
+                    {% for link in miembro.social %}
+                    <a class="blue-text" href="{{ link[1] }}">{{ link[0] }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Footer -->
+    {% include footer.html %}
+</body>
+
+</html>

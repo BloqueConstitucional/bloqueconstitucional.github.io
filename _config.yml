@@ -35,9 +35,13 @@ twitter_link: https://twitter.com/BloqueConst
 instagram_link: https://instagram.com/bloqueconsti
 youtube_link: https://youtube.com/___
 
+current_campaign: CPACF_2020
 collections:
   miembros:
     output: true
+  campaign:
+    output: true
+
 
 plugins:
   - jekyll-feed

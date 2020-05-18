@@ -7,40 +7,6 @@
     right: 10px;
 }
 
-.banner-container {
-    position: relative;
-    height: 50vh;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    transform: translate3d(0px, 0px, 0px) scale(1, 1);
-}
-
-.banner-image {
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    height: 100%;
-    filter: brightness(75%);
-
-}
-
-.banner-text {
-    width: 100%;
-    position: absolute;
-    color: white;
-    text-align: center;
-    
-    top: 10vh;
-    @media #{$small} {
-        h1 {
-            font-size: 3em !important;
-        }
-        h4 {
-            font-size: 1.5em !important;
-        }
-        top: 3vh;
-    }
+.miembro-image {
+    max-height: 300px;
 }

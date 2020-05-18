@@ -8,16 +8,16 @@
     {% include sidenav.html %}
     {% include addons/social_bar.html %}
 
-    <!-- Featured event - coming soon -->
-
-
-    <!-- Feed -->
+    <!-- Body -->
     <div class="container">
-        <h1>Novedades</h1>
-        {% include grids/post_grid.html limit=99999999 %}
+        <div class="justified content">
+            {{ content }}
+        </div>
+
+        <!-- Share -->
+        {% include addons/share_buttons.html %}
     </div>
 
-    <!-- Footer -->
     {% include footer.html %}
 </body>
 

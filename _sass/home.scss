@@ -1,28 +1,38 @@
-.brand-logo {
-    img {
-        max-height: 50px;
-        vertical-align: sub;
-        margin: 0 15px;
-    }
-    
-    @media #{$medium} {
-        span {
-            margin: 0;
-            display: none;
-        }
-    }
-    @media #{$small} {
-        span {
-            margin: 0;
-            display: none;
-        }
-    }
+.banner-container {
+    position: relative;
+    height: 50vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: translate3d(0px, 0px, 0px) scale(1, 1);
+    margin-bottom: 50px;
 }
 
-.collapsible-sidenav {
-    margin: 0 16px !important;
+.banner-image {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 100%;
+    filter: brightness(75%);
 
-    .collapsible-header {
-        background-color: white;
+}
+
+.banner-text {
+    width: 100%;
+    position: absolute;
+    color: white;
+    text-align: center;
+    
+    top: 10vh;
+    @media #{$small} {
+        h1 {
+            font-size: 3em !important;
+        }
+        h4 {
+            font-size: 1.5em !important;
+        }
+        top: 3vh;
     }
 }
