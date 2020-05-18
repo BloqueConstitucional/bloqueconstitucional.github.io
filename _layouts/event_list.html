@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body class="black-text">
+    {% include nav.html %}
+    {% include sidenav.html %}
+    {% include addons/social_bar.html %}
+
+    <!-- Feed -->
+    <div class="container">
+        <h1>Novedades</h1>
+        {% include grids/post_grid.html limit=99999999 %}
+    </div>
+
+    <!-- Footer -->
+    {% include footer.html %}
+</body>
+
+</html>

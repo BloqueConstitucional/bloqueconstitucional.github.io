@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: event_list
 title: Eventos
 ---
