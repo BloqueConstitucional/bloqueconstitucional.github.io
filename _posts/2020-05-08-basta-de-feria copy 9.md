@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Evento 2"
-date: 2020-05-07
+date: 2020-05-08
 author: "Ricardo Mihura"
 feature: basta-de-feria.jpg
 event_date: 2020-05-28

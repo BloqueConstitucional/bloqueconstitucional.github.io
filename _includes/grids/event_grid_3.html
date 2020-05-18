@@ -1,0 +1,11 @@
+<div class="row">
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+    {% if post.layout == "event" %}
+    <div class="col s12 m4">
+        {% include cards/event.html post=post %}
+    </div>
+    {% assign count = count | plus: 1 %}
+    {% endif %}
+    {% endfor %}
+</div>

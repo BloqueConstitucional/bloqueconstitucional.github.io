@@ -5,6 +5,7 @@
     z-index: 1;
     margin-top: 10px;
     right: 10px;
+    background-color: rgba($color: black, $alpha: 0.5) !important;
 }
 
 .miembro-image {
@@ -13,4 +14,17 @@
 
 .post-feature-wrapper {
     text-align: center;
+}
+
+.event-date {
+    text-align: center;
+    position: relative;
+    top: -21px;
+    color: white;
+    background-color: rgba($color: black, $alpha: 0.5);
+}
+
+.event-place {
+    position: absolute;
+    margin-left: 40px;
 }
