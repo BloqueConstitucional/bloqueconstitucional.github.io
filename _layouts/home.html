@@ -16,18 +16,27 @@
 
         <!-- Campaña -->
         <h3>Estamos de Campaña</h3>
-        <a href="{{ site.url }}/campaign">Ver más</a>
-        {% include grids/post_grid.html limit=3 %}
+        <a class="ver-mas" href="{{ site.url }}/campaign">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            <span>ver más</span>
+        </a>
+        {% include grids/post_grid_3.html %}
 
         <!-- Novedades -->
         <h3>Novedades</h3>
-        <a href="{{ site.url }}/novedades">Ver más</a>
-        {% include grids/post_grid.html limit=3 %}
+        <a class="ver-mas" href="{{ site.url }}/novedades">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            <span>ver más</span>
+        </a>
+        {% include grids/post_grid_3.html %}
 
         <!-- Eventos -->
         <h3>Eventos</h3>
-        <a href="{{ site.url }}/eventos">Ver más</a>
-        {% include grids/post_grid.html limit=3 %}
+        <a class="ver-mas" href="{{ site.url }}/eventos">
+            <i class="fas fa-arrow-alt-circle-right"></i>
+            <span>ver más</span>
+        </a>
+        {% include grids/post_grid_3.html event=true %}
     </div>
 
     <!-- Footer -->
