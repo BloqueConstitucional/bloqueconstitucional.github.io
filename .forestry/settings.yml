@@ -18,6 +18,7 @@ sections:
   label: Post
   create: all
   templates:
+  - evento
   - post
 upload_dir: assets/img
 public_path: "/assets/img"
