@@ -5,12 +5,20 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: event
+  hidden: true
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
+    required: true
+  default: now
+  hidden: false
 - type: text
   name: author
   label: author
