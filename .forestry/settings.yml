@@ -5,9 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: cargos/index.md
+  label: Cargos
+  match: "**/*"
+- type: document
   path: propuesta/index.md
   label: Qué es Bloque Constitucional?
-  match: "**/*"
+  read_only: false
 - type: directory
   path: _miembros
   label: Miembros
