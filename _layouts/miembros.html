@@ -25,7 +25,11 @@
                 </div>
                 <div class="card-action">
                     {% for link in miembro.social %}
+                    {% if link[0] == "mail" %}
+                    <a class="blue-text" href="mailto:{{ link[1] }}">{{ link[0] }}</a>
+                    {% else %}
                     <a class="blue-text" href="{{ link[1] }}">{{ link[0] }}</a>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>

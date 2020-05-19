@@ -16,6 +16,8 @@ current_campaign: CPACF_2020
 collections:
   miembros:
     output: true
+  eventos:
+    output: true
   campaign:
     output: true
 plugins:
@@ -29,5 +31,4 @@ sass:
   style: compressed
 exclude:
 - vendor/bundle
-- push.bat
 - TODO

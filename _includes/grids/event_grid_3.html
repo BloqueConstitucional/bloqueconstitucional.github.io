@@ -5,6 +5,9 @@
     <div class="col s12 m4">
         {% include cards/event.html post=post %}
     </div>
+    {% if count >= 2 %}
+    {% break %}
+    {% endif %}
     {% assign count = count | plus: 1 %}
     {% endif %}
     {% endfor %}

@@ -2,7 +2,6 @@
 layout: event
 title: "Evento 0"
 date: 2020-05-07
-author: "Ricardo Mihura"
 feature: basta-de-feria.jpg
 event_date: 2020-08-28
 place: Palacio de Justicia

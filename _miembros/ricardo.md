@@ -7,7 +7,7 @@ photo: ricardo.jpg
 social:
   twitter: https://twitter.com/thejaime
   web: https://jaimeman.com
-  mail: mailto:jaime.rodriguez@gmail.com
+  mail: jaime.rodriguez@gmail.com
   facebook: https://facebook.com/
   linkedin: https://linkedin.com/in/
   telegram: https://t.me/
