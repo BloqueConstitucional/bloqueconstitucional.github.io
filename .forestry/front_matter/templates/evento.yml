@@ -1,0 +1,31 @@
+---
+label: Evento
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: file
+  name: feature
+  label: feature
+- type: datetime
+  name: event_date
+  label: event_date
+- type: text
+  name: place
+  label: place
+- type: number
+  name: price
+  label: price
+- type: text
+  name: description
+  label: description
