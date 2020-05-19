@@ -4,47 +4,47 @@ hide_body: true
 fields:
 - type: text
   name: name
-  label: name
+  label: Nombre
 - type: textarea
   name: bio
-  label: bio
+  label: Biografía
 - type: file
   name: photo
-  label: photo
+  label: Foto
 - type: field_group
   name: social
-  label: social
+  label: Redes Sociales
   fields:
   - type: text
     name: twitter
-    label: twitter
+    label: Twitter
     default: ''
     description: https://twitter.com/ejemplo
   - type: text
     name: web
-    label: web
+    label: Sitio web
   - type: text
     name: mail
-    label: mail
+    label: E-mail
   - name: facebook
     type: text
     config:
       required: false
-    label: facebook
+    label: Facebook
     default: ''
     description: https://facebook.com/ejemplo
   - name: linkedin
     type: text
     config:
       required: false
-    label: linkedin
+    label: Linkedin
     default: ''
     description: https://linkedin.com/in/ejemplo
   - name: telegram
     type: text
     config:
       required: false
-    label: telegram
+    label: Telegram
     default: ''
     description: https://t.me/ejemplo
   description: Links a redes sociales
