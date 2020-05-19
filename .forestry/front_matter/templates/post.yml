@@ -17,3 +17,5 @@ fields:
 - type: file
   name: feature
   label: feature
+pages:
+- _posts/asdf.md
