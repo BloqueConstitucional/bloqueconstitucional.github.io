@@ -18,7 +18,8 @@ fields:
   - type: text
     name: twitter
     label: twitter
-    default: https://twitter.com/
+    default: ''
+    description: 'ejemplo: https://twitter.com/ejemplo'
   - type: text
     name: web
     label: web
@@ -43,6 +44,6 @@ fields:
       required: false
     label: telegram
     default: https://t.me/
-  description: Poner link completo
+  description: Link completo
 pages:
 - _miembros/ricardo.md
