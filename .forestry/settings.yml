@@ -16,7 +16,7 @@ sections:
   create: all
 - type: jekyll-posts
   label: Post
-  create: all
+  create: documents
   templates:
   - evento
   - post
