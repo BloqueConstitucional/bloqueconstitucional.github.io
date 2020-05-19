@@ -5,15 +5,22 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: author
   label: author
+  default: Anónimo
 - type: file
   name: feature
   label: feature
+  default: "/assets/img/default.png"
