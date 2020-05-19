@@ -1,17 +1,13 @@
 .brand-logo {
     img {
+        position: relative;
+        top: 3px;
         max-height: 50px;
         vertical-align: sub;
-        margin: 0 15px;
+        padding: 10px 15px;
     }
     
-    @media #{$medium} {
-        span {
-            margin: 0;
-            display: none;
-        }
-    }
-    @media #{$small} {
+    @media #{$notlarge} {
         span {
             margin: 0;
             display: none;
