@@ -1,18 +1,24 @@
 <footer class="page-footer blue darken-3">
-    <!-- <div class="container">
+    <div class="container">
         <div class="row">
-            <div class="col l6 s12">
-                <h4 class="white-text">Footer Content</h4>
-                <p class="grey-text text-lighten-4">
-                    You can use rows and columns here to organize
-                    your footer content.
-                </p>
+            <div class="col m6 s12">
+                <h3>Queremos escucharte</h3>
+                <span>Los comentarios y las ideas son bienvenidas, dejanos un mensaje con tu
+                    mail así podemos contestarte.</span>
+                <br>
+                <p>Encontranos en las redes:</p>
+                <a href="{{ site.twitter_link }}" class="black-text"><b>Twitter, </b></a>
+                <a href="{{ site.instagram_link }}" class="black-text"><b>Instagram, </b></a>
+                <a href="{{ site.facebook_link }}" class="black-text"><b>Facebook </b></a>
+                <br>
+                <p>O escribinos un mail a:</p>
+                <a href="mailto:{{ site.email }}" class="black-text"><b>{{ site.email }} </b></a>
             </div>
-            <div class="col l4 offset-l2 s12">
-                <h4 class="white-text">Nuestras redes sociales</h4>
+            <div class="col m6 s12">
+                {% include addons/contact_form.html %}
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="footer-copyright blue darken-3">
         <div class="container">
             © 2020 {{ site.title }}

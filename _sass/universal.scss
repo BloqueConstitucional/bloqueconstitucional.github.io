@@ -19,6 +19,16 @@
     }
 }
 
+body {
+    height: 100%;
+}
+
+.footer {
+   position: absolute;
+   bottom:0;
+   width:100%;
+}
+
 h1 {
     @media #{$small} {
         font-size: 3.56em;
