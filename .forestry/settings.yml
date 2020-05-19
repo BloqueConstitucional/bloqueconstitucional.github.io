@@ -31,6 +31,10 @@ sections:
   exclude: "*event.md"
   templates:
   - post
+- type: document
+  path: _config.yml
+  label: Site Config
+  match: "**/*"
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
