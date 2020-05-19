@@ -1,8 +1,9 @@
 <div class="row">
-    {% for post in site.posts limit:3 %}
+    {% assign novedades = site.posts | concat: site.eventos %}
+    {% for post in novedades limit:3 %}
     <div class="col s12 m4">
         {% if post.layout == "event" %}
-        {% include cards/event.html post=post %}
+        {% include cards/event.html event=post %}
         {% else %}
         {% include cards/post.html post=post %}
         {% endif %}
