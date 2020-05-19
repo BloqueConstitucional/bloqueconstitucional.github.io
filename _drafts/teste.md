@@ -1,0 +1,13 @@
+---
+layout: event
+date: 2020-05-19
+title: teste
+author: Asdf
+feature: ''
+event_date: 2020-05-20 22:00:00 +0000
+place: ''
+price: 
+description: ''
+
+---
+asdfasdf
