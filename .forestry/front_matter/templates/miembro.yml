@@ -43,3 +43,5 @@ fields:
       required: false
     label: telegram
     default: https://t.me/
+pages:
+- _miembros/ricardo.md
