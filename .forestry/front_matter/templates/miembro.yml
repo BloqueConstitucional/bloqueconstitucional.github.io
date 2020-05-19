@@ -18,9 +18,16 @@ fields:
   - type: text
     name: twitter
     label: twitter
+    default: https://twitter.com/
   - type: text
     name: web
     label: web
   - type: text
     name: mail
     label: mail
+  - name: facebook
+    type: text
+    config:
+      required: false
+    label: facebook
+    default: https://facebook.com/
