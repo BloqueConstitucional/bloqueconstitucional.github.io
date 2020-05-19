@@ -37,3 +37,9 @@ fields:
       required: false
     label: linkedin
     default: https://linkedin.com/in/
+  - name: telegram
+    type: text
+    config:
+      required: false
+    label: telegram
+    default: https://t.me/
