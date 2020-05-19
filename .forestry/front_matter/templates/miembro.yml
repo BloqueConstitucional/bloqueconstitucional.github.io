@@ -31,3 +31,9 @@ fields:
       required: false
     label: facebook
     default: https://facebook.com/
+  - name: linkedin
+    type: text
+    config:
+      required: false
+    label: linkedin
+    default: https://linkedin.com/in/
