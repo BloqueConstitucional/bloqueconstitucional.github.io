@@ -47,6 +47,6 @@ fields:
     label: telegram
     default: ''
     description: https://t.me/ejemplo
-  description: Link completo
+  description: Links a redes sociales
 pages:
 - _miembros/ricardo.md
