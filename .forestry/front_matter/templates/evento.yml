@@ -10,10 +10,12 @@ fields:
   hidden: true
 - type: text
   name: title
-  label: title
+  label: Título
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Fecha de publicación (hoy)
   config:
     date_format: DD/MM/YYYY
     export_format: YYYY-MM-DD
@@ -22,18 +24,23 @@ fields:
   hidden: false
 - type: file
   name: feature
-  label: feature
+  label: Flyer o banner
+  default: "/assets/img/default.png"
 - type: datetime
   name: event_date
-  label: event_date
+  label: Fecha del evento
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
 - type: text
   name: place
-  label: place
+  label: Lugar
 - type: number
   name: price
-  label: price
+  label: Precio
+  default: 0
 - type: text
   name: description
-  label: description
+  label: Descripción
 pages:
 - _posts/2020-05-19-teste.md
