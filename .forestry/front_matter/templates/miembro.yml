@@ -38,13 +38,15 @@ fields:
     config:
       required: false
     label: linkedin
-    default: https://linkedin.com/in/
+    default: ''
+    description: https://linkedin.com/in/ejemplo
   - name: telegram
     type: text
     config:
       required: false
     label: telegram
-    default: https://t.me/
+    default: ''
+    description: https://t.me/ejemplo
   description: Link completo
 pages:
 - _miembros/ricardo.md
