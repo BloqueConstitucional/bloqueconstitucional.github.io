@@ -9,7 +9,7 @@ sections:
   label: Cargos
 - type: document
   path: propuesta/index.md
-  label: Qué es Bloque Constitucional?
+  label: "¿Qué es Bloque Constitucional?"
 - type: directory
   path: _miembros
   label: Miembros
@@ -31,9 +31,6 @@ sections:
   exclude: "*event.md"
   templates:
   - post
-- type: document
-  path: _config.yml
-  label: Site Config
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
