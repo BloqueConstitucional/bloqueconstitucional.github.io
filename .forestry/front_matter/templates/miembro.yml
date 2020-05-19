@@ -31,7 +31,8 @@ fields:
     config:
       required: false
     label: facebook
-    default: https://facebook.com/
+    default: ''
+    description: 'ejemplo: https://facebook.com/ejemplo'
   - name: linkedin
     type: text
     config:
