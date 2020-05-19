@@ -20,7 +20,7 @@ sections:
   label: Eventos
   create: documents
   match: "**/*"
-  new_doc_ext: ".event.md"
+  new_doc_ext: event.md
   templates:
   - evento
 - type: jekyll-posts
