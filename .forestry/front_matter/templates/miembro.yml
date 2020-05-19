@@ -43,5 +43,6 @@ fields:
       required: false
     label: telegram
     default: https://t.me/
+  description: Poner link completo
 pages:
 - _miembros/ricardo.md
