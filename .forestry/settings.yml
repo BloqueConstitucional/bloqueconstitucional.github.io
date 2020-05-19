@@ -19,7 +19,8 @@ sections:
   path: _posts
   label: Eventos
   create: documents
-  match: "**/*-event.md"
+  match: "**/*"
+  new_doc_ext: ".event.md"
   templates:
   - evento
 - type: jekyll-posts
