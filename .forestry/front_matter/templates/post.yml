@@ -9,18 +9,21 @@ fields:
   default: post
 - type: text
   name: title
-  label: title
+  label: Título
   config:
     required: true
 - type: datetime
   name: date
-  label: date
+  label: Fecha de publicación (hoy)
   default: now
+  config:
+    date_format: DD/MM/YYYY
+    export_format: YYYY-MM-DD
 - type: text
   name: author
-  label: author
+  label: Autor
   default: Anónimo
 - type: file
   name: feature
-  label: feature
+  label: Imágen principal
   default: "/assets/img/default.png"
