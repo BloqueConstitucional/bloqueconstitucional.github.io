@@ -53,6 +53,8 @@ fields:
     - type: boolean
       name: output
       label: output
+      hidden: true
+    hidden: true
   - type: field_group
     name: eventos
     label: eventos
