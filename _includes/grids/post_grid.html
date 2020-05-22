@@ -1,12 +1,12 @@
-<div class="row">
-    <div class="col s12 cards-container">
-        {% assign novedades = site.posts | concat: site.eventos %}
-        {% for post in novedades limit:include.limit %}
-        {% if post.layout == "event" %}
-        {% include cards/event.html event=post %}
-        {% else %}
-        {% include cards/post.html post=post %}
-        {% endif %}
-        {% endfor %}
-    </div>
+<div id="grid" data-columns>
+    {% assign novedades = site.posts | concat: site.eventos | sort: 'date' %}
+    {% for post in novedades limit:include.limit %}
+
+    {% if post.layout == "event" %}
+    {% include cards/event.html event=post %}
+    {% else %}
+    {% include cards/post.html post=post %}
+    {% endif %}
+
+    {% endfor %}
 </div>

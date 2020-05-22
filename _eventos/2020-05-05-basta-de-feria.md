@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Evento 2"
-date: 2020-05-08
+date: 2020-05-05
 feature: basta-de-feria.jpg
 event_date: 2020-05-28
 place: online

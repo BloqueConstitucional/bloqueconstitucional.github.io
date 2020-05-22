@@ -22,6 +22,7 @@ collections:
     output: true
 plugins:
 - jekyll-feed
+- jekyll-tagories
 keep_files:
 - ".git"
 - ".gitignore"

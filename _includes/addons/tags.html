@@ -1,0 +1,8 @@
+{% for tag in page.tags %}
+<div class="chip">
+    <a href="{{ site.url }}/tags#{{ tag }}" class="black-text">
+        {{ tag }} | {{ site.tags[tag].size }}
+        <i class="tag-icon material-icons">arrow_forward</i>
+    </a>
+</div>
+{% endfor %}

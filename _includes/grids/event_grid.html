@@ -1,7 +1,5 @@
-<div class="row">
-    {% for event in site.eventos limit:include.limit %}
-    <div class="col s12 m4">
-        {% include cards/event.html event=event %}
-    </div>
+<div id="grid" data-columns>
+    {% for event in site.eventos %}
+    {% include cards/event.html event=event %}
     {% endfor %}
 </div>

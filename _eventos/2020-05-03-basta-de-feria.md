@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Evento 1"
-date: 2020-05-07
+date: 2020-05-03
 feature: basta-de-feria.jpg
 event_date: 2020-08-28
 place: Palacio de Justicia

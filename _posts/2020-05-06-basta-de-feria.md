@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "¡BASTA DE FERIA! PEDIMOS A LA CORTE EL REINICIO DE LA ACTIVIDAD JUDICIAL"
-date: 2020-05-07
+date: 2020-05-06
 author: "Ricardo Mihura"
 feature: basta-de-feria.jpg
+tags: [balance, libertad]
 ---
 
 La República necesita que la Justicia se reinicie plenamente y así lo hemos solicitado a la Corte Suprema, con propuesta de medidas concretas, que pueden verse en [este documento](https://1drv.ms/b/s!Ah0sfoie1drYh4wSm2RlqDpmeE6y6A?e=NSso0y)

@@ -11,6 +11,9 @@
     <!-- Body -->
     <div class="container">
         <h3>{{ page.title }}</h3>
+        <div class="post-tags">
+            {% include addons/tags.html %}
+        </div>
         <div class="post-feature-wrapper">
             <img src="{{ site.url }}/assets/img/{{ page.feature }}">
         </div>
