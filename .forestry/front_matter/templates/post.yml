@@ -27,3 +27,7 @@ fields:
   name: feature
   label: Imágen principal
   default: "/assets/img/default.png"
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
