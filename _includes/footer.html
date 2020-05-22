@@ -7,12 +7,18 @@
                     mail así podemos contestarte.</span>
                 <br>
                 <p>Encontranos en las redes:</p>
-                <a href="{{ site.twitter_link }}" class="black-text"><b>Twitter, </b></a>
-                <a href="{{ site.instagram_link }}" class="black-text"><b>Instagram, </b></a>
-                <a href="{{ site.facebook_link }}" class="black-text"><b>Facebook </b></a>
-                <br>
-                <p>O escribinos un mail a:</p>
-                <a href="mailto:{{ site.email }}" class="black-text"><b>{{ site.email }} </b></a>
+                <div class="footer-icons">
+                    <a href="{{ site.twitter_link }}" class="white-text">
+                        <i class="fab fa-twitter"></i></a>
+                    <a href="{{ site.instagram_link }}" class="white-text">
+                        <i class="fab fa-instagram"></i></a>
+                    <a href="{{ site.facebook_link }}" class="white-text">
+                        <i class="fab fa-facebook"></i></a>
+                    <br>
+                    <p>O escribinos un mail a:</p>
+                    <a href="mailto:{{ site.email }}" class="white-text"><b>{{ site.email }}
+                        </b></a>
+                </div>
             </div>
             <div class="col m6 s12">
                 {% include addons/contact_form.html %}
@@ -22,8 +28,8 @@
     <div class="footer-copyright blue darken-3">
         <div class="container">
             © 2020 {{ site.title }}
-            <a class="grey-text text-lighten-4 right" href="https://ianmihura.me"
-                target="blank">Sitio web: Ian Mihura</a>
+            <a class="white-text right ianmihura" href="https://ianmihura.me" target="blank">
+                Sitio web: Ian Mihura</a>
         </div>
     </div>
 </footer>

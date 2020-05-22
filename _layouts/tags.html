@@ -15,7 +15,7 @@
         <div class="post-tags">
             {% for tag in site.tags %}
             <div class="chip">
-                <a href="{{ site.url }}/tags#" class="black-text">
+                <a href="{{ site.url }}/tags#{{ tag[0] }}" class="black-text">
                     {{ tag[0] }} | {{ tag[1].size }}
                     {% if include.arrow %}
                     <i class="tag-icon material-icons">arrow_forward</i>
@@ -27,7 +27,16 @@
 
         <div class="justified content">
             {% for tag in site.tags %}
-
+            <br>
+            <h4>
+                #{{ tag[0] }}
+            </h4>
+            <br>
+            <div id="{{ tag[0] }}" class="grid" data-columns>
+                {% for post in tag[1] %}
+                {% include cards/post.html post=post %}
+                {% endfor %}
+            </div>
             {% endfor %}
         </div>
 

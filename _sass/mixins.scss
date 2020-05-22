@@ -1,6 +1,12 @@
 // UTILITY MIXINS
 // --------------------------------------------------
 
+.ianmihura:hover {
+    // color: white !important;
+    opacity: 0 !important;
+    // visibility:hidden;
+}
+
 // For clearing floats like a boss h5bp.com/q
 @mixin clearfix {
   *zoom: 1;
@@ -109,7 +115,7 @@
 
 // GRID
 // --------------------------------------------------
-#grid {
+.grid {
     display: inline-block;
     
     .card {
@@ -130,19 +136,19 @@
 }
 
 @media #{$small} {
-	#grid[data-columns]::before {
+	.grid[data-columns]::before {
 		content: '1 .post-column.size-1of1';
 	}
 }
 
 @media #{$medium} {
-	#grid[data-columns]::before {
+	.grid[data-columns]::before {
 		content: '2 .post-column.size-1of2';
 	}
 }
 
 @media #{$large} {
-	#grid[data-columns]::before {
+	.grid[data-columns]::before {
 		content: '3 .post-column.size-1of3';
 	}
 }

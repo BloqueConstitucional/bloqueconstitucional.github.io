@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¡BASTA DE FERIA! PEDIMOS A LA CORTE EL REINICIO DE LA ACTIVIDAD JUDICIAL"
+title: Title 05
 date: 2020-05-05
 author: "Ricardo Mihura"
 feature: basta-de-feria.jpg

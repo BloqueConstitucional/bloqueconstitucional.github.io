@@ -1,5 +1,5 @@
-<div id="grid" data-columns>
-    {% assign novedades = site.posts | concat: site.eventos | sort: 'date' %}
+<div class="grid" data-columns>
+    {% assign novedades = site.posts | concat: site.eventos | sort: 'date' | reverse %}
     {% for post in novedades limit:include.limit %}
 
     {% if post.layout == "event" %}
