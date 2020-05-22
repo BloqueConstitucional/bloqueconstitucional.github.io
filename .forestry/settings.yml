@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: _config.yml
+  label: Config General
+  match: "**/*"
+- type: document
   path: cargos/index.md
   label: Cargos
 - type: document
