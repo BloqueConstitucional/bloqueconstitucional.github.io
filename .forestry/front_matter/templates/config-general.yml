@@ -93,3 +93,5 @@ fields:
   name: exclude
   label: exclude
   hidden: true
+pages:
+- _config.yml
