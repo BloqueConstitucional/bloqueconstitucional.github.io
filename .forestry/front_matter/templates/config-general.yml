@@ -1,0 +1,84 @@
+---
+label: Config General
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: motto
+  label: motto
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: locale
+  label: locale
+- type: text
+  name: url
+  label: url
+- type: text
+  name: email
+  label: email
+- type: text
+  name: facebook_link
+  label: facebook_link
+- type: text
+  name: twitter_link
+  label: twitter_link
+- type: text
+  name: instagram_link
+  label: instagram_link
+- type: text
+  name: youtube_link
+  label: youtube_link
+- type: text
+  name: current_campaign
+  label: current_campaign
+- type: field_group
+  name: collections
+  label: collections
+  fields:
+  - type: field_group
+    name: miembros
+    label: miembros
+    fields:
+    - type: boolean
+      name: output
+      label: output
+  - type: field_group
+    name: eventos
+    label: eventos
+    fields:
+    - type: boolean
+      name: output
+      label: output
+  - type: field_group
+    name: campaign
+    label: campaign
+    fields:
+    - type: boolean
+      name: output
+      label: output
+- type: list
+  name: plugins
+  label: plugins
+- type: list
+  name: keep_files
+  label: keep_files
+- type: field_group
+  name: sass
+  label: sass
+  fields:
+  - type: text
+    name: sass_dir
+    label: sass_dir
+  - type: text
+    name: style
+    label: style
+- type: list
+  name: exclude
+  label: exclude

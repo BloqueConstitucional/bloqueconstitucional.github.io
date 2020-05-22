@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _config.yml
   label: Config General
-  match: "**/*"
 - type: document
   path: cargos/index.md
   label: Cargos
