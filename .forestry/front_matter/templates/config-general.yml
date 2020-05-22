@@ -5,6 +5,7 @@ fields:
 - type: text
   name: title
   label: title
+  hidden: true
 - type: textarea
   name: description
   label: description
@@ -14,12 +15,15 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: locale
   label: locale
+  hidden: true
 - type: text
   name: url
   label: url
+  hidden: true
 - type: text
   name: email
   label: email
@@ -63,12 +67,15 @@ fields:
     - type: boolean
       name: output
       label: output
+  hidden: true
 - type: list
   name: plugins
   label: plugins
+  hidden: true
 - type: list
   name: keep_files
   label: keep_files
+  hidden: true
 - type: field_group
   name: sass
   label: sass
@@ -79,6 +86,8 @@ fields:
   - type: text
     name: style
     label: style
+  hidden: true
 - type: list
   name: exclude
   label: exclude
+  hidden: true
