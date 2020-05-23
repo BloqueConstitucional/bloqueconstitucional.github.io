@@ -15,5 +15,4 @@ let _tagScrollCorrect = function () {
     let aurl = window.location.href.split("/");
     if (aurl[aurl.length - 1][0] == "#")
         window.scrollBy(0, -100);
-    console.log(aurl);
 };
