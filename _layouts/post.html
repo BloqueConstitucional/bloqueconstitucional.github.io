@@ -14,9 +14,11 @@
         <div class="post-tags">
             {% include addons/tags.html %}
         </div>
+        {% if page.feature != "default.png" %}
         <div class="post-feature-wrapper">
             <img src="{{ site.url }}/assets/img/{{ page.feature }}">
         </div>
+        {% endif %}
         <div class="justified content">
             {{ content }}
         </div>

@@ -3,7 +3,7 @@ title: Bloque Constitucional
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-motto: Libre colegiación | Abogados responsables | Acceso a la justicia
+motto: Abogados responsables | Acceso a la justicia | Libre colegiación
 permalink: "/:title/"
 locale: es_US
 url: https://bloqueconstitucional.github.io
