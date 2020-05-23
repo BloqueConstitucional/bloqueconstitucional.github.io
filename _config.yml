@@ -18,7 +18,7 @@ collections:
     output: true
   eventos:
     output: true
-  campaign:
+  campaigns:
     output: true
 plugins:
 - jekyll-feed

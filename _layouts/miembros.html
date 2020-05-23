@@ -14,10 +14,11 @@
 
         {% for miembro in site.miembros %}
         <div class="card responsive-horizontal">
+            {% if miembro.photo %}
             <div class="card-image">
-                <img class="miembro-image"
-                    src="{{ site.url }}/assets/img/miembros/{{ miembro.photo }}">
+                <img class="miembro-image" src="{{ site.url }}/assets/img/{{ miembro.photo }}">
             </div>
+            {% endif %}
             <div class="card-stacked">
                 <div class="card-content">
                     <span class="card-title">{{ miembro.name }}</span>

@@ -1,0 +1,33 @@
+.footer-copyright {
+    margin-top: 100px;
+
+    @media #{$small} {
+        div {
+            display: grid;
+            text-align: center;
+        }
+    }
+}
+
+.footer-icons {
+    a {
+        padding: 10px;
+        :hover {
+            color: black;
+        }
+        svg {
+            height: 36px;
+            width: 36px !important;
+        }
+    }
+}
+
+.footer {
+   position: absolute;
+   bottom:0;
+   width:100%;
+}
+
+.page-footer {
+    margin-top: 75px;
+}

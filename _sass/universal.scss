@@ -19,12 +19,6 @@ body {
     height: 100%;
 }
 
-.footer {
-   position: absolute;
-   bottom:0;
-   width:100%;
-}
-
 h1 {
     @media #{$small} {
         font-size: 3.56em;
@@ -39,12 +33,12 @@ h1 {
     }
 }
 
-.page-footer {
-    margin-top: 75px;
-}
-
 .container {
     img {
         max-width: 100%;
     }
+}
+
+.text-center {
+    text-align: center;
 }

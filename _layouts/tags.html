@@ -27,12 +27,13 @@
 
         <div class="justified content">
             {% for tag in site.tags %}
+            <hr>
             <br>
-            <h4>
+            <h4 id="{{ tag[0] }}">
                 #{{ tag[0] }}
             </h4>
             <br>
-            <div id="{{ tag[0] }}" class="grid" data-columns>
+            <div class="grid" data-columns>
                 {% for post in tag[1] %}
                 {% include cards/post.html post=post %}
                 {% endfor %}

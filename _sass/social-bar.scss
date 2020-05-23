@@ -6,13 +6,16 @@
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    left: -40px;
+    right: -40px;
     :hover {
-        transform: translateX(40px);
+        transform: translateX(-40px);
     }
     
-    @media #{$small} {
-        left: 0;
+    @media #{$notlarge} {
+        display:none;
+        // left: auto;
+        // right: 0;
+        // transform: translateY(100px);
     }
 }
 
