@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "**/*"
 - type: document
-  path: "./propuesta-campaign/index.md"
+  path: propuesta-campaign/index.md
   label: Propuesta de Campaña
 - type: document
   path: _config.yml
