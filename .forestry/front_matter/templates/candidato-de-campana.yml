@@ -1,0 +1,49 @@
+---
+label: Candidato de Campaña
+hide_body: true
+fields:
+- type: text
+  name: name
+  label: Nombre
+  config:
+    required: true
+- type: textarea
+  name: bio
+  label: Biografía
+- type: file
+  name: photo
+  label: Foto
+- type: text
+  name: cargo
+  label: Cargo
+- type: number
+  name: order
+  description: Orden y forma de display. Repetir entradas sin problema.<br>0 y 1 candidatos
+    principales<br>2, en adelante candidatos menores
+  label: Orden de display
+  config:
+    required: true
+    min: 0
+  default: 0
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: web
+    label: web
+  - type: text
+    name: mail
+    label: mail
+  - type: text
+    name: facebook
+    label: facebook
+  - type: text
+    name: linkedin
+    label: linkedin
+  - type: text
+    name: telegram
+    label: telegram
