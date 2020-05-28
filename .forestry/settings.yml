@@ -4,10 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: "./propuesta-campaign"
+- type: document
+  path: propuesta-campaign
   label: Propuesta de Campaña
-  create: documents
   match: "**/*"
 - type: document
   path: _config.yml
