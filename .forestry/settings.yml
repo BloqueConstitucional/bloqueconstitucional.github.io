@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _candidatos
+  label: Candidatos de Campaña
+  create: documents
+  match: "**/*"
+- type: document
+  path: "./propuesta-campaign/index.md"
+  label: Propuesta de Campaña
 - type: document
   path: _config.yml
   label: Config General
