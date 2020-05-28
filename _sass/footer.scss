@@ -22,6 +22,21 @@
     }
 }
 
+.sidenav-icons {
+    padding: 0 15px;
+    a {
+        margin-left: 15px;
+        :hover {
+            color: black;
+        }
+        svg {
+            margin-top: 15px;
+            height: 24px;
+            width: 24px !important;
+        }
+    }
+}
+
 .footer {
    position: absolute;
    bottom:0;

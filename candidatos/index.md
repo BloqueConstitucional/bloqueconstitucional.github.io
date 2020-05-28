@@ -1,0 +1,4 @@
+---
+layout: candidatos
+title: Candidatos
+---

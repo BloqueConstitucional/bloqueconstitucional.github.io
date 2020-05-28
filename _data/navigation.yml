@@ -8,8 +8,14 @@
        url: /miembros/
      - title: Cargos
        url: /cargos/
- - title: Campaña CPACF 2020
-   url: /campaign/
+ - title: Campaña CPACF 2020 
+   children:
+     - title: Propuestas
+       url: /propuesta-campaign/
+     - title: Candidatos
+       url: /candidatos/
+     - title: Consulta al Padrón
+       url: /padron/
  - title: Novedades
    url: /novedades/
  - title: Eventos

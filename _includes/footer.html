@@ -8,12 +8,7 @@
                 <br>
                 <p>Encontranos en las redes:</p>
                 <div class="footer-icons">
-                    <a href="{{ site.twitter_link }}" class="white-text">
-                        <i class="fab fa-twitter"></i></a>
-                    <a href="{{ site.instagram_link }}" class="white-text">
-                        <i class="fab fa-instagram"></i></a>
-                    <a href="{{ site.facebook_link }}" class="white-text">
-                        <i class="fab fa-facebook"></i></a>
+                    {% include addons/social_icons.html color=white %}
                     <br>
                     <p>O escribinos un mail a:</p>
                     <a href="mailto:{{ site.email }}" class="white-text"><b>{{ site.email }}
