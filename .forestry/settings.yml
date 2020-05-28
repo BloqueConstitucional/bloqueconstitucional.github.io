@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: propuesta-campaign
+  path: propuesta-campaign/index.md
   label: Propuesta de Campaña
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Config General
