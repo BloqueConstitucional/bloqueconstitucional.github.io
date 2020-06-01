@@ -11,34 +11,36 @@
     <!-- Feed -->
     <div class="container">
         <h1>Miembros</h1>
-
-        {% for miembro in site.miembros %}
-        <div class="card responsive-horizontal">
-            {% if miembro.photo %}
-            <div class="card-image">
-                <img class="miembro-image" src="{{ site.url }}/assets/img/{{ miembro.photo }}">
-            </div>
-            {% endif %}
-            <div class="card-stacked">
-                <div class="card-content">
-                    <span class="card-title">{{ miembro.name }}</span>
-                    {% if miembro.cargo %}
-                    <h6><i>{{ miembro.cargo }}</i></h6>
-                    {% endif %}
-                    <p>{{ miembro.bio }}</p>
-                </div>
-                <div class="card-action">
-                    {% for link in miembro.social %}
-                    {% if link[0] == "mail" %}
-                    <a class="blue-text" href="mailto:{{ link[1] }}">{{ link[0] }}</a>
-                    {% else %}
-                    <a class="blue-text" href="{{ link[1] }}">{{ link[0] }}</a>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-        {% endfor %}
+		
+		<div class="grid" data-columns>
+			{% for miembro in site.miembros %}
+			<div class="card">
+				{% if miembro.photo %}
+				<div class="card-image">
+					<img class="miembro-image" src="{{ site.url }}/assets/img/{{ miembro.photo }}">
+				</div>
+				{% endif %}
+				<div class="card-stacked">
+					<div class="card-content">
+						<span class="card-title">{{ miembro.name }}</span>
+						{% if miembro.cargo %}
+						<h6><i>{{ miembro.cargo }}</i></h6>
+						{% endif %}
+						<p>{{ miembro.bio }}</p>
+					</div>
+					<div class="card-action">
+						{% for link in miembro.social %}
+						{% if link[0] == "mail" %}
+						<a class="blue-text" href="mailto:{{ link[1] }}">{{ link[0] }}</a>
+						{% else %}
+						<a class="blue-text" href="{{ link[1] }}">{{ link[0] }}</a>
+						{% endif %}
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
     </div>
 
     <!-- Footer -->
