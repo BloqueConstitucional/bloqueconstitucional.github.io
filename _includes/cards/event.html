@@ -21,6 +21,9 @@
         </div>
     </a>
     <div class="card-action">
-        <a class="blue-text" href="{{ site.url }}{{ include.event.url }}">ver nota</a>
+        <a class="blue-text" href="{{ site.url }}{{ include.event.url }}">detalles</a>
+        {% if include.event.external %}
+        <a class="blue-text" href="{{ include.event.external }}">eventbrite</a>
+        {% endif %}
     </div>
 </div>
