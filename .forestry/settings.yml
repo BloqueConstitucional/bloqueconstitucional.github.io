@@ -7,7 +7,6 @@ sections:
 - type: document
   path: candidatos/index.md
   label: Candidatos de Campaña (secundarios)
-  match: "**/*"
 - type: directory
   path: _candidatos
   label: Candidatos de Campaña (principales)
