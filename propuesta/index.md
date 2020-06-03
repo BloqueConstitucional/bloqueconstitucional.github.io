@@ -1,6 +1,6 @@
 ---
-layout: propuesta
-title: Qué queremos
+layout: default
+title: Qué Queremos
 
 ---
 # ¿Qué es Bloque Constitucional?

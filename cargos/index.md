@@ -1,5 +1,5 @@
 ---
-layout: cargos
+layout: default
 title: Cargos
 
 ---
