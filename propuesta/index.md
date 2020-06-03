@@ -1,5 +1,5 @@
 ---
-layout: propuesta
+layout: default
 title: Qué Queremos
 
 ---
