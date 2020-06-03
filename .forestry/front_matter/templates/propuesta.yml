@@ -11,5 +11,6 @@ fields:
   label: title
   hidden: true
 pages:
+- cargos/index.md
 - propuesta-campaign/index.md
 - propuesta/index.md

@@ -1,6 +1,7 @@
 ---
 layout: cargos
 title: Cargos
+
 ---
 ### **CARGOS DE BLOQUE CONSTITUCIONAL**
 ##### **EN EL COLEGIO PUBLICO DE ABOGADOS DE LA CAPITAL FEDERAL**
