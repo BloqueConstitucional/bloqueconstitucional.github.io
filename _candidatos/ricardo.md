@@ -5,7 +5,7 @@ bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem
   exercitation ullamco laboris nisi ut aliquip ex ea
 photo: ricardo.jpg
 cargo: Delegado
-order: 0
+order: 
 social:
   twitter: https://twitter.com/thejaime
   web: https://jaimeman.com
