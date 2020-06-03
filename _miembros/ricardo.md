@@ -11,5 +11,4 @@ social:
   facebook: https://facebook.com/
   linkedin: https://linkedin.com/in/
   telegram: https://t.me/
-
 ---
