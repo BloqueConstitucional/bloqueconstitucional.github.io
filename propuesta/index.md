@@ -1,6 +1,6 @@
 ---
 layout: propuesta
-title: Qué queremos
+title: "¿Qué es Bloque Constitucional?"
 
 ---
 # ¿Qué es Bloque Constitucional?
