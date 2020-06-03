@@ -1,8 +1,8 @@
 ---
 layout: candidatos
 title: Candidatos
----
 
+---
 ##### **Consejo Directivo**
 
 Consejero suplente: PUSINERI, Pedro Pablo
