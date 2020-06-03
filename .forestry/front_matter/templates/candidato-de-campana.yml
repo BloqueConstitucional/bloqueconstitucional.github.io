@@ -15,8 +15,7 @@ fields:
   label: Biografía
 - type: number
   name: order
-  description: Orden y forma de display. Repetir entradas sin problema.<br>0 y 1 candidatos
-    principales<br>2, en adelante candidatos menores
+  description: Nº más pequeño -&gt; más arriba
   label: Orden de display
   config:
     required: true
