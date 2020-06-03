@@ -9,6 +9,7 @@ fields:
 - type: textarea
   name: description
   label: description
+  hidden: true
 - type: text
   name: motto
   label: motto
@@ -42,6 +43,7 @@ fields:
 - type: text
   name: current_campaign
   label: current_campaign
+  hidden: true
 - type: field_group
   name: collections
   label: collections
