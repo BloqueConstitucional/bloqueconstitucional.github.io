@@ -7,15 +7,12 @@ fields:
   label: Nombre
   config:
     required: true
-- type: textarea
-  name: bio
-  label: Biografía
-- type: file
-  name: photo
-  label: Foto
 - type: text
   name: cargo
   label: Cargo
+- type: textarea
+  name: bio
+  label: Biografía
 - type: number
   name: order
   description: Orden y forma de display. Repetir entradas sin problema.<br>0 y 1 candidatos
@@ -25,6 +22,9 @@ fields:
     required: true
     min: 0
   default: 0
+- type: file
+  name: photo
+  label: Foto
 - type: field_group
   name: social
   label: social
