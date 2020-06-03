@@ -12,3 +12,4 @@ fields:
   hidden: true
 pages:
 - propuesta-campaign/index.md
+- propuesta/index.md

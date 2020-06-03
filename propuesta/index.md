@@ -1,6 +1,7 @@
 ---
 layout: propuesta
 title: Qué queremos
+
 ---
 # ¿Qué es Bloque Constitucional?
 
