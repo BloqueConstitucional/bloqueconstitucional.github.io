@@ -26,6 +26,8 @@ sections:
   label: Miembros
   create: documents
   match: "**/*"
+  templates:
+  - miembro
 - type: directory
   path: _eventos
   label: Eventos
