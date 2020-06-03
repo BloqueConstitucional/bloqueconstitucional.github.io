@@ -48,5 +48,6 @@ fields:
     name: telegram
     label: telegram
 pages:
+- _candidatos/ricardo copy 3.md
 - _candidatos/ricardo copy.md
 - _candidatos/ricardo.md
