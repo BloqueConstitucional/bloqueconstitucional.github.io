@@ -18,6 +18,9 @@
             {% else %}
             <p>{{ include.event.content | truncate:200 }}</p>
             {% endif %}
+            {% if include.event.price != 0 %}
+            <p>La entrada tiene un coste de ${{ include.event.price }}</p>
+            {% endif %}
         </div>
     </a>
     <div class="card-action">

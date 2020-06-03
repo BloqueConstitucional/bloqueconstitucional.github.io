@@ -5,7 +5,7 @@ date: 2020-05-03
 feature: basta-de-feria.jpg
 event_date: 2020-08-28
 place: Palacio de Justicia
-price: 0
+price: 100
 description: Marcha al Palacio de Justicia
 external: https://eventbrite.com/asdf
 ---
@@ -14,4 +14,4 @@ La primera propuesta para ello consiste en declarar “de inmediato y con carác
 La petición se encuentra alineada con las dos Acordadas aprobadas ayer por el máximo Tribunal, que prevén habilitar la presentación de expedientes nuevos totalmente online a partir del próximo 20 de abril, y habilitan la firma electrónica y los acuerdos virtuales para todos los jueces y funcionarios del Poder Judicial de la Nación.
 La propuesta de BLOQUE CONSTITUCIONAL va más lejos, ya que contempla también la realización de audiencias por teleconferencia, presentación de pericias digitalmente y el diligenciamiento de oficios y mandamientos, entre otros pasos normales de los procesos judiciales.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VNh7jD1ZAT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VNh7jD1ZAT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
