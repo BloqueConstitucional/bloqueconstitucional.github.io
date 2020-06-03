@@ -14,7 +14,6 @@
 
         {% assign candidatos_sorted = site.candidatos | sort: "order" %}
         {% for candidato in candidatos_sorted %}
-        {% if candidato.order <= 1 %}
         <div class="card responsive-horizontal">
             {% if candidato.photo %}
             <div class="card-image">
@@ -40,10 +39,11 @@
                 </div>
             </div>
         </div>
-        {% else %}
-        <h5><a href="{{ candidato.social }}">{{ candidato.name }} - {{ candidato.cargo }}</a></h5>
-        {% endif %}
         {% endfor %}
+
+        <br>
+        <h4>Otros Candidatos</h4>
+        {{ content }}
     </div>
 
     <!-- Footer -->
