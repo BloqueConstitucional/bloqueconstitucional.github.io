@@ -54,4 +54,5 @@ fields:
     description: https://t.me/ejemplo
   description: Links a redes sociales
 pages:
+- _miembros/ricardo copy.md
 - _miembros/ricardo.md
