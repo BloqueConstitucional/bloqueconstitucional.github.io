@@ -22,7 +22,7 @@ fields:
   fields:
   - type: text
     name: twitter
-    label: Twitterr
+    label: Twitter
     default: ''
     description: https://twitter.com/ejemplo
   - type: text
