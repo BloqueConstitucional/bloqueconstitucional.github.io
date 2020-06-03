@@ -9,6 +9,8 @@ sections:
   label: Candidatos de Campaña
   create: documents
   match: "**/*"
+  templates:
+  - candidato-de-campana
 - type: document
   path: propuesta-campaign/index.md
   label: Propuesta de Campaña
