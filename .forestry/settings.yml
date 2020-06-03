@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: candidatos/index.md
+  label: Candidatos de Campaña (secundarios)
+  match: "**/*"
 - type: directory
   path: _candidatos
   label: Candidatos de Campaña (principales)
