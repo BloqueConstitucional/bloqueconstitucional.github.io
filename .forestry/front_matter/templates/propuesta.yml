@@ -10,3 +10,5 @@ fields:
   name: title
   label: title
   hidden: true
+pages:
+- propuesta-campaign/index.md
