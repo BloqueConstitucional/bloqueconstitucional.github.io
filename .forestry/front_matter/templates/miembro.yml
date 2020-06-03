@@ -8,6 +8,11 @@ fields:
 - type: textarea
   name: bio
   label: Biografía
+- name: cargo
+  type: text
+  config:
+    required: false
+  label: Cargo
 - type: file
   name: photo
   label: Foto
