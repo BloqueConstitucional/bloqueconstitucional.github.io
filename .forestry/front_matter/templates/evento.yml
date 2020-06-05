@@ -15,7 +15,7 @@ fields:
     required: true
 - type: datetime
   name: date
-  label: Fecha de publicación (hoy)
+  label: Fecha del evento
   config:
     date_format: DD/MM/YYYY
     export_format: YYYY-MM-DD
@@ -26,12 +26,6 @@ fields:
   name: feature
   label: Flyer o banner
   default: "/assets/img/default.png"
-- type: datetime
-  name: event_date
-  label: Fecha del evento
-  config:
-    date_format: DD/MM/YYYY
-    export_format: YYYY-MM-DD
 - type: text
   name: place
   label: Lugar
