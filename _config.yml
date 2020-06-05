@@ -16,6 +16,8 @@ collections:
     output: true
   candidatos:
     output: true
+  publicaciones:
+    output: true
 plugins:
 - jekyll-feed
 - jekyll-tagories

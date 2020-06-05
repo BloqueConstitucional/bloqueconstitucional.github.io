@@ -4,6 +4,8 @@
    children:
      - title: Bloque Constitucional
        url: /propuesta/
+     - title: Ideas
+       url: /publicaciones/
      - title: Miembros
        url: /miembros/
      - title: Cargos
