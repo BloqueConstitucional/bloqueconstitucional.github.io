@@ -38,4 +38,5 @@ fields:
   name: description
   label: Descripción
 pages:
+- _eventos/asdf.app
 - _posts/2020-05-19-teste.md
