@@ -1,9 +1,9 @@
 ---
 layout: event
-datetime: 12/6/2020 11:00
+datetime: 10/06/2020 8:00 PM
 feature: "/assets/img/default.png"
 price: 0
-title: asdf
+title: Fds
 place: ''
 description: ''
 
