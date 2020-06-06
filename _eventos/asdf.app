@@ -6,6 +6,5 @@ price: 0
 title: asdf
 place: ''
 description: ''
-published: false
 
 ---
