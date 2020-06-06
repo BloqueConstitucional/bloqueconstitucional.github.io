@@ -7,6 +7,8 @@ social:
   web: https://jaimeman.com
   mail: jaime.rodriguez@gmail.com
   facebook: https://facebook.com/asdfasdf/
-  linkedin: https://linkedin.com/in/
-  telegram: https://t.me/
+  linkedin: ''
+  telegram: https://t.me/12345432234
+cargo: ''
+
 ---
