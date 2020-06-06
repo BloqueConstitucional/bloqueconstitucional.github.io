@@ -18,9 +18,9 @@ fields:
   label: Fecha del evento
   config:
     date_format: DD/MM/YYYY
-    export_format: DD/MM/YYYY h:mm
+    export_format: DD/MM/YYYY h:mm A
     required: true
-    time_format: h:mm
+    time_format: h:mm A
     display_utc: false
   default: now
   hidden: false
