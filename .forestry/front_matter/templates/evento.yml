@@ -17,8 +17,8 @@ fields:
   name: date
   label: Fecha del evento
   config:
-    date_format: DD/MM/YYYY
-    export_format: MM/DD/YYYY h:mm A ZZ
+    date_format: DD/MM/YYYY h:mm
+    export_format: DD/MM/YYYY h:mm
     required: true
     time_format: ''
   default: now
@@ -38,5 +38,4 @@ fields:
   name: description
   label: Descripción
 pages:
-- _eventos/asdf.app
 - _posts/2020-05-19-teste.md
