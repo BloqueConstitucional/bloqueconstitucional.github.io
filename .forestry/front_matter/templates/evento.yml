@@ -14,13 +14,14 @@ fields:
   config:
     required: true
 - type: datetime
-  name: date
+  name: datetime
   label: Fecha del evento
   config:
     date_format: DD/MM/YYYY
-    export_format: MM/DD/YYYY h:mm A ZZ
+    export_format: DD/MM/YYYY h:mm
     required: true
-    time_format: ''
+    time_format: h:mm
+    display_utc: false
   default: now
   hidden: false
 - type: file
@@ -38,5 +39,4 @@ fields:
   name: description
   label: Descripción
 pages:
-- _eventos/asdf.app
 - _posts/2020-05-19-teste.md
