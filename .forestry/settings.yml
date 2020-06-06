@@ -38,7 +38,7 @@ sections:
   label: Eventos
   create: documents
   match: "**/*"
-  new_doc_ext: app
+  new_doc_ext: md
   templates:
   - evento
 - type: directory
