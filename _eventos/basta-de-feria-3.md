@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Evento 0"
-date: 2020-08-28
+datetime: 28/8/2020 18:30
 feature: basta-de-feria.jpg
 place: Palacio de Justicia
 price: 0

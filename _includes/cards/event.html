@@ -2,11 +2,16 @@
     {% if include.event.feature %}
     <a class="black-text" href="{{ site.url }}{{ include.event.url }}">
         <div class="card-image">
+            {% assign feature_url = include.event.feature | slice: 0 %}
+            {% if feature_url == "/" %}
+            <img src="{{ site.url }}{{ include.event.feature }}">
+            {% else %}
             <img src="{{ site.url }}/assets/img/{{ include.event.feature }}">
+            {% endif %}
         </div>
         <div class="event-date">
             <span>
-                {{ include.event.date | date: '%d/%b/%Y' }}
+                {{ include.event.datetime | date: '%d/%b/%Y - %H:%M' }}
             </span>
         </div>
         {% endif %}

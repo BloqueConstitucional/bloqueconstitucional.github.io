@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Evento 2"
-date: 2020-07-05
+datetime: 21/7/2020
 feature: basta-de-feria.jpg
 place: online
 price: 0
