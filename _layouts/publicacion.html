@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body class="black-text">
+    {% include nav.html %}
+    {% include sidenav.html %}
+    {% include addons/social_bar.html %}
+
+    {% include addons/scroll_indicator.html %}
+
+    <!-- Body -->
+    <div class="container">
+        {% if page.feature and page.feature != "default.png" %}
+        <div class="post-feature-wrapper">
+            {% if page.feature[0] == "/" %}
+            <img src="{{ site.url }}{{ page.feature }}">
+            {% else %}
+            <img src="{{ site.url }}/assets/img/{{ page.feature }}">
+            {% endif %}
+        </div>
+        {% endif %}
+        <div class="publicacion-title-container">
+            <h3>{{ page.title }}</h3>
+            <p class="read-time">
+                <i class="read-icon material-icons">watch_later</i>
+                <i>
+                    {% include addons/read_time.html %}
+                </i>
+            </p>
+            <p>Autor: {{ page.author }}</p>
+        </div>
+        <div class="post-tags">
+            {% include addons/tags.html %}
+        </div>
+        <div class="justified content cap-first">
+            {{ content }}
+        </div>
+
+        <!-- Share -->
+        {% include addons/share_buttons.html %}
+
+    </div>
+
+    {% include footer.html %}
+</body>
+
+</html>

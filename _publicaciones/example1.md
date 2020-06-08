@@ -1,4 +1,5 @@
 ---
+layout: publicacion
 title: Example
 author: Jaime de Sevilla
 link: https://medium.com/asdf

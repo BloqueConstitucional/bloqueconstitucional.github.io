@@ -46,3 +46,32 @@ h1 {
 .text-center {
     text-align: center;
 }
+
+
+// Custom Scrollbar
+// width
+::-webkit-scrollbar {
+  width: 6px;
+}
+ 
+// Handle
+::-webkit-scrollbar-thumb {
+  background: #4b4b4b; 
+  border-radius: 10px;
+}
+
+// Handle on hover
+::-webkit-scrollbar-thumb:hover {
+  background: #adadad; 
+}
+
+
+.cap-first {
+    > p:first-of-type:first-letter {
+        float: left;
+        width: 0.7em;
+        font-size: 350%;
+        line-height: 80%;
+        margin: 0  15px 0 0;
+    }
+}
