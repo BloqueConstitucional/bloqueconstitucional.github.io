@@ -21,7 +21,7 @@ fields:
     export_format: DD/MM/YYYY h:mm A
     required: true
     time_format: h:mm A
-    display_utc: false
+    display_utc: true
   default: now
   hidden: false
 - type: file
