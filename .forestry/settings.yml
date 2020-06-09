@@ -5,6 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _config.yml
+  label: Config General
+- type: document
   path: propuesta/index.md
   label: "¿Qué es Bloque Constitucional?"
 - type: directory
@@ -52,9 +55,6 @@ sections:
   new_doc_ext: md
   templates:
   - evento
-- type: document
-  path: _config.yml
-  label: Config General
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
