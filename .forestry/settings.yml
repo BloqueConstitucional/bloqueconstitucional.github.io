@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: propuesta/index.md
+  label: "¿Qué es Bloque Constitucional?"
 - type: directory
   path: _publicaciones
   label: Posts largos
@@ -11,9 +14,19 @@ sections:
   match: "**/*"
   templates:
   - post-largo
+- type: directory
+  path: _miembros
+  label: Miembros
+  create: documents
+  match: "**/*"
+  templates:
+  - miembro
 - type: document
-  path: candidatos/index.md
-  label: Candidatos de Campaña (secundarios)
+  path: cargos/index.md
+  label: Cargos
+- type: document
+  path: propuesta-campaign/index.md
+  label: Propuesta de Campaña
 - type: directory
   path: _candidatos
   label: Candidatos de Campaña (principales)
@@ -22,24 +35,15 @@ sections:
   templates:
   - candidato-de-campana
 - type: document
-  path: propuesta-campaign/index.md
-  label: Propuesta de Campaña
-- type: document
-  path: _config.yml
-  label: Config General
-- type: document
-  path: cargos/index.md
-  label: Cargos
-- type: document
-  path: propuesta/index.md
-  label: "¿Qué es Bloque Constitucional?"
+  path: candidatos/index.md
+  label: Candidatos de Campaña (secundarios)
 - type: directory
-  path: _miembros
-  label: Miembros
+  path: _posts
+  label: Posts
   create: documents
   match: "**/*"
   templates:
-  - miembro
+  - post
 - type: directory
   path: _eventos
   label: Eventos
@@ -48,13 +52,9 @@ sections:
   new_doc_ext: md
   templates:
   - evento
-- type: directory
-  path: _posts
-  label: Posts
-  create: documents
-  match: "**/*"
-  templates:
-  - post
+- type: document
+  path: _config.yml
+  label: Config General
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
