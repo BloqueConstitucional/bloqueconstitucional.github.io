@@ -6,10 +6,6 @@ fields:
   name: title
   label: title
   hidden: true
-- type: textarea
-  name: description
-  label: description
-  hidden: true
 - type: text
   name: motto
   label: motto
@@ -40,10 +36,6 @@ fields:
 - type: text
   name: youtube_link
   label: youtube_link
-- type: text
-  name: current_campaign
-  label: current_campaign
-  hidden: true
 - type: field_group
   name: collections
   label: collections
