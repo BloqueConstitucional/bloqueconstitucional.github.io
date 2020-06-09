@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: _publicaciones/**/*
+  path: _publicaciones
   label: Posts largos
   create: documents
   match: "**/*"
