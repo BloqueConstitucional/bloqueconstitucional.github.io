@@ -18,6 +18,8 @@ collections:
     output: true
   publicaciones:
     output: true
+  campaign:
+    output: false
 plugins:
 - jekyll-feed
 - jekyll-tagories
@@ -33,4 +35,6 @@ exclude:
 - TODO
 words_per_minute: 300
 campaign: Campaña CPACF 2020
-is_campaing: true
+is_campaing: false
+description: ''
+current_campaign: ''
