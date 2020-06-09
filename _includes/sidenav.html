@@ -15,6 +15,16 @@
     <li>
         <ul class="collapsible collapsible-accordion collapsible-sidenav">
             <li class="active">
+                {% if link.title == "campaign_name" and site.is_campaing %}
+                <a class="collapsible-header" tabindex="0">{{ site.campaign }}</a>
+                <div class="collapsible-body">
+                    <ul>
+                        {% for sublink in link.children %}
+                        <li><a href="{{ site.url }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% elsif link.title != "campaign_name" %}
                 <a class="collapsible-header" tabindex="0">{{ link.title }}</a>
                 <div class="collapsible-body">
                     <ul>
@@ -23,6 +33,7 @@
                         {% endfor %}
                     </ul>
                 </div>
+                {% endif %}
             </li>
         </ul>
     </li>

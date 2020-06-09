@@ -24,9 +24,15 @@
                 </li>
                 {% elsif link.children %}
                 <li>
+                    {% if link.title == "campaign_name" and site.is_campaing %}
                     <a href='#' data-target='dropdown{{ forloop.index }}'
-                        class="dropdown-trigger black-text"> {{ link.title }}
+                        class="dropdown-trigger black-text"> {{ site.campaign }}
                         <i class="material-icons right">arrow_drop_down</i> </a>
+                    {% elsif link.title != "campaign_name" %}
+                    <a href='#' data-target='dropdown{{ forloop.index }}'
+                        class="dropdown-trigger black-text">{{ link.title }}
+                        <i class="material-icons right">arrow_drop_down</i> </a>
+                    {% endif %}
                 </li>
                 <!-- Dropdown Structure -->
                 <ul id='dropdown{{ forloop.index }}' class='dropdown-content'>

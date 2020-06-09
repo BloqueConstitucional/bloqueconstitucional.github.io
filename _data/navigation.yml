@@ -10,7 +10,7 @@
        url: /miembros/
      - title: Cargos
        url: /cargos/
- - title: Campaña CPACF 2020 
+ - title: campaign_name 
    children:
      - title: Propuestas
        url: /propuesta-campaign/
