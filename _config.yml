@@ -36,5 +36,3 @@ exclude:
 words_per_minute: 300
 campaign: Campaña CPACF 2020
 is_campaing: true
-description: ''
-current_campaign: ''
