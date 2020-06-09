@@ -10,10 +10,6 @@
 
     <!-- Body -->
     <div class="container">
-        <h3>{{ page.title }}</h3>
-        <div class="post-tags">
-            {% include addons/tags.html %}
-        </div>
         {% if page.feature != "default.png" %}
         <div class="post-feature-wrapper">
             {% if page.feature[0] == "/" %}
@@ -23,6 +19,12 @@
             {% endif %}
         </div>
         {% endif %}
+        <div class="title-container">
+            <h3>{{ page.title }}</h3>
+            <div class="post-tags">
+                {% include addons/tags.html %}
+            </div>
+        </div>
         <div class="justified content">
             {{ content }}
         </div>
