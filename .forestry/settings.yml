@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _data/navigation.yml
+  label: Navegación
+  match: "**/*"
+- type: document
   path: candidatos/index.md
   label: Candidatos de Campaña (secundarios)
 - type: directory
