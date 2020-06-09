@@ -9,6 +9,8 @@ sections:
   label: Posts largos
   create: documents
   match: "**/*"
+  templates:
+  - post-largo
 - type: document
   path: candidatos/index.md
   label: Candidatos de Campaña (secundarios)
