@@ -15,11 +15,10 @@
         {% include feature.html %}
 
         <!-- Campaña -->
-        <!-- <h3>Estamos de Campaña</h3>
-        <a class="ver-mas" href="{{ site.url }}/campaign">
-            <i class="fas fa-arrow-alt-circle-right"></i>
-            <span>ver más</span>
-        </a> -->
+        {% if site.is_campaign %}
+        <h3>Estamos de Campaña</h3>
+        {% include grids/campaign_grid.html %}
+        {% endif %}
 
         <!-- Novedades -->
         <h3>Novedades</h3>

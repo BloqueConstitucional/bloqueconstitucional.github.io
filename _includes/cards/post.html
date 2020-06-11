@@ -4,12 +4,7 @@
     {% if include.post.feature %}
     <a class="black-text" href="{{ site.url }}{{ include.post.url }}">
         <div class="card-image">
-            {% assign feature_url = include.post.feature | slice: 0 %}
-            {% if feature_url == "/" %}
             <img src="{{ site.url }}{{ include.post.feature }}">
-            {% else %}
-            <img src="{{ site.url }}/assets/img/{{ include.post.feature }}">
-            {% endif %}
         </div>
         {% endif %}
         <div class="card-content">

@@ -12,11 +12,7 @@
     <div class="container">
         {% if page.feature != "default.png" %}
         <div class="post-feature-wrapper">
-            {% if page.feature[0] == "/" %}
             <img src="{{ site.url }}{{ page.feature }}">
-            {% else %}
-            <img src="{{ site.url }}/assets/img/{{ page.feature }}">
-            {% endif %}
         </div>
         {% endif %}
         <div class="title-container">

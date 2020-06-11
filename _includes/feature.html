@@ -1,16 +1,16 @@
 <div class="row">
     {% for event in site.eventos %}
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-    {% capture posttime %}{{ event.event_date | date: '%s' }}{% endcapture %}
+    {% capture posttime %}{{ event.datetime | date: '%s' }}{% endcapture %}
     {% if posttime > nowunix %}
     <div class="card responsive-horizontal">
         <div class="card-image">
-            <img src="{{ site.url }}/assets/img/{{ event.feature }}">
+            <img src="{{ site.url }}{{ event.feature }}">
         </div>
         <div class="card-stacked">
             <div class="card-content">
                 <h4>{{ event.title }}</h4>
-                <p>Fecha: <b>{{ event.event_date | date: '%d/%m/%Y' }}</b></p>
+                <p>Fecha: <b>{{ event.datetime | date: '%d/%b/%Y - %H:%M' }}</b></p>
                 <p>Lugar: <b>{{ event.place }}</b></p>
                 <br>
                 <p>

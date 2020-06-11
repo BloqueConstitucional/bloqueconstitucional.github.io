@@ -2,7 +2,7 @@
 layout: event
 title: "Evento 1"
 datetime: 01/7/2020 12:00
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 place: Palacio de Justicia
 price: 100
 description: Marcha al Palacio de Justicia

@@ -1,5 +1,5 @@
 <div class="grid" data-columns>
-    {% for event in site.eventos %}
+    {% for event in site.eventos limit:include.limit %}
     {% include cards/event.html event=event %}
     {% endfor %}
 </div>

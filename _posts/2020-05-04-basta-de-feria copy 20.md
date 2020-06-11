@@ -3,7 +3,7 @@ layout: post
 title: "¡BASTA DE FERIA! Title 04"
 date: 2020-05-04
 author: Ricardo Mihura
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 tags:
 - congreso
 - abogados

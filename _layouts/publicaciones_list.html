@@ -17,8 +17,7 @@
             <div class="card">
                 {% if publicacion.photo %}
                 <div class="card-image">
-                    <img class="miembro-image"
-                        src="{{ site.url }}/assets/img/{{ publicacion.photo }}">
+                    <img class="miembro-image" src="{{ site.url }}{{ publicacion.photo }}">
                 </div>
                 {% endif %}
                 <div class="card-content">

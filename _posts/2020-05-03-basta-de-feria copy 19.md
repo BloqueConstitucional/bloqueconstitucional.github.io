@@ -3,7 +3,7 @@ layout: post
 title: Title 03
 date: 2020-05-03
 author: "Ricardo Mihura"
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 tags: [libertad]
 ---
 

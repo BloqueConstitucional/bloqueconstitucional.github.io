@@ -15,8 +15,8 @@
     <li>
         <ul class="collapsible collapsible-accordion collapsible-sidenav">
             <li class="active">
-                {% if link.title == "campaign_name" and site.is_campaing %}
-                <a class="collapsible-header" tabindex="0">{{ site.campaign }}</a>
+                {% if link.title == "campaign_name" and site.is_campaign %}
+                <a class="collapsible-header" tabindex="0">{{ site.campaign_name }}</a>
                 <div class="collapsible-body">
                     <ul>
                         {% for sublink in link.children %}

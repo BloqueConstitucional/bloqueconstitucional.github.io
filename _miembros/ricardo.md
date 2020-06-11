@@ -1,7 +1,7 @@
 ---
 name: Ricardo Mihura
 bio: ''
-photo: ricardo.jpg
+photo: /assets/img/ricardo.jpg
 social:
   twitter: https://twitter.com/thejaime
   web: https://jaimeman.com

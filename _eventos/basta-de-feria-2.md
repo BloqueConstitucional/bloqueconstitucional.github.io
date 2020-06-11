@@ -2,7 +2,7 @@
 layout: event
 title: "Evento 2"
 datetime: 21/7/2020
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 place: online
 price: 0
 description: Webinar Online por zoom

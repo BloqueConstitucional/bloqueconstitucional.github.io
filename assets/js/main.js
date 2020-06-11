@@ -21,6 +21,8 @@ let _tagScrollCorrect = function () {
 window.onscroll = function () { myFunction(); };
 
 function myFunction() {
+    if (!document.getElementById("scroll-indicator"))
+        return;
     var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
     var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
     var scrolled = (winScroll / height) * 100;
