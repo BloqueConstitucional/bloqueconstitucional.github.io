@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Emergencia 2020: la tarea pendiente del Poder Judicial'
+date: 2020-03-31
+author: Marcelo Gobbi
+feature: ''
+tags:
+- libertad
+- COVID
+- justicia
+- Feria
+- CSJN
+
+---
+Pocas horas después del atentado del 9/11, el entonces alcalde de Nueva York apareció con casco, barbijo y ropa de bombero en medio de los escombros prometiendo reconstrucción y que la vida seguiría. Podría pensarse que la presencia allí de Giuliani no sirvió para agilizar la reconstrucción de nada ni para rescatar a nadie. O, al revés, que hizo bien en disfrazarse para comunicar, como líder, que se ponía al frente del problema, que no se iba precisamente a descansar, y así motivar a más de uno que tenía que cavar para ver si encontraba a alguien más con vida.
+
+En la Argentina, es por lo menos discutible el acierto de haber decretado una reducción casi total de las actividades del Poder Judicial de la Nación con motivo de la pandemia de coronavirus. Pero incluso si uno aprobara la medida, ésta sabe a poco desde la perspectiva de la calidad del liderazgo de quienes gestionan un poder del estado.
+
+Nadie (menos yo, que no soy médico ni economista), está en condiciones de tomar partido en el dilema que enfrenta, por un lado, a consideraciones epidemiológicas, y por el otro a necesidades sociales, familiares, laborales y económicas. No sé a cuánta gente matará el virus, pero tampoco a cuánta matarán la recesión, el desempleo o el simple y dramático hecho de que mucha gente no come si no trabaja o si no cobra la indemnización, los alimentos, el alquiler, o alguien cuyas condiciones de internación no son revisadas a tiempo por un juez de familia. Detrás de cada “expediente” hay un problema humano.
+
+Nadie, tampoco, podría ser tan insensato de pretender que todos los servicios de que nos valemos los seres humanos funcionen hoy normalmente, pero el punto de partida siempre es cultural: puede verse un juzgado como un inmueble donde se atienden personas o como una organización de servicios que gestiona la información que recibe en reuniones que llamamos audiencias o mediante escritos creados digitalmente, y que comunica del mismo modo las decisiones que toma. Todo lo demás es instrumental a ese ida y vuelta de información, diga lo que diga la gente que convierte lo elemental en una "especialidad" hermética para explicar por qué no pueden hacerse las cosas. En "Un tal Lucas" Cortázar escribió: _en algún lugar del mundo debe haber un basural donde se amontonan todas las explicaciones._
+
+La Corte está todavía a tiempo dar un golpe de timón y anunciar de inmediato:
+
+1\. Que va a trabajar intensamente con sus informáticos durante esta feria para completar la digitalización de los procesos de modo que nadie, ni los funcionarios judiciales ni los usuarios del servicio, deban concurrir en el futuro a una oficina para dejar papeles, copiar resoluciones o hablar con alguien, que es para lo que van la abrumadora mayoría de las veces. Los informáticos no necesitan salir de sus casas para trabajar. Los jueces, tampoco. No tienen que tocarle la rodilla a nadie, martillar sobre ninguna superficie ni amasar preparaciones. Son trabajadores de la información, gente que trabaja con lo que no se toca. De hecho, muchos van poco a sus oficinas y eso no tiene nada de malo (yo también voy poco a la mía y trabajo a veces desde otro país). Y no importa si no pueden encontrar las soluciones muy rápidamente. Servirán también cuando se haya ido la pandemia y aunque no venga otra.
+
+2\. La orden de generalizar de inmediato la videoconferencia para tomar las audiencias urgentes “de feria” mediante cualquier herramienta gratuita que los jueces usan en su vida privada. Como me hizo notar un especialista, el “cuco” de la suplantación de identidad es un cuento chino, porque tampoco se evita con firma y sello ya que a ningún abogado le toman la huella digital en una mesa de entradas, muchas veces manda a otro a llevar el escrito. Algunas sólo podrán tomarse presencialmente con personal mínimo y distanciado en una oficina (nadie exigirá que utilice Google Hangouts o Zoom o Amazon Chime o Skype alguien que denuncia violencia doméstica): para eso hay que evitar todas las demás.
+
+3\. La orden de tomar las audiencias suspendidas lo antes posible por la tarde cuando la situación sanitaria lo permita (como sugirió Fores en una [declaracion](https://foresjusticia.org/2020/03/18/coronavirus-cuidar-la-salud-y-tambien-el-servicio-de-justicia/)), para recuperar algo del servicio no prestado a quienes no cobran un salario y pagan los del sector público.
+
+4\. La designación de los abogados como depositarios judiciales de documentos originales para que no sea necesario llevar ningún papel a un tribunal. Irían presos si los destruyeran o alteraran.
+
+Además de objetivamente necesario, sería beneficioso para la imagen de un poder acorralado entre iniciativas políticas que pretenden sujetarlo y una creciente percepción social de que sus integrantes “hacen poco y ganan mucho”. Hay algo cierto: es el poder que mejor gana y que tiene la mayor proporción de empleados de nivel universitario. Es razonable entonces exigirles más que a otros. Por ahora, la Corte camina en sentido contrario: tres jueces se ocuparon de destacar en el texto de una acordada que dos no estaban en la ciudad cuando había que resolver algo (sería igual de grave que creyeran tener algo más importante que hacer o que estuvieran descansando) y al día siguiente uno de los ausentes publicó en un diario una reflexión sobre aspectos morales de la pandemia.
+
+Cuando terminaba este comentario, vi la información de la empresa de cobertura médica de que durante la emergencia no exigirá la prescripción de papel y la firma del paciente en las farmacias. El proceso absurdo que hay que cumplir para adquirir un medicamento de prescripción está hecho, me parece, a propósito con fines disuasorios: si fuera eficiente y se reemplazara la incomprensible cantidad de papeles, de requisitos formales y controles analógicos cruzados, un sistema fuertemente regulado tal vez no podría pagar el aumento del consumo que traería hacerlo más amigable. Pero la judicatura no debería temer a un aumento de la demanda. Hay suficientes barreras de acceso que ya son disuasorias y que dependen de otros: la duración de procesos irracionalmente diseñados, la obligación de contratar abogados incluso cuando no hacen falta, la tasa de justicia, los honorarios. No hace falta por ahora tener miedo a la eficiencia.
+
+También hay "monopolistas" que buscan prestar su servicio lo mejor que pueden. Vi la nota del New York Times que resume los esfuerzos que hace la justicia neoyorkina (que tiene procesos principalmente orales) para seguir funcionando, la Coronavirus Act que acaba de aprobar el Parlamento de Gran Bretaña para generalizar audioconferencias y videoconferencias en los procesos judiciales, y el anuncio del Poder Judicial del Perú de que para tomar las audiencias durante este tiempo se ha sucripto al servicio Google Hangouts Meet ideado para gestionar reuniones. El colegio de abogados porteño había pedido la feria, pero después reclamó ciertas medidas de excepción cuando descubrió la obviedad de que muchos abogados viven del avance de los procesos.
+
+Les convendría a los jueces buscar la eficiencia para defenderse mejor de las tormentas que los amenazan por todas partes y para que todos nos encolumnáramos detrás de ellos con más energía cuando se trate de defender a la Constitución, que ese es otro tema.
