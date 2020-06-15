@@ -2,10 +2,10 @@
 label: Config General
 hide_body: true
 fields:
-- name: is_campaing
+- name: is_campaign
   type: boolean
   label: En campaña
-- name: campaign
+- name: campaign_name
   type: textarea
   default: ''
   config:
