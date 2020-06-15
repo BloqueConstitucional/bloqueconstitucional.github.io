@@ -2,6 +2,20 @@
 label: Config General
 hide_body: true
 fields:
+- name: is_campaing
+  type: boolean
+  label: En campaña
+- name: campaign
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Nombre de Campaña
+  showOnly:
+    value: true
 - type: text
   name: title
   label: title
@@ -92,19 +106,5 @@ fields:
   name: exclude
   label: exclude
   hidden: true
-- name: is_campaing
-  type: boolean
-  label: En campaña
-- name: campaign
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Nombre de Campaña
-  showOnly:
-    value: true
 pages:
 - _config.yml
