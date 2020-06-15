@@ -36,6 +36,11 @@ fields:
 - type: text
   name: youtube_link
   label: youtube_link
+- name: spotify_link
+  type: text
+  config:
+    required: false
+  label: spotify_link
 - type: field_group
   name: collections
   label: collections
@@ -101,10 +106,5 @@ fields:
   label: Nombre de Campaña
   showOnly:
     value: true
-- name: spotify_link
-  type: text
-  config:
-    required: false
-  label: spotify_link
 pages:
 - _config.yml
