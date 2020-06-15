@@ -3,7 +3,7 @@ layout: post
 title: Basta de feria extra(?)ordinaria.
 date: 2020-05-05
 author: Ricardo Mihura
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 tags:
 - balance
 - libertad

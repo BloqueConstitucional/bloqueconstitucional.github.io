@@ -2,9 +2,9 @@
 layout: event
 title: Presentación de propuestas a la CSJN
 datetime: 14/04/2020 9:56 AM
-feature: basta-de-feria.jpg
+feature: /assets/img/basta-de-feria.jpg
 place: Palacio de Justicia
-price: ''
+price: 0
 description: Presentación y propuestas para el levantamiento de la feria judicial.
 external: https://eventbrite.com/asdf
 
