@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Basta de feria extra(?)ordinaria.
-date: 2020-05-05
+title: BASTA DE FERIA!
+date: 2020-04-14
 author: Ricardo Mihura
-feature: /assets/img/basta-de-feria.jpg
+feature: "/assets/img/basta-de-feria.jpg"
 tags:
-- balance
 - libertad
+- feria
+- justicia
+- CJSN
+- COVID
 
 ---
 La República necesita que la Justicia se reinicie plenamente y así lo hemos solicitado a la Corte Suprema, con propuesta de medidas concretas, que pueden verse en [este documento](https://1drv.ms/b/s!Ah0sfoie1drYh4wSm2RlqDpmeE6y6A?e=NSso0y)
