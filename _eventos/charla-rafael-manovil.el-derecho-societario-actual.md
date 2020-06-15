@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Charla Héctot Mairal
+title: Charla Rafael Manóvil. El derecho societario actual.
 datetime: 15/05/2020 3:00 PM
 feature: "/assets/img/eagcn9bxgaexzsi.jpg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
@@ -8,6 +8,7 @@ place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad d
 price: 0
 description: La Creciente desprotección de la propiedad privada en el derecho público
   argentino.
+published: false
 
 ---
 
