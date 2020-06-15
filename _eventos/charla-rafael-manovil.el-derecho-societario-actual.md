@@ -11,8 +11,8 @@ description: Sobre el progreso y el retroceso en el derecho societario argentino
 ---
 La podes volver a ver por Youtube:
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/b8ItdoiqInY](https://www.youtube.com/embed/b8ItdoiqInY "https://www.youtube.com/embed/b8ItdoiqInY")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b8ItdoiqInY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O escucharla por Spotify como un podcast:
 
-<iframe src="[https://open.spotify.com/embed-podcast/episode/19ziOZlY0MytmmnYPIszXk](https://open.spotify.com/embed-podcast/episode/19ziOZlY0MytmmnYPIszXk "https://open.spotify.com/embed-podcast/episode/19ziOZlY0MytmmnYPIszXk")" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/19ziOZlY0MytmmnYPIszXk" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
