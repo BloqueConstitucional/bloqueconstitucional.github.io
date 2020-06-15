@@ -1,15 +1,15 @@
 ---
-name: Ricardo Mihura Estrada
-bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea
-photo: /assets/img/ricardo.jpg
+name: Daniel Rybnik
+bio: |-
+  Co-fundador de Bloque Constitucional.
+  Abogado y mediador. Especialista en impuesto y tributación internacional. Socio de Enterpricing.
+photo: "/assets/img/rybnik.jpg"
 social:
-  twitter: https://twitter.com/thejaime
+  twitter: https://twitter.com/drybnik
   web: https://jaimeman.com
-  mail: jaime.rodriguez@gmail.com
+  mail: ''
   facebook: ''
-  linkedin: ''
+  linkedin: https://ar.linkedin.com/in/danielrybnik
   telegram: ''
 cargo: ''
 
