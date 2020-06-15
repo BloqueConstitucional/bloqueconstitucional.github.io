@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Charla Héctot Mairal
+title: Charla Héctor Mairal. Derecho público y propiedad privada
 datetime: 15/05/2020 3:00 PM
 feature: "/assets/img/eagcn9bxgaexzsi.jpg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
