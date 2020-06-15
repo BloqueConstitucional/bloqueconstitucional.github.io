@@ -1,16 +1,16 @@
 ---
-name: Ricardo Mihura Estrada
-bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea
-photo: /assets/img/ricardo.jpg
-cargo: Secretario de la asamblea
+name: Alejandro Fargosi
+bio: |-
+  Abogado independiente.
+  Luchador incansable de la libertad y la república.
+photo: "/assets/img/ywroo5-x_400x400.jpg"
+cargo: ''
 social:
-  twitter: https://twitter.com/thejaime
-  web: https://jaimeman.com
-  mail: jaime.rodriguez@gmail.com
+  twitter: https://twitter.com/fargosi
+  web: ''
+  mail: ''
   facebook: ''
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/alejandrofargosi/
   telegram: ''
 
 ---
