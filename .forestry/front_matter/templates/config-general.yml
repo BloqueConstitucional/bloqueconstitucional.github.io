@@ -2,6 +2,20 @@
 label: Config General
 hide_body: true
 fields:
+- name: is_campaign
+  type: boolean
+  label: En campaña
+- name: campaign_name
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Nombre de Campaña
+  showOnly:
+    value: true
 - type: text
   name: title
   label: title
@@ -36,6 +50,11 @@ fields:
 - type: text
   name: youtube_link
   label: youtube_link
+- name: spotify_link
+  type: text
+  config:
+    required: false
+  label: spotify_link
 - type: field_group
   name: collections
   label: collections
@@ -87,24 +106,5 @@ fields:
   name: exclude
   label: exclude
   hidden: true
-- name: is_campaing
-  type: boolean
-  label: En campaña
-- name: campaign
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Nombre de Campaña
-  showOnly:
-    value: true
-- name: spotify_link
-  type: text
-  config:
-    required: false
-  label: spotify_link
 pages:
 - _config.yml
