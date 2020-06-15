@@ -4,252 +4,138 @@ title: Honorarios de abogados y orden público.
 author: Marcelo Gobbi
 link: ''
 photo: "/assets/img/unnamed-1.jpg"
-description: El Rol del CPACF y la desviación de su fin
-published: false
+description: 'La ley de honorarios profesionales de abogados trae más problemas que
+  soluciones. '
 
 ---
-Con independencia de lo que cada quien piense sobre si es bueno o malo obligar  
-a los profesionales a colegiarse, la valoración del rol del Colegio Público de Abogados  
-de la Capital Federal (“CPA”) y lo que se pide de él se ven a mi juicio influidos por la  
-tensión propia de un modelo que pone en cabeza de una misma institución la función de  
-gobernar la matrícula, algo propio de un regulador y que debe orientarse hacia el bien  
-común general, y la representación gremial de los abogados, algo propio de un sindicato  
-y que, por definición, se orienta hacia la protección de intereses sectoriales.  
-Esa tensión se manifiesta en muchas situaciones. Veamos algunas de ellas a  
-modo de ejemplo.  
-  
-**1. ¿Entidad pública o club pagado (a la fuerza) por terceros?**  
-  
-La competencia del CPA está dada por la ley, que no le manda controlar la  
-formación profesional de los egresados de la carrera de Derecho, pues en nuestro país la  
-titulación universitaria en Derecho habilita a matricularse de manera automática, para  
-todo y para siempre, para ejercer la abogacía con solo cumplir un trámite burocrático,  
-de modo que el CPA no controla la admisión a la matrícula, salvo que por control  
-entendamos completar un formulario, hacer un par de fotos y organizar un juramento o  
-lo que haga sus veces.  
-Dado lo poco defendible de este régimen a la luz de lo que ocurre en el mundo,  
-tal vez el CPA podría establecer certificaciones o acreditaciones voluntarias que sólo  
-tengan el valor (o el descrédito) que les atribuyan la mayor o menor seriedad con que se  
-hagan. (1)  
-  
-Pero por ahora la pregunta no es qué más debería hacer el CPA sino si debe  
-hacer todo lo que hoy hace.  
-  
-El punto de partida es, a mi juicio, considerar que el CPA no se financia con  
-cuotas o aportes voluntarios sino con la recaudación por matrícula (una tasa cuyo pago  
-es necesario para ejercer la profesión) y con un bono que paga cada persona que  
-contrata un abogado cuando decide iniciar un juicio o debe contestar una demanda. Es  
-decir, se trata de recursos de naturaleza tributaria o, si se quiere, parafiscales. En  
-cualquier caso la jurisprudencia nacional a internacional requiere que el sector gravado  
-se beneficie con el destino de esa recaudación.  
-  
-¿Es correcto que los fondos que percibe el CPA –ninguno de ellos pagado  
-voluntariamente- se destinen a servicios que sólo aprovechan a sus matriculados y no  
-impactan de manera directa en el desempeño de las competencias que la institución  
-tiene por ley, ni de manera indirecta en el mejor funcionamiento del sistema de justicia?  
-Opino que no.¿Por qué? Por lo mismo que la contribución especial que grava la yerba  
-mate se destina al Instituto de la Yerba Mate, que se dedica a la investigación para  
-mejorar la calidad y cantidad de la producción de yerba mate, no a comprar un terreno  
-para que los productores yerbateros jueguen al tenis.  
-  
-Sí parece admisible que el CPA invierta sus fondos en servicios que redunden de  
-manera directa en el control disciplinario o en la administración de la matrícula. Podría  
-admitirse, también, que esos recursos se destinen a cooperar para un mejor servicio de  
-justicia, del cual el abogado es auxiliar, pues eso también redundará en el beneficio de  
-los sujetos gravados, que son los clientes. En otras palabras, que se trate de servicios  
-que, al hacer más eficiente el servicio del abogado como auxiliar de la justicia, le  
-mejoren también la vida a sus clientes, porque el bienestar de éstos es la razón de ser de  
-un organismo de derecho público (de lo contrario, se trataría de una asociación civil  
-más). Así, por ejemplo, si merced a un servicio prestado por el CPA o en una  
-dependencia del CPA el abogado demora menos en pagar una tasa, o en tramitar un  
-oficio o en obtener un informe de un registro, esa mayor eficiencia no es beneficiosa  
-sólo para los profesionales sino también, en última instancia, para los clientes a quienes  
-todos los costos invariablemente se trasladan y de cuyo acceso a la justicia se trata.  
-  
-En cambio, no parece ajustado a la finalidad pública del CPA que esos fondos  
-paguen prestaciones que sólo benefician a los abogados y que no se relacionan con el  
-servicio al cliente, como la posibilidad de tramitar documentos de identidad para el  
-matriculado y su familia, el suministro de direcciones electrónicas o cualquier otra  
-prestación que puede conseguirse en el mercado. Nada hay en la ley que permita  
-semejante subsidio de los clientes a favor de la abogacía, cuyo mantenimiento debe  
-surgir de los honorarios que libremente acuerden ambas partes de esa relación  
-profesional. Aunque algunos servicios no tengan impacto presupuestario directo, que el  
-CPA dedique personal, espacio, luz eléctrica, seguridad, etc. para que el hijo de un  
-abogado pueda hacer allí su documento de identidad o, aunque parezca antipático, para  
-que funcione una guardería para que los matriculados dejen allí a sus niños es, en  
-esencia, lo mismo que si el CPA comprara un inmueble para instalar una sala de  
-masajes para los abogados tensionados, paguen éstos o no las sesiones de masajes,  
-pague o no el masajista un alquiler a precio de mercado, sea la unidad de masajes  
-deficitaria o superavitaria para el CPA. Un minuto de un empleado del CPA dedicado a  
-negociar y luego gestionar convenios con agencias de turismo, aunque nada más le  
-cueste a la institución ese vínculo, es propio de un club social, que se financia por los  
-asociados que pagan la cuota si quieren seguir siendo asociados.  
-  
-**2. ¿De qué sirve controlar la disciplina a través de un tribunal opaco?**  
-  
-Otro ejemplo de esa tensión entre los dos sombreros del CPA tiene que ver con  
-el control de la disciplina o ética profesional. El Tribunal de Disciplina del CPA (“TD”)  
-funciona merced a un reglamento que parece concebido para evitar todo lo posible que  
-alguien sea sancionado y que, si lo es, esa sanción se conozca. Está inspirado en el  
-procedimiento penal, cuyos principios ha recogido a pesar de que se trata de un tribunal  
-de naturaleza deontológica y no jurídica: prohibición de la analogía, obligación de  
-absolver en caso de duda, acusación por una unidad de instrucción, ausencia de toda  
-legitimación del denunciante para impulsar o recurrir, y la lista sigue.  
-  
-Lo que más asombra es la ausencia de publicidad de sus sentencias. Como  
-cualquier tribunal, además de resolver casos particulares el TD debe interpretar, crear  
-precedentes, indicar cómo debe portarse la gente. Pero no es este el caso. En virtud de  
-una interpretación por lo menos cuestionable de una norma del reglamento del TD,  
-hecho por el propio CPA, la comunidad profesional ha entendido que las sanciones que  
-no implican suspensión o exclusión de la matrícula no solamente no deben ser  
-publicadas sino que tampoco pueden ser consultadas, con lo que el TD reviste la insólita  
-naturaleza de ser un tribunal hermético.  
-  
-Las sanciones y las absoluciones son un antecedente importante para alguien que  
-quiere vincularse con un abogado como cliente, empleador o socio. Y en última  
-instancia podrían publicarse las sentencias sin indicación de nombres, como se publican  
-los fallos que tienen que ver con cuestiones de familia. De nuevo parece evidente la  
-confusión de roles entre lo público y lo asociativo, pero en este caso va más allá: los  
-socios de un club deportivo conocen las resoluciones de los tribunales de honor o de  
-ética; los propios abogados y los clientes, no. (2)  
-  
-Hace algunos años, y luego de muchos meses sin noticias sobre una causa en la  
-que yo había sido el denunciante, concurrí al TD y me informaron verbalmente que  
-había sido dictado el fallo pero que, al no estar firme, yo no podía verlo. Deduje que  
-habían sancionado al colega (única posibilidad de que existiera un recurso) pero nada  
-más pude saber.  
-  
-El sitio de Internet del CPA publica algunos sumarios (ningún fallo) del TD.  
-Veamos cómo hace pública su labor: para que la gente llegue a esos sumarios tiene que  
-hacer los siguientes cinco clicks por un camino de hipervínculos bastante poco intuitivo:
+El 29 de octubre de 2015 el Senado de la Nación aprobó el proyecto de ley de honorarios de abogados y procuradores que, de sancionarse, restablecerá formalmente el carácter de orden público de los mínimos arancelarios (el “Proyecto”).2
 
-* primero, Institucional (¿?);
-* segundo Tribunal de Disciplina;
-* tercero, Deberes Fundamentales del Abogado, que viene luego deltribunal, y no al revés;
-* cuarto, debe elegir el Deber que le interesa;
-* quinto, Información (palabra que constituye un perfecto ejemplo de referencia vacía).
+Se trata de un anhelo de respetados sectores de la profesión organizada y de un principio jurídico que ha regido nominalmente hasta hace apenas dos décadas. No obstante, nos permitimos señalar nuestro punto de vista crítico a su respecto, a la luz de consideraciones que no parecen haber merecido la atención de los dirigentes de la profesión ni de los legisladores.
 
-  
-Recordemos que también pueden radicar denuncias quienes no son abogados y,  
-por definición, no están familiarizados con la estructura del CPA. Parece poco probable  
-que lleguen fácilmente a esa información por ese camino.  
-  
-En 2012, a casi tres décadas de existencia del CPA, comprobé que habían sido  
-considerados dignos de publicación 216 sumarios, sin que se indique quién los elige ni  
-con qué criterio. Es decir, un promedio de ocho por año, lo que parece mostrar un  
-criterio más propio de una revista jurídica, cuyo director elige qué publicar, que de un  
-tribunal que funciona en un organismo de Derecho Público.  
-  
-Dado que a los sumarios solamente se agrega como referencia un número y año  
-de iniciación, no es posible conocer la fecha de la resolución que corresponde al  
-sumario publicado. Tomando como referencia, entonces, esa indicación encontramos las  
-siguientes curiosidades:
+**1. El honorario mínimo infranqueable**
 
-* de 1995 se había publicado un solo sumario;
-* de 1997 se había publicado un solo sumario;
-* de 2005 se habían publicado 115 sumarios (es decir, el 53% de las publicaciones
-* de toda la historia correspondía a un solo año);
-* hay 15 períodos anuales de los que no había un solo sumario;
-* no había ningún sumario desde 2007 hasta la fecha del relevamiento, de modo que se podía consultar la jurisprudencia más vieja de un tribunal pero no la más nueva, que es la que usualmente interesa más al que investiga.
+Erigido como el fundamento para restringir la autonomía de la voluntad (aunque también de la intervención de oficio de los jueces, de la imprescriptibilidad de las acciones y de la valla para aplicar las sentencias y el derecho extranjeros), el concepto de orden público es uno de los más inasibles y que más definiciones vacías ha recibido en la literatura jurídica. Con gracia se ha escrito que declamar que algo tiene que ver con el orden público es, como decía Alf Ross de la justicia, pegar sobre la mesa un golpe efectista pero no racional.3 Para Borda, las leyes de orden público serían aquellas en que están interesadas de una manera muy inmediata y directa la paz y seguridad sociales, un sentido primario de la justicia y la moral, y que el autor describe como las leyes fundamentales y básicas que forman el núcleo sobre el cual está estructurada la organización social.4 Curiosamente, este autor aprobó como juez que se le atribuyera ese carácter a los honorarios mínimos de los abogados, como veremos en el capítulo 3. Al ser este un concepto que deja tanto campo a la subjetividad, abundante jurisprudencia y doctrina han enseñado que la naturaleza de orden público de una norma no surge tan sólo de la declaración del legislador sino que requiere un juicio de valor del juez a la hora de aplicarla5. También, al analizar las normas sobre el consumo, los autores señalan que esa condición funda la limitación de la autonomía de la voluntad cuando se trata de proteger a la parte más débil en una contratación entre partes desiguales 6. Ninguno de estos requisitos, por subjetiva que sea su determinación, aparece de manera nítida a nuestro juicio en la cuestión de qué precio pone un abogado a su servicio.
 
-No se trata solamente de que no publiquen en Internet las resoluciones. Para radicar una  
-denuncia llamé al TD porque me proponía hacer una investigación de jurisprudencia y  
-me dijeron que las resoluciones no estaban disponibles tampoco en soporte papel. Ante  
-mi insistencia en conocerlas me indicaron que debía presentar una nota justificando para  
-qué las quería pero que en principio las resoluciones no se publican. Una respuesta  
-bastante paradójica, porque no explica por qué continúan publicadas 216.  
-  
-**3. ¿Puede el regulador de un servicio auxiliar de la justicia liderar una puja distributiva?**  
-  
-La conflictiva frontera entre las dos competencias del CPA se puso de  
-manifiesto en la ostensible campaña que sus autoridades hicieron oficialmente en  
-nombre de la institución para que se restaurara el llamado carácter de orden público de  
-los honorarios mínimos establecidos en el arancel, inclusive atribuyendo al CPA la  
-autoría del proyecto recientemente aprobado por el Senado de la Nación. Una iniciativa  
-de una originalidad notable, porque intenta regular una tarifa porque sobra competencia,  
-no porque falta, y que además pretende hacerlo como un precio mínimo o sostén, no  
-como un precio máximo. Todo al revés de lo que ocurre en el mundo en materia de  
-regulaciones.  
-  
-Pedir más por lo mismo es sólo una puja distributiva. Se trata de una acción  
-gremial comprensible, pero de difícil asimilación si uno piensa en un organismo de  
-Derecho Público que ejerce una función de contralor por delegación estatal y cuyos  
-recursos son extraídos por la fuerza a terceros (¡para financiar acciones de lobby que, en  
-este caso, los perjudican!). Tampoco se ha conocido ningún análisis o siguiera  
-referencia respecto de la constitucionalidad de una iniciativa que parece chocar con los  
-derechos de los consumidores, que ahora tienen rango constitucional y que incluyen  
-explícitamente la protección contra toda forma de distorsión de los mercados (art. 42,  
-Constitución Nacional).  
-  
-**4. La dificultad del doble sombrero no es original de la Argentina**  
-  
-La Ley de Servicios Legales de 2007 dictada en Gran Bretaña obliga a las  
-instituciones equivalentes a los colegios de abogados a establecer políticas y procesos  
-que delimiten con claridad la función reguladora de la función de representación  
-gremial, y que ambas no se interfieran.  
-  
-Esa misma ley creó un consejo que está por encima de los colegios, que  
-establece el marco regulatorio de más alto nivel y en el que están representados a través  
-de un panel también los consumidores de los servicios de los abogados, a quienes se los  
-debe consultar antes de aprobar regulaciones.  
-  
-Tal vez sea hora de reflexionar sobre estas tensiones en una discusión franca y  
-serena, despojados por un momento de las afinidades de pandilla.  
-  
-**5. Aunque uno esté dormido, amanece igual**  
-  
-¿En qué debería estar pensando entonces el CPA para el bien común, tanto el de  
-sus asociados como el de la sociedad a la que sirve como entidad de Derecho Público?  
-  
-Demasiados cambios hay ya en el ecosistema de la profesión. Cuando Richard Susskind  
-escribió en 2009 The end of lawyers sus predicciones sobre el impacto de la tecnología  
-y la internacionalización nos parecían algo remotas. En todo caso, propias de un primer  
-mundo del que nos considerábamos alejados. Nos hablaba de tercerización en abogados  
-extranjeros,(3) de fragmentación de procesos y su asignación a distintas firmas, de  
-clientes que comparten el conocimiento que alguna vez compraron a un abogado a la  
-manera de Wikipedia y de varios fenómenos más. Pocos años después basta mirar  
-servicios de resolución de conflictos para el comercio electrónico como Modria, o de  
-generación de contratos y documentos legales de baja o mediana complejidad como  
-  
-Legalzoom para confirmar que es hora de revisar paradigmas. No doy esos ejemplos  
-porque sí: los he conocido a ambos no como abogado sino como usuario. Acepté el  
-riesgo de prescindir de un abogado norteamericano en un tema personal, y por un costo  
-despreciable obtuve un servicio de gran calidad sin moverme de mi casa y sin  
-interactuar con ningún ser humano. A través de Legalzoom obtuve un muy buen  
-contrato y un poder hecho a medida por US $ 80 y en minutos.  
-  
-En un libro que yo regalaría a cada dirigente con quien me cruzara, The second  
-machine age, Brynjolfsson y McAfee, dos académicos del Instituto Tecnológico de  
-Massachusetts básicamente optimistas sobre el impacto de la tecnología en nuestras  
-vidas, demuestran que desgraciadamente con la innovación ocurre lo que se suele  
-expresar como Ley de Moore cuando se trata de los procesadores (su capacidad de  
-procesamiento se duplica cada determinado lapso al mismo tiempo en que su costo se  
-reduce a la a la mitad, ambos fenómenos obviamente exponenciales, pero que hace con  
-un nivel tal de aceleración que no permite que los trabajadores que se vuelven  
-inempleables se recapaciten a la misma velocidad. A diferencia de lo que ocurrió con la  
-máquina de vapor y luego con el motor de combustión interna, esta segunda revolución  
-industrial no solamente desemplea a los trabajadores manuales sino también a los de  
-cuello blanco, a los que fueron a la universidad, en la medida en que se ocupen de  
-procesos que tienen un alto contenido rutinario. La distinción ya no es entre trabajo  
-manual o intelectual, sino entre trabajo creativo y rutinario. Y, para peor, disminuye la  
-paga promedio de los que tienen la suerte de seguir trabajando. (4)  
-  
-Ese doloroso efecto puede ser transitorio solamente si se lo ataca con planes  
-efectivos de capacitación (pagados por sus interesados, no por los clientes). Sorprende,  
-en este entorno inevitable, que el CPA reitere cada tanto su pedido de prórroga de la  
-implementación del expediente digital alegando las dificultades que tendrían sus  
-matriculados para capacitarse a tiempo. De ser cierta esa dificultad, se trataría de un  
-síntoma preocupante de que no estamos atacando las causas sino solamente los efectos  
-de los problemas.  
-  
-Octubre, 2015  
-  
-Notas:  
-  
-(1) Un colega y amigo suele bromear sobre la débil presunción de idoneidad que da entre nosotros la mera matriculación, afirmando que él confía más en la calidad de un jamón de Jabugo o de una botella de Brunello di Montalcino (si llevan en sus etiquetas la denominación de origen controlada por sus gremios desde el Medioevo) que en un abogado argentino.  
-  
-(2) Cualquier persona puede consultar las infracciones de tránsito que ha cometido otro con sólo conocer su número de documento de identidad, que no es un dato personal reservado. Pero nadie puede saber si un abogado recibió una sanción menor o fue absuelto por el TD.
+Con la sola declamación del carácter de orden público como fundamento, en el Proyecto se declara nulo y de nulidad absoluta todo acuerdo entre un abogado y su cliente por el cual se establezca un honorario inferior al mínimo legal, lo que además deberá ser considerado una falta ética del profesional. Sus autores se limitan a expresar que _la labor del profesional del derecho tiene una finalidad superior y es atinente a la paz social a la que él coadyuva al hacer un ejercicio ético de su función_. El Proyecto no indica superior a la de quién es la función del abogado (¿superior a todas las demás?), y no contiene siquiera un atisbo de fundamento para sancionar a un pacto entre privados con la nulidad, y encima de carácter absoluto, lo que presupone la violación del orden público, la moral o las buenas costumbres (art. 386, Código Civil y Comercial) para lo cual, reiteramos, no basta con que el legislador ponga como etiqueta que la norma tiene que ver con el primero de esos valores. Tampoco hay en el Proyecto nada que explique la conexión entre el precio de un servicio profesional, por trascendente que éste sea, y la ética. Esa frase contiene una descripción irreprochable: que el abogado coadyuva a la paz social cuando hace un ejercicio ético de su profesión, pero ese ejercicio ético es una obligación que no tiene por qué ser supuesta, y en cualquier caso en nada se conecta con la cuestión de sus honorarios. Ningún argumento racional permite asociar lo caro con lo ético y lo barato con lo antiético, y no hace falta repasar ejemplos de la vida cotidiana para desechar la idea de que un profesional (o un funcionario, o un ejecutivo) es deshonesto porque está mal pago. Se trata de una referencia vacía (el carácter _superior_ del trabajo de un abogado) para rellenar otra poco precisa (el concepto de orden público). Lamentablemente, las transcripciones taquigráficas del debate parlamentario tampoco ayudan porque ninguno de los legisladores hizo siquiera un comentario sobre por qué entiende que la libertad para pactar honorarios es contraria al orden público y por ende justifica la nulidad absoluta y la sanción ética.7
 
-(3) The New York Times informó en su edición del 4/8/2010 que el número de firmas de tercerización de procesos legales en India había crecido de 40 a fines de 2005 a 140 en 2009, que de acuerdo con la consultora Valuenotes los ingresos por honorarios generados en esta actividad alcanzarían los 440 millones de dólares en 2010, equivalente a un crecimiento del 38% en dos años y que en función de la tendencia el volumen de esa exportación de servicios podría superar los 1.000 millones en 2014. Sólo hay que dividir ese importe por el honorario promedio que los abogados indios cobran por hora para ver cuánta demanda se ha generado. Esa demanda incremental, nueva, ha permitido dar trabajo a una cantidad de abogados equivalente al que tendrían, sumados, muchos estudios jurídicos de cientos de abogados cada uno.
+No sería de extrañar, entonces, que muchas profesiones y oficios pretendan el mismo tratamiento, salvo que se inicie una odiosa -y descabellada- discusión pública sobre si la labor del abogado que ejecuta un pagaré es socialmente más trascendente que, por caso, la del médico o la del mecánico que revisa los frenos de un autobús escolar.
 
-(4) Recordemos que la computadora Deep Blue de IBM venció al ajedrez al campeón mundial Kasparov, una tarea que pareciera bastante menos rutinaria que hacer un alegato o un contrato de compraventa de acciones.
+**2.Finalidad y alcance del orden público en el Proyecto**
+
+El Proyecto, al atribuir carácter imperativo a los mínimos arancelarios, persigue aumentar los honorarios que pagan los clientes a sus propios abogados. Si la dinámica competitiva determinara honorarios satisfactorios para los profesionales, nadie impulsaría un cambio en la ley. En la sesión del Senado en que fue aprobado, el senador Guastavino señaló que se trataba de una aspiración del Colegio Público de Abogados de la Capital Federal.8
+
+El Proyecto parece limitar el carácter de orden público a los honorarios por tareas de representación y patrocinio en procesos judiciales porque una de sus normas autoriza la libre contratación de honorarios para tareas de asesoramiento (art. 6, inc. j). Pero esa norma no es explícita en cuanto que se trate de una excepción al orden público, y además está extrañamente ubicada como último inciso en el artículo dedicado al pacto de cuotalitis, contrato obviamente referido la actividad contenciosa. Señalamos que en la Ciudad Autónoma de Buenos Aires rige otra ley de honorarios para abogados que no contiene ese principio y que opinamos es la deberá aplicarse respecto de las tareas que no consistan en actuaciones ante tribunales nacionales, dadas las facultades propias de jurisdicción de esa ciudad (art. 128, Constitución Nacional).
+
+**3.Una discusión jurídica parecida pero diferente, medio siglo después**
+
+La constitucionalidad del Proyecto respecto de la cuestión que analizamos nos genera grandes reparos. Para nosotros, los derechos reconocidos en la Constitución Nacional a los consumidores, entre los cuales se incluyen los beneficios de la libre competencia, son garantías directamente operativas que el Proyecto afecta de manera directa.9 Dice el texto constitucional: _Los consumidores y usuarios de bienes y servicios tienen derecho, en la relación de consumo, a la protección de su salud, seguridad e intereses económicos; a una información adecuada y veraz; a la libertad de elección, y a condiciones de trato equitativo y digno_. _Las autoridades proveerán a la protección de esos derechos, a la educación para el consumo, a la defensa de la competencia contra toda forma de distorsión de los mercados, al control de los monopolios naturales y legales, al de la calidad y eficiencia de los servicios públicos, y a la constitución de asociaciones de consumidores y de usuarios_. La norma constitucional se enrola entre quienes encuentran en el beneficio de los consumidores la finalidad última de la libre competencia, al incluir entre sus derechos a la protección contra toda forma de distorsión de los mercados. Pocas herramientas distorsionan tanto un mercado como la fijación de un _precio sostén_ como el que analizamos.
+
+El hecho de que la ley de defensa del consumidor excluya de su ámbito de aplicación a las profesionales liberales ejercidas por universitarios matriculados y mande intervenir a los entes que controlan la matrícula (art. 2, ley 24.240, reformado por la ley 26.361) no implica negar que la relación que se establece entre cualquier profesional y su cliente sea de consumo; antes bien, los requisitos para esa exclusión confirman que tienen ese carácter. Y aunque nada dijera la ley, en pocos ámbitos de la contratación, si es que en alguno, ocurre una mayor asimetría de la información que hace vulnerable al consumidor y funda la autonomía de las normas que lo protegen. Al ser la contratación de un abogado obligatoria y no optativa para la mayoría de las actuaciones judiciales y todas las de mediación la cuestión que analizamos, además de confirmar que se trata de una relación de consumo, también afecta el acceso a la justicia de los ciudadanos como expresión de la más amplia garantía de defensa en juicio (art. 18, CN).
+
+Por último, y también desde una perspectiva constitucional, ocurrirá la discusión, que no abordamos aquí, sobre si la ley de arancel será una norma nacional de fondo o, pese a haber sido obviamente dictada por el Congreso Nacional, será una norma local. En este último caso, contradiría la norma de fondo de fondo que establece que las leyes arancelarias no pueden cercenar la libertad de las partes de determinar el precio de los servicios (Código Civil y Comercial, art. 1255).
+
+No encontramos en los fundamentos del Proyecto ni en el debate parlamentario ninguna referencia a cualquier análisis de cuestiones constitucionales.
+
+Entonces, es altamente probable que de manera cíclica nos encontremos en breve con la misma situación que motivó el fallo plenario que en 1963 dictó la Cámara Nacional de Apelaciones en lo Civil en _Mijalovich c. Noguerol_,10 en el que, por una mayoría que siguió principalmente al voto del entonces juez Guillermo Borda, ese tribunal legitimó la posición del abogado demandado que se había negado a cumplir el acuerdo según el cual haría un descuento a su cliente entregándole una participación en los honorarios que cobrara de la contraparte.
+
+Aunque el entonces juez Llambías sólo votó respecto de la cuestión formal sobre si había o no una contradicción que habilitara el dictado de un fallo plenario, y lo hizo en forma negativa, acertadamente a nuestro juicio indicó que se trataba de resolver si el orden público parcial relacionado con los honorarios del abogado prevalecía sobre el orden público general que condena por inmoral la conducta de alguien que pacta algo y luego alega su propia torpeza para desconocerlo.
+
+Entre los votos de la minoría sobre la cuestión de fondo compartimos los votos del entonces juez Demaria, que señaló que no basta la declaración legislativa para que una norma sea de orden público y sostuvo que la disposición del arancel era contraria al artículo 1627 del Código Civil, y el voto del entonces juez Foutel, quien indicó que no debe convalidarse una situación en que un profesional toma un asunto induciendo a error a su cliente para después lucrar con su propio dolo, porque permitirlo también iría en contra de la dignidad de la abogacía, valor que proviene de la conducta personal y no de una reglamentación, que los hechos contrarios a la moral y a las buenas costumbres, como es el reclamo de honorarios antes renunciados, no pueden fundar una obligación (art. 953 del Código Civil) y que _es incongruente considerar como parte débil del contrato a una clase profesional que, por rara ironía, es la que se halla en mejores condiciones para defenderse legalmente_.
+
+En cambio, no podemos compartir la opinión del entonces juez Borda, que lideró la posición que prevaleció en el fallo plenario. No obstante aceptar al igual que sus colegas disidentes que una norma no es de orden público sólo porque lo diga el legislador sino que tal calificación debe pasar por el tamiz del juez, Borda construyó su postura alrededor de dos teorías que presentó como apodícticas y que para nosotros carecen de cualquier fundamento que no sea su propia afirmación. El primer elemento del razonamiento de Borda es que, al ser el honorario establecido en el arancel _lo justo_, el cliente al que se lo intenta cobrar a pesar de existir un convenio anterior de renuncia no sufre daño. El entonces camarista vino así a sostener implícitamente que todo acto estatal de fijación de una tarifa lleva consigo la condición de justicia. En otras palabras, que la justicia de una obligación, que para él tenía que ver con el precio, viene dada por un acto de autoridad del estado frente al cual nada vale la voluntad coincidente de los dos particulares de cuyos intereses se trata. El segundo elemento con que construye su voto es una presunción de que cualquier pacto de honorarios celebrado por debajo de esa tarifa mínima surge de una situación de lesión en la que el lesionado es el abogado y el explotador, el cliente. No usó Borda el término _lesión_, pero esto afirmó: _se desea evitar el feo regateo con el cliente, en el que el abogado llevará siempre la peor parte porque necesita vivir de su trabajo y aceptará las imposiciones de su cliente en desmedro de lo que es justo_. Semejante idea parece el fundamento de una especie de derecho del consumidor al revés, pensado para proteger al proveedor. Si fuera cierta, esa vulnerabilidad del profesional debería aplicarse a cualquier individuo u organización que presten un servicio, menos a los empleados públicos y a los monopolistas. Reconocemos que ese voto, aunque fundado en teorías que nos parecen inaceptables, tiene su coherencia: comenzó indicando de manera explícita que la finalidad de la norma era la _defensa_ de la profesión del abogado y terminó sosteniendo implícitamente que el atacante –presupuesto de la necesidad de cualquier defensa- es el cliente. La doctrina del fallo plenario perdió efectos por la ley 24.307 que ratificó el decreto de desregulación económica 2284/91.
+
+Entonces, cuando el Proyecto sea sancionado ocurrirá probablemente una discusión similar. Empero, habrá que tener en cuenta que hace más de medio siglo la Constitución Nacional no había reconocido aún los derechos de los consumidores ni, entre ellos, los beneficios de la libre competencia (art. 42, CN).
+
+Esta evolución no es original de los argentinos. Italia eliminó el carácter imperativo de los mínimos arancelarios mediante el _decreto Bersani_ de 2006, luego aprobado y complementado por otras leyes, y lo mismo hizo España con la llamada _Ley Ómnibus_ 25/2009 que adecuó diversas leyes a los principios comunitarios y locales en materia de libre competencia. Por eso la Comisión Nacional de los Mercados y la Competencia española multó el 23 de julio de 2015 al Colegio de Abogados de Las Palmas por la publicación de criterios meramente orientativos, no obligatorios, para que los abogados fijen sus honorarios, que consideró una falta grave según las normas de competencia.11 Esa práctica de origen medieval subsiste en la Argentina pero no ha motivado ninguna inquietud de las usualmente activas asociaciones de consumidores ni de la autoridad de competencia: el Colegio Público de Abogados de la Capital Federal ha elaborado un _protocolo_ de valores mínimos para que los abogados determinen sus honorarios; 12 el de Salta, honorarios orientativos;13en el ámbito notarial, el Colegio de Escribanos de Córdoba publica honorarios que dice haber consensuado durante una sesión de su propio consejo directivo (es decir, un precio extrañamente _consensuado_ sólo entre oferentes), 14 al igual que el de Tucumán15. Llamativamente, en el artículo 4 del Código de Ética del Colegio de Escribanos de la Ciudad de Buenos Aires se califica como falta el ofrecimiento de una mejora respecto de los honorarios o los gastos de escrituración que hubiera ofrecido otro escribano16, norma que, al igual que las citadas antes, parece sostener que existe una relación entre el precio y la ética de la cual no conocemos ninguna explicación, y una suerte de extraña obligación de solidaridad entre competidores que se cumpliría a expensas de terceros como son los clientes de los obligados. Nos desconcierta la idea de que pueda existir una obligación deontológica cuyo cumplimiento sea grato: cobrar más y no menos.
+
+**4.La heterodoxia de imponer tarifas mínimas garantizadas en una actividad que se presta en competencia**
+
+El orden público entendido como prohibición de infringir los mínimos arancelarios ha existido durante décadas, independientemente de su efectiva vigencia. Sin embargo, analizado a la luz de lo que es habitual hoy en el campo de la regulación económica, deviene original.
+
+Cuando el precio de un servicio se intenta regular por encima de lo que la gente está dispuesta a pagar por él, en términos económicos se transfieren recursos de los consumidores a los proveedores. Esa transferencia es legítima en el caso de una tasa, aunque los ciudadanos considerasen por ejemplo que sería posible conseguir quien limpiara la calle por menos dinero, si se respetan los principios constitucionales de la tributación. Cuando esa transferencia ocurre entre privados, en cambio, parece necesario encontrar fundamentos sólidos para sostenerla, tanto en el plano constitucional a la luz del principio es la libertad de contratación y de ejercer industria lícita cuanto en lo que respecta a sus efectos sobre el sector de los abogados y en la sociedad en su conjunto, con mayor razón si tenemos en cuenta que la asistencia de un abogado no es un servicio de contratación optativa sino obligatoria para la mayorías de las actuaciones judiciales y para todas en la instancia obligatoria de mediación extrajudicial.
+
+Como en toda puja distributiva, obligar a alguien a pagar por un servicio privado de su libre elección más de lo que pagaría voluntariamente es anteponer los intereses de los prestadores a los de los consumidores; precisamente por eso es una puja. Según todos los códigos deontológicos los abogados tienen prohibido anteponer sus intereses a los del cliente. Adoptar la misma actitud colectivamente al amparo de una ley no parece convertir en aceptable lo que se reprocha a un individuo.
+
+Independientemente del mayor o menor rechazo ideológico que genere la afirmación, el sector de los servicios jurídicos está regido por leyes económicas que surten efectos en cualquier mercado que se analice. En Argentina los abogados no son un recurso escaso sino todo lo contrario, pues el nivel de actividad no permite emplear fácilmente, como ocurría hace décadas, a la enorme cantidad de graduados de la profesión. Existe hoy, desdichadamente para los abogados, una situación de sobreoferta. Desconfiamos de que el orden público pueda mitigar esa circunstancia.
+
+En el campo de la regulación económica los precios se imponen cuando hay ausencia de competencia, y como tarifas máximas. Así, por ejemplo, en los servicios públicos que se prestan en condición monopólica o, sin llegar a ese estado, cuando no existe competencia efectiva, rige usualmente un precio máximo que se establece para estimular al prestador a obtener más rentabilidad a través de la eficiencia operativa (régimen conocido como _price cap_). Por supuesto que esa tarifa también está garantizada al prestador, pero eso ocurre a cambio a de, entre otras obligaciones, prestar los servicios a grupos de clientes no rentables para cumplir con objetivos de políticas públicas que no podrían conseguirse si la decisión de prestarlos dependiera del juego de la oferta y la demanda en virtud de las llamadas _fallas de mercado_.
+
+El Proyecto va en una dirección heterodoxa en dos sentidos. En primer término, se intenta regular el precio de un sector que se desenvuelve en régimen de competencia. En segundo término, se lo hace a través de precios mínimos y no máximos. La abogacía tomará, entonces, lo mejor de cada uno de los regímenes. Por un lado, tendrá los beneficios de desempeñar una actividad privada bajo el concepto tradicional de _profesión liberal_ bajo un régimen de competencia: que no existan barreras de entrada respecto de cualquier oferente que quiera ingresar en la actividad más allá del tenue requisito del grado universitario, que el abogado sea libre para aceptar o rechazar asuntos o clientes, que no tenga ninguna obligación de trabajar para clientes o asuntos deficitarios, que pueda elegir en qué especialidad ejercer, que pueda establecerse donde le parezca más atractivo y trabajar en cuantas jurisdicciones desee hacerlo, que pueda pactar honorarios sin límites máximos, asociarse con quien quiera y ejercer como quiera, dedicarse a la profesión a tiempo completo o parcial según le plazca y combinarla con otras actividades económicas, y un largo etcétera. Al mismo tiempo, gozará del beneficio que obtienen aquellos a quienes se imponen obligaciones de prestación: una tarifa garantizada.
+
+**5. ¿Beneficia el orden público a quien se quiere beneficiar?**
+
+Con la mejor intención se suele presentar el carácter de orden público de los mínimos arancelarios como una herramienta de fomento para el profesional de reciente graduación o que ejerce individualmente, por oposición al abogado supuestamente más próspero que trabaja en grandes firmas o al servicio de clientes económicamente poderosos. El orden público no es una herramienta que necesariamente beneficie al pequeño cuentapropista. Éste suele ser atractivo para quienes demandan servicios porque, además de ofrecer la calidad que su cliente pretende, lo hace a cambio de un honorario atractivo gracias a que puede operar con una estructura modesta y por ende con menores costos. Si el orden público le impide competir con los _grandes_ por precio, pareciera que será perjudicado y no beneficiado al quitársele esa ventaja competitiva.
+
+El Proyecto regula los pactos de cuotalitis, sobre los que establece, esta vez, sólo honorarios porcentuales máximos (art. 6). No dice expresamente que esa forma de contratación deba considerarse una excepción a la prohibición general de renunciar a todo honorario futuro (art. 5) de modo que el abogado pueda pactar un honorario igual a cero si el resultado del pleito es adverso. Pareciera que esa autorización está implícita porque indica que superado cierto porcentaje de honorarios pactados el abogado deberá hacerse cargo de los gastos y costas del pleito, lo que indicaría una naturaleza totalmente asociativa en esa contratación, pero es tan sólo una deducción y algo forzada. Los honorarios contingentes, además de ser habituales, legítimos y éticamente admisibles, son aplicados también por abogados que ejercen individualmente como una forma de atraer clientela. Esa clientela a veces no tiene la capacidad económica necesaria para financiar un pleito mediante adelantos de honorarios. Poner en dudas con esta confusa técnica legislativa los límites de su licitud puede funcionar como otra barrera de acceso a la justicia.
+
+Determinar si el orden público es bueno o malo para los abogados, para los clientes de los abogados y para la sociedad en su conjunto es un tema que compete analizar a la Economía y no al Derecho. Entre los economistas existe una desarrollada especialidad que estudia los mercados regulados; qué le ocurre a los oferentes y qué le ocurre a los demandantes cuando se pasa de un sistema de precio libre a un sistema regulado o de tarifa, o al revés. Y esos efectos ocurren con independencia de que el intérprete sea partidario del libre cambio o de una mayor intervención regulatoria.
+
+No tenemos autoridad profesional para opinar desde la Economía pero sí sabemos a qué se dedica. Entre otros fenómenos, estudia los efectos del llamado excedente del consumidor (la diferencia entre el precio que el demandante paga hoy por un bien y el precio mayor que estaría dispuesto a pagar), el excedente del productor (la diferencia entre el precio que el oferente estaría dispuesto a aceptar y el precio mayor que el consumidor hoy le paga), la elasticidad (la medida en que aumenta o disminuye la demanda de un servicio al aumentar o disminuir su precio) y la sustitución (en virtud de la cual al aumentar un precio los consumidores tienden a reemplazarlo en alguna medida por otro que pueda cumplir funciones similares, como los abogados internos de empresa). No hemos encontrado evidencia alguna de que las organizaciones profesionales que impulsan el Proyecto hayan tenido en cuenta estudios al respecto o, en caso de haberlo hecho, que hayan debatido sus conclusiones.
+
+Además, lo valoremos bien o mal, la prestación de los servicios profesionales cada vez es más difícil de ser encorsetada a través de una regulación que tenga en cuenta un criterio territorial, dado el fenómeno de la deslocalización de actividades propio de la sociedad de la información. Respecto de las tareas tradicionales de representación y patrocinio judiciales existe un punto de conexión territorial muy fuerte porque se prestan con relación a un caso que se tramita en determinada jurisdicción, que fija la norma aplicable para determinar los honorarios. Pero esa concepción se vuelve cada día más anacrónica a medida que crecen las posibilidades de encomendar determinadas fases de la labor a abogados que no necesariamente se encuentran en la misma jurisdicción donde tramita un proceso. Es creciente la utilización de los servicios de tercerización de procesos legales (_LPO_, por sus siglas en inglés) que prestan abogados a empresas y estudios jurídicos de otros países, en especial de habla inglesa, y que también abarcan el apoyo a la gestión contenciosa. Por ejemplo, según un estudio de 2010 el número de firmas de tercerización de procesos legales en India creció de 40 a fines de 2005 a 140 en 2009, los ingresos generados en esta actividad habían aumentado un 38% en dos años y, en función de la tendencia, superarían los 1.000 millones de dólares anuales en 2014. 17 Sólo hay que dividir ese importe por el honorario promedio que los abogados indios cobran por hora para ver cuánta demanda incremental se ha generado en aquel país. Esa demanda ha permitido dar trabajo a una cantidad de abogados equivalente al que tendrían, sumados, muchos estudios jurídicos nuevos de cientos de abogados cada uno. El fenómeno de deslocalización ocurre ya en Latinoamérica, especialmente en servicios jurídicos internos de empresas multinacionales (también en algunas de origen argentino), y no tardaremos en ver cómo se generaliza entre distintas jurisdicciones de un mismo país y entre distintos países en el ejercicio privado de la profesión.
+
+El concepto mismo de radicación o domicilio es cada vez más débil como criterio para determinar adónde se ejerce la profesión de abogado. Los avances en materia de comunicaciones hacen que ya no sea condición para ello disponer de una oficina, elemento que resultaba imprescindible cuando el abogado debía trabajar sobre la base de información almacenada en papel que, además, debía conservar obviamente en archivos físicos. Cualquier disco rígido o servicio de almacenamiento en la nube permiten hoy guardar mucha más información que la que podía almacenar el fichero tradicional de un estudio jurídico, con posibilidad de un procesamiento más eficiente y por un costo despreciable. Eso hace más agresiva a la competencia dentro de la profesión, más flexible la posibilidad de trabajar en red entre profesionales de distintas organizaciones y ubicados en distintos lugares (el modelo del estudio jurídico no es ya la única forma de ejercicio posible) y muy poco útil a las regulaciones para mitigar los efectos de esa dinámica competitiva, sea ésta o no del gusto de quien la interprete.18
+
+**6.Propiedad del honorario**
+
+El Proyecto establece que el honorario es de propiedad exclusiva del profesional que lo hubiera devengado. Es otra oportunidad perdida para reconocer normativamente el fenómeno de los estudios jurídicos, pues la abogacía a veces no se ejerce individualmente sino a través de formas asociativas. A veces se contrata a un estudio de abogados y no a un profesional. Pero la firma de abogados brilla por su ausencia en las normas legales y éticas de nuestro país, adonde no es un sujeto de la matrícula ni acreedor de honorarios como opinamos que debería ser sin perjuicio de que se mantenga la responsabilidad profesional de cada uno de sus integrantes. Es cierto que muchos estudios jurídicos funcionan como una mera estructura de compartición de gastos y no son verdaderas sociedades, pero inclusive en ese caso la figura debe ser contemplada con aplicación de los principios de la sociedad aparente, porque usualmente el cliente no conoce la verdadera naturaleza de la organización y eso genera problemas no sólo en materia de conflictos de interés y de confidencialidad sino también de honorarios. Hemos conocido casos en los que un abogado, luego de su desvinculación de un estudio jurídico, ejecutó contra su ex cliente honorarios regulados a su favor a pesar de que regía un convenio de honorarios entre el cliente y la firma que había integrado.
+
+El Proyecto declara el carácter alimentario del honorario del abogado, lo que presupone equipararlo al salario de un dependiente, en lugar de mantener la distinción con el concepto tradicional de la llamada profesión liberal. Es probable que por eso el Proyecto contenga, reconocemos que esta vez de manera coherente, diversas medidas de protección similares a los que se dispensan al salario, como la exención del pago de la tasa de justicia en las acciones de cobro (art. 55) y la inembargabilidad de cierto porcentaje del honorario (art. 3), cuyos beneficiarios tendrán una situación diferente de la de otros profesionales o artesanos que tampoco son empleados de sus comitentes sin que para nosotros aparezca el fundamento de semejante privilegio. Esa línea de razonamiento relacionada con la dignidad del abogado y la propiedad inalienable del honorario se interrumpe en términos lógicos porque el Proyecto se ocupa de los abogados que son empleados de su cliente (art. 2) pero no de los que son empleados de otros abogados. También el profesional que trabaja solo o inserto en una pequeña estructura asociativa suele emplear colegas.
+
+**7. La prohibición de la liberalidad**
+
+En el artículo 5 del Proyecto se declara nula toda renuncia anticipada del honorario y cualquier pacto que se haga por debajo de los mínimos arancelarios, salvo en beneficio de ascendientes y descendientes en línea recta, hermanos, cónyuge y conviviente. Es claro entonces que sí permite la renuncia a un honorario regulado o tal vez meramente devengado (no se indica explícitamente respecto de qué se predica la anticipación). También, explícitamente, permite el trabajo profesional caritativo o _pro bono_ sin imponer ninguna condición para ser su beneficiario. Parece un régimen contradictorio según el cual quien puede lo más no puede lo menos, pues estaría permitido renunciar a la totalidad de un honorario ya regulado o trabajar gratis para extraños, pero prohibido hacer un descuento a un cliente habitual respecto de la tarifa mínima regulada.
+
+Desde otra perspectiva, nos resistimos a pensar que el Estado tenga atribuciones para inmiscuirse en la esfera privada de los afectos de un individuo (art. 19, Constitución Nacional) y obligarlo, como surge del Proyecto, a convenir por lo menos determinados honorarios con su primo hermano o con un vecino a quien cree merecedor de una atención. Negarle autoritariamente su derecho de disponer libremente del tiempo, de los conocimientos y de los recursos propios es afectar atributos que pueden calificarse como propiedad en el sentido constitucional del término.
+
+Una interpretación literal y conjunta de semejante prohibición y de la que considera propiedad inalienable del abogado el derecho a cobrar honorarios, llevaría al absurdo de prohibirle a un abogado que trabajara gratis individualmente pero autorizarlo a que lo hiciera, por ejemplo, a través del consultorio jurídico gratuito que el artículo 55 de la ley 23.187 obliga al Colegio Público de Abogados de la Capital Federal a gestionar. Ningún fundamento racional permite aprobar un acto inválido y antiético porque se lo ejecute con una institución de por medio.
+
+Como el pacto por debajo de los honorarios mínimos es calificado en el Proyecto como falta ética, será interesante ver qué ocurre cuando el Tribunal de Disciplina del Colegio Público de Abogados reciba una denuncia contra un abogado por haber pactado un honorario inferior al mínimo legal y ejecutar luego la diferencia. ¿Además de sancionarlo por el pacto original lo harán también por haber engañado al cliente que no tiene por qué conocer las leyes? ¿La pretensión ulterior de cobro de la diferencia también será considerada una falta ética a pesar de que remedia la primera? ¿En términos de defensa del consumidor, un cliente deberá hacer revisar por otro abogado el pacto de honorarios que le propone el suyo para no ser víctima de un pacto nulo cuya nulidad no está en condiciones de conocer? Ninguna de estas hipótesis parece fantasiosa.
+
+El comerciante o la empresa que reciban ordinariamente una cantidad significativa de pleitos (por ejemplo, una compañía de seguros) deberán modificar sus balances y registrar como pasivo los honorarios que surgen del arancel para los juicios nuevos. Lo mismo ocurrirá con ciertos organismos públicos que reciben miles de demandas. En el primer caso aumentarán los ya significativos costos de hacer negocios en la Argentina; en el último, el mayor costo será afrontado en última instancia por los contribuyentes.
+
+**8. Singular camino hacia la dignidad**
+
+En los fundamentos del Proyecto, y en innumerables declaraciones de dirigentes de la profesión, se indica como finalidad de estas normas la de propender a lo que se llama la dignidad de la abogacía. Nos parece que se trata de una suerte de comodín que permite que cada uno le ponga el contenido que considera le cabe.
+
+Reiteramos que no existe una explicación que relacione el precio con la dignidad. Mucho menos, el éxito económico con el precio unitario (por obvio que parezca, alguien puede hacerse rico vendiendo caramelos). Pero además, y más allá de que todos necesitamos autopercibirnos como dignos, es mejor si la sociedad coincide con esa apreciación, no porque lo más importante sea la percepción de terceros sino hasta por meras razones utilitarias: los abogados viven de sus clientes. Desdichadamente, no hay efecto sin causa y muchos factores inciden para que la abogacía no tenga en la sociedad el prestigio que alguna vez tuvo: una deficiente preparación universitaria, un control bastante opaco de la ética profesional (es imposible conocer la mayoría de las sentencias del Tribunal de Disciplina del Colegio Público de Abogados), pobre desempeño del sistema de justicia que, recordemos, también está gestionado por abogados a ambos lados del mostrador, y seguramente varios más.
+
+Sin mejorar en todos esos ámbitos, opinamos que será difícil que un sujeto racional que continúe recibiendo sustancialmente el mismo servicio valore más a su abogado y lo perciba, en palabras del Proyecto, como _un agente de la paz social_ porque una ley se lo encarece.
+
+NOTAS
+
+(*) © Marcelo Gobbi, 2015. Se autoriza la reproducción total o parcial con cita de fuente.
+
+1 Expediente S 2993/15. El Proyecto fue firmado por los senadores Urtubey, Guastavino, Fuentes y Pichetto (tres de ellos abogados) y sólo recibió tres votos en contra, los de los senadores Borello, Cimadevilla y Negre de Alonso.
+
+2 Arballo, Gustavo: La ley y el orden (público), en su blog Saber leyes no es saber Derecho, 5/5/2009, [http://www.saberderecho.com/search/label/orden%20p%C3%BAblico.](http://www.saberderecho.com/search/label/orden%20p%C3%BAblico. "http://www.saberderecho.com/search/label/orden%20p%C3%BAblico.") El autor menciona una heterogénea lista de normas que llevan esa etiqueta, que hasta incluye a la ley que regula a quienes trabajan como personal de seguridad en discotecas o espectáculos, comúnmente llamados patovicas.
+
+3 Borda, Guillermo A., Concepto de ley de orden público, LL 58-1950, pág. 99; Mosset Iturraspe, El orden público y la tutela del consumidor o usuario, Biblioteca Jurídica Virtual de la Universidad Autónoma Nacional de México, www.juridicas.unam.mx, pág. 229.
+
+4 Bueres, Alberto y Highton, Elena: Código Civil y normas complementarias, Hammurabi, Buenos Aires, 1995, págs. 55/57.
+
+5 Mosset Iturraspe, Jorge, op. cit.
+
+6 Versión taquigráfica de la sesión del 28 de octubre de 2015, punto 12 correspondiente al orden del día 753/2015.
+
+7 Ibidem.
+
+8 Lorenzetti, Ricardo Luis, Consumidores, segunda edición actualizada, Santa Fe, Rubinzal-Culzoni, 2009, pág. 44 y ss.
+
+9 C. N. Civ., en pleno, 20/9/1963, Mijalovich, Juan c. Noguerol Armengol, José, LL 112-156.
+
+10 [https://www.cnmc.es/desktopmodules/buscadorexpedientes/mostrarfichero.aspx?dueno=1&codigoMetadato=684466](https://www.cnmc.es/desktopmodules/buscadorexpedientes/mostrarfichero.aspx?dueno=1&codigoMetadato=684466 "https://www.cnmc.es/desktopmodules/buscadorexpedientes/mostrarfichero.aspx?dueno=1&codigoMetadato=684466")
+
+11 [http://www.cpacf.org.ar/noticia.php?id=406&sec=39](http://www.cpacf.org.ar/noticia.php?id=406&sec=39 "http://www.cpacf.org.ar/noticia.php?id=406&sec=39")
+
+12 [http://abogadosdesalta.org.ar/noticia/honorarios-profesionales-sugeridos-por-colegio-de-abogados-y-procuradores#.Vjq47VUvfIU](http://abogadosdesalta.org.ar/noticia/honorarios-profesionales-sugeridos-por-colegio-de-abogados-y-procuradores#.Vjq47VUvfIU "http://abogadosdesalta.org.ar/noticia/honorarios-profesionales-sugeridos-por-colegio-de-abogados-y-procuradores#.Vjq47VUvfIU")
+
+13 [http://escribanos.org.ar/wp-content/uploads/2015/03/Honorarios-minimos-2015.pdf](http://escribanos.org.ar/wp-content/uploads/2015/03/Honorarios-minimos-2015.pdf "http://escribanos.org.ar/wp-content/uploads/2015/03/Honorarios-minimos-2015.pdf")
+
+14 [http://www.colesctuc.com/index.php/tabla-indicativa-de-honorarios-minimos](http://www.colesctuc.com/index.php/tabla-indicativa-de-honorarios-minimos "http://www.colesctuc.com/index.php/tabla-indicativa-de-honorarios-minimos")
+
+15 [https://www.colegio-escribanos.org.ar:8443/webColegio/pb_contenido.do?sec=ins&url=/contenido_web_colegio/institucional_codigo_etica.htm&barra=/contenido_web_colegio/menuder1.htm](https://www.colegio-escribanos.org.ar:8443/webColegio/pb_contenido.do?sec=ins&url=/contenido_web_colegio/institucional_codigo_etica.htm&barra=/contenido_web_colegio/menuder1.htm "https://www.colegio-escribanos.org.ar:8443/webColegio/pb_contenido.do?sec=ins&url=/contenido_web_colegio/institucional_codigo_etica.htm&barra=/contenido_web_colegio/menuder1.htm")
+
+16 The New York Times, 4/8/2010.
+
+17 La necesidad de transformación en el modo tradicional en que los abogados prestan su servicio con motivo de los avances tecnológicos ha sido reflejada a nuestro juicio de manera muy acertada en Susskind, Richard: The end of lawyers. Rethinking the nature of legal services, Londres, Oxford University Press, edición revisada, 2010.
