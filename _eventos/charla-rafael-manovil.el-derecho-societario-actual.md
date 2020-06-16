@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Charla Rafael Manóvil. El derecho societario actual.
-datetime: 21/05/2020 3:00 PM
+datetime: 2020-05-21 3:00 PM
 feature: "/assets/img/eagcqitx0agsmwi.jpg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
   el encierro.

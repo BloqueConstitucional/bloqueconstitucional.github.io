@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Charla Danie R. Vítolo. Caso Vicentin.
-datetime: 12/06/2020 3:00 PM
+datetime: 2020-06-12 3:00 PM
 feature: "/assets/img/vitolo.jpg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
   el encierro.

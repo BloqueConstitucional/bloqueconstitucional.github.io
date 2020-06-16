@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Presentación de propuestas a la CSJN
-datetime: 14/04/2020 9:56 AM
+datetime: 2020-04-14 9:56 AM
 feature: /assets/img/basta-de-feria.jpg
 place: Palacio de Justicia
 price: 0

@@ -1,5 +1,5 @@
 <div class="grid" data-columns>
-    {% assign sorted_events = site.eventos | sort: "datetime" %}
+    {% assign sorted_events = site.eventos | sort: "datetime" | reverse %}
     {% for event in sorted_events limit:include.limit %}
     {% include cards/event.html event=event %}
     {% endfor %}

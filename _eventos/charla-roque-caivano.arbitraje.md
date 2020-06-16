@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Charla Roque Caivano. Arbitraje.
-datetime: 28/05/2020 3:00 PM
+datetime: 2020-05-28 3:00 PM
 feature: "/assets/img/eagcs7pxqaehdaj.jpg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
   el encierro.

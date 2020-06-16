@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Charla Horacio Liendo. Títulos públicos y default
-datetime: 18/06/2020 3:00 PM
+datetime: 2020-06-18 3:00 PM
 feature: "/assets/img/whatsapp-image-2020-06-15-at-11-38-16.jpeg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
   el encierro.
