@@ -7,6 +7,5 @@ title: Test
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
