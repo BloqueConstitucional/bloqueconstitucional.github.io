@@ -38,3 +38,8 @@ fields:
 - type: text
   name: description
   label: Descripción
+- name: external
+  type: text
+  config:
+    required: false
+  label: eventbrite link
