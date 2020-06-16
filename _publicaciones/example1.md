@@ -2,7 +2,7 @@
 layout: publicacion
 title: "¿DE QUÉ DEBERÍA OCUPARSE EL COLEGIO PÚBLICO DE ABOGADOS?"
 author: Marcelo Gobbi
-link: ''
+external: ''
 photo: "/assets/img/unnamed-1.jpg"
 description: El Rol del CPACF y la desviación de su fin
 

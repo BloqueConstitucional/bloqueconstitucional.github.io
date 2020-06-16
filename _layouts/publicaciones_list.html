@@ -27,8 +27,8 @@
                 </div>
                 <div class="card-action">
                     <a class="blue-text" href="{{ site.url }}{{ publicacion.url }}">Ver artículo</a>
-                    {% if publicacion.link %}
-                    <a class="blue-text" href="{{ publicacion.link }}">Medium</a>
+                    {% if publicacion.external != "" %}
+                    <a class="blue-text" href="{{ publicacion.external }}">Medium</a>
                     {% endif %}
                 </div>
             </div>
