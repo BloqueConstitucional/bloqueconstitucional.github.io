@@ -7,7 +7,7 @@ place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad d
   el encierro.
 price: 0
 description: 'Default: Los títulos Públicos y el Derecho.'
-
+external: https://www.eventbrite.com/e/dr-horacio-t-liendo-default-los-titulos-publicos-y-el-derecho-tickets-109539539712
 ---
 🗣️ Nueva charla este Jueves. 
 

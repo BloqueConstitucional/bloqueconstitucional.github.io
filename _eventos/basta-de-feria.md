@@ -6,7 +6,6 @@ feature: /assets/img/basta-de-feria.jpg
 place: Palacio de Justicia
 price: 0
 description: Presentación y propuestas para el levantamiento de la feria judicial.
-external: https://eventbrite.com/asdf
 
 ---
 La presentación dirigida al presidente del Tribunal, Dr. Carlos Rosenkrantz, sostiene que las herramientas informáticas ya disponibles y mayormente en funcionamiento permiten poner a la Justicia a trabajar casi normalmente en condición totalmente remota, con mínima presencia física, y que sólo son necesarias “muy pequeñas y puntuales adaptaciones a los procesos y formas de trabajo”.
