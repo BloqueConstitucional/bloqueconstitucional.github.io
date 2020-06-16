@@ -43,5 +43,3 @@ fields:
   config:
     required: false
   label: eventbrite link
-pages:
-- _eventos/test.md
