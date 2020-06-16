@@ -47,8 +47,14 @@
     color: rgb(85,85,85);
 }
 
-.facebook-text {
+.facebook-white-text {
     color:white;
+    :hover {
+        color: #4267B2 !important;
+    }
+}
+.facebook-black-text {
+    color:black;
     :hover {
         color: #4267B2 !important;
     }
@@ -59,8 +65,15 @@
     color: rgb(85,85,85);
 }
 
-.twitter-text {
+.twitter-white-text {
     color:white;
+    :hover {
+        color: #55ACEE !important;
+    }
+}
+
+.twitter-black-text {
+    color:black;
     :hover {
         color: #55ACEE !important;
     }
@@ -71,16 +84,18 @@
     color: rgb(85,85,85);
 }
 
-.instagram-text {
+.instagram-white-text {
     color:white;
     :hover {
         color: #833AB4 !important;
     }
 }
 
-.linkedin {
-    background: #007bb5;
-    color: rgb(85,85,85);
+.instagram-black-text {
+    color:black;
+    :hover {
+        color: #833AB4 !important;
+    }
 }
 
 .youtube {
@@ -93,8 +108,15 @@
     color: rgb(85,85,85);
 }
 
-.spotify-text {
+.spotify-white-text {
     color: white;
+    :hover {
+        color: #1DB954 !important;
+    }
+}
+
+.spotify-black-text {
+    color: black;
     :hover {
         color: #1DB954 !important;
     }
