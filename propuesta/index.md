@@ -13,11 +13,12 @@ Declaramos nuestra voluntad de reestablecer el imperio del sistema federal, de l
 
 Instamos democráticamente a la derogación de la obligatoriedad de pertenecer al CPACF!
 
-**Escribinos a [BloqueConstitucional@hotmail.com](mailto:bloqueConstitucional@hotmail.com) o bien a [colegiolibre@gmail.com](mailto:colegiolibre@gmail.com). Sos bienvenido a sumarte!**
+**Escribinos a** [**bloqueconstitucional@hotmail.com**](mailto:bloqueConstitucional@hotmail.com) **o bien a** [**bloqueconstitucional@gmail.com**](mailto:bloqueconstitucional@gmail.com)**. Sos bienvenido a sumarte!**
 
-**Podés seguirnos en Twitter en [@BloqueConst]({{ site.twitter_link }})**
+**Podés seguirnos en Twitter en** [**@BloqueConst**]({{ site.twitter_link }})
 
 #### NUESTRA PLATAFORMA
+
 ##### **Lo que NO QUEREMOS**
 
 1. Un sindicato de agremiación forzosa.
@@ -36,29 +37,29 @@ Instamos democráticamente a la derogación de la obligatoriedad de pertenecer a
 2. Eficiente contralor administrativo de la matrícula ejercido por los poderes constituidos (por ejemplo, el Ministerio de Justicia de la Ciudad de Buenos Aires).
 3. Poder disciplinario ejercido por la Justicia de la Ciudad de Buenos Aires.
 4. Que el CPACF sea un Colegio voluntario y libre. Ello significa:
-    1. Eliminación de funciones de poder de policía de control de la matrícula y disciplina.
-    2. Excelencia en los servicios.
-        1. Selección de servicios realmente demandados.
-        2. Calidad.
-        3. Economía.
-    3. Participación, Transparencia y Libertad de No Pertenecer.
-    4. Control real de la gestión de sus autoridades:
-        1. Por resultados obtenidos.
-        2. Por posicionamiento ante la competencia.
-        3. Por eficiencia en la gestión.
-    5. Representación eficaz ante los poderes públicos.
-    6. Orgullo y utilidad de pertenecer.
+   1. Eliminación de funciones de poder de policía de control de la matrícula y disciplina.
+   2. Excelencia en los servicios.
+      1. Selección de servicios realmente demandados.
+      2. Calidad.
+      3. Economía.
+   3. Participación, Transparencia y Libertad de No Pertenecer.
+   4. Control real de la gestión de sus autoridades:
+      1. Por resultados obtenidos.
+      2. Por posicionamiento ante la competencia.
+      3. Por eficiencia en la gestión.
+   5. Representación eficaz ante los poderes públicos.
+   6. Orgullo y utilidad de pertenecer.
 5. Ampliar nuestro ámbito de trabajo mediante la facilitación a todos los ciudadanos del acceso al Derecho y la Justicia y no por la generación de privilegios profesionales que encarecen los servicios, reducen su demanda y empañan su eficiencia.
 
 ##### **Lo que SOÑAMOS (más allá del CPACF)**
 
 1. **<u>Libertad para el ejercicio de la profesión de abogado en todo el país.</u>** Derribar las barreras jurisdiccionales y enormes costos que imponen los colegios y las cajas previsionales en la CABA y en cada provincia, en un marco de plena autonomía federal.
 2. **<u>Libertad para el ejercicio de todas las profesiones en la República Argentina.</u>**
-    1. Reducir los costos que pagamos los ciudadanos, debidos a aportes compulsivos y mínimos arancelarios.
-    2. Mejorar la calidad de las prestaciones profesionales.
-    3. Ampliar el acceso de la ciudadanía a los servicios profesionales.
-    4. Eliminar los lobbies profesionales subsidiados con tributos que pagamos los ciudadanos.
-    5. Permitir el florecimiento de mejores asociaciones profesionales y académicas: las que se destaquen por su excelencia, en un ámbito de sana competencia
+   1. Reducir los costos que pagamos los ciudadanos, debidos a aportes compulsivos y mínimos arancelarios.
+   2. Mejorar la calidad de las prestaciones profesionales.
+   3. Ampliar el acceso de la ciudadanía a los servicios profesionales.
+   4. Eliminar los lobbies profesionales subsidiados con tributos que pagamos los ciudadanos.
+   5. Permitir el florecimiento de mejores asociaciones profesionales y académicas: las que se destaquen por su excelencia, en un ámbito de sana competencia
 3. **<u>Eliminación de los privilegios previsionales de las cajas profesionales.</u>** Se financian con impuestos específicos, sustraen aportes que deberían ir al sistema general y administran sus fondos sin controles adecuados ni eficiencia.
 4. Esperan su turno todos los colegios obligatorios y cajas previsionales de:
     1. Contadores
@@ -70,4 +71,4 @@ Instamos democráticamente a la derogación de la obligatoriedad de pertenecer a
     7. Farmacéuticos
     8. Escribanos
     9. Martilleros
-    10. ...
+   10. ...
