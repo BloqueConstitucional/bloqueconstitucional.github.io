@@ -7,7 +7,7 @@ title: Propuestas de campaña
 
 ## Colegio Público de Abogados de la Capital Federal 2020
 
-### **1) AUSTERIDAD Y TRANSPARENCIA DEL CPACF**
+### **1) AUSTERIDAD Y TRANSPARENCIA EN EL PRESUPUESTO DEL CPACF**
 
 ***
 
