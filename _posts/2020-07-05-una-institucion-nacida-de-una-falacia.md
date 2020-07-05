@@ -6,6 +6,7 @@ feature: "/assets/img/images.png"
 tags:
 - CPACF
 - Libertad
+- Opiniones
 title: Una institución nacida de una falacia
 
 ---
