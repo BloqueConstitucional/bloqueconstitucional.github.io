@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Charla Alejandro Fargosi
-datetime: 2020-06-02 3:00 PM
+datetime: 2020-06-30 3:00 PM
 feature: "/assets/img/banner.jpeg"
 place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
   el encierro.
