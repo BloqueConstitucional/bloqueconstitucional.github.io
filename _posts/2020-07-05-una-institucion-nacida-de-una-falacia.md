@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 
+date: 2020-07-05
 author: Alfredo Mendiguren
 feature: "/assets/img/images.png"
 tags:
