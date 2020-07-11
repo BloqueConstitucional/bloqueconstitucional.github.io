@@ -1,7 +1,7 @@
 <div class="card">
     <span class="new badge blue date-badge"
         data-badge-caption="{{ include.post.date | date: '%d/%m/%y' }}"></span>
-    {% if include.post.feature %}
+    {% if include.post.feature != '' %}
     <a class="black-text" href="{{ site.url }}{{ include.post.url }}">
         <div class="card-image">
             <img src="{{ site.url }}{{ include.post.feature }}">

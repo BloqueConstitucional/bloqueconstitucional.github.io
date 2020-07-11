@@ -10,7 +10,7 @@
 
     <!-- Body -->
     <div class="container">
-        {% if page.feature != "default.png" %}
+        {% if page.feature != "default.png" and page.feature != "" %}
         <div class="post-feature-wrapper">
             <img src="{{ site.url }}{{ page.feature }}">
         </div>

@@ -1,12 +1,6 @@
 <div class="grid" data-columns>
-    {% assign novedades = site.posts | concat: site.eventos | sort: 'date' | reverse %}
+    {% assign novedades = site.posts | sort: 'date' | reverse %}
     {% for post in novedades limit:include.limit %}
-
-    {% if post.layout == "event" %}
-    {% include cards/event.html event=post %}
-    {% else %}
     {% include cards/post.html post=post %}
-    {% endif %}
-
     {% endfor %}
 </div>
