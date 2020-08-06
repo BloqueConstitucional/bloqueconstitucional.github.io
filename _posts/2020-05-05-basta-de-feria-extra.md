@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basta de feria extra(?)ordinaria.
+title: Basta de feria extraordinaria.
 date: 2020-05-05
 author: Ricardo Mihura
 feature: "/assets/img/eyt-o2ixgaiwvq6.jpg"
