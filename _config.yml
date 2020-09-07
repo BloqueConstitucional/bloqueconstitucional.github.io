@@ -22,7 +22,7 @@ collections:
   campaign:
     output: false
 campaign_name: Campaña CPACF 2020
-is_campaign: false
+is_campaign: true
 plugins:
 - jekyll-feed
 - jekyll-tagories
