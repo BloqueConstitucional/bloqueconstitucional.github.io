@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BASTA DE FERIA!
+title: Basta de Feria!
 date: 2020-04-14
 author: Ricardo Mihura
 feature: "/assets/img/basta-de-feria.jpg"
@@ -16,8 +16,9 @@ La República necesita que la Justicia se reinicie plenamente y así lo hemos so
 
 Lamentablemente no hemos tenido ninguna respuesta y la feria se ha seguido prorrogando.
 
-----
-*Buenos Aires, 14  de abril de 2020*
+***
+
+_Buenos Aires, 14  de abril de 2020_
 
 ##### **PARTE DE PRENSA**
 
@@ -33,12 +34,6 @@ La petición se encuentra alineada con las dos Acordadas aprobadas ayer por el m
 
 La propuesta de BLOQUE CONSTITUCIONAL va más lejos, ya que contempla también la realización de audiencias por teleconferencia, presentación de pericias digitalmente y el diligenciamiento de oficios y mandamientos, entre otros pasos normales de los procesos judiciales.
 
+_Firman la presentación realizada los abogados Ricardo Mihura Estrada y Manuel Ponce, y en forma remota acompaña, entre otros, el ex consejero de la Magistratura Dr. Alejandro Fargosi._
 
-*Firman la presentación realizada los abogados Ricardo Mihura Estrada y Manuel Ponce, y en forma remota acompaña, entre otros, el ex consejero de la Magistratura Dr. Alejandro Fargosi.*
-
-![Imagen 1]({{ site.url }}/assets/img/basta-de-feria-01.jpg "Imágen")
-![Imagen 2]({{ site.url }}/assets/img/basta-de-feria-02.jpg "Imágen")
-![Imagen 3]({{ site.url }}/assets/img/basta-de-feria-03.jpg "Imágen")
-![Imagen 4]({{ site.url }}/assets/img/basta-de-feria-04.jpg "Imágen")
-![Imagen 5]({{ site.url }}/assets/img/basta-de-feria-05.jpg "Imágen")
-![Imagen 6]({{ site.url }}/assets/img/basta-de-feria-06.jpg "Imágen")
+![Imagen 1]({{ site.url }}/assets/img/basta-de-feria-01.jpg "Imágen") ![Imagen 2]({{ site.url }}/assets/img/basta-de-feria-02.jpg "Imágen") ![Imagen 3]({{ site.url }}/assets/img/basta-de-feria-03.jpg "Imágen") ![Imagen 4]({{ site.url }}/assets/img/basta-de-feria-04.jpg "Imágen") ![Imagen 5]({{ site.url }}/assets/img/basta-de-feria-05.jpg "Imágen") ![Imagen 6]({{ site.url }}/assets/img/basta-de-feria-06.jpg "Imágen")
