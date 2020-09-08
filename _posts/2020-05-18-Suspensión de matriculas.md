@@ -11,6 +11,7 @@ tags:
 - COVID
 
 ---
+
 _El 14 de mayo pasado el Boletín Oficial publicó la resolución del Colegio Público de Abogados de Capital Federal (CPACF) que suspende todas las matrículas que no hayan pagado los últimos 3 períodos quedando **INHABILITADOS** para el ejercicio profesional más de 3000 abogados listados en un anexo de 40 hojas.-_
 
 **Suspensión de las matrículas durante la pandemia Covid19**
