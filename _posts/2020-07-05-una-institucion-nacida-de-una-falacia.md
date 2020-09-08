@@ -10,9 +10,6 @@ tags:
 title: Una institución nacida de una falacia
 
 ---
-
-El ejercicio de la abogacia se
-
 _El ejercicio de la abogacía en el ámbito de la ciudad de Buenos Aires se desarrolló, históricamente, sin la existencia de colegiación obligatoria alguna hasta que, en el año 1985, se sancionó la malhadada ley 23.187 que logró imponerla en base a una falacia._
 
 **Una institución nacida de una falacia**
