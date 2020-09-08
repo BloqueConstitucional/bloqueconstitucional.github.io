@@ -2,7 +2,7 @@
 layout: post
 date: 2020-07-05
 author: Alfredo Mendiguren
-feature: "/assets/img/images.png"
+feature: "/assets/img/falacia.png"
 tags:
 - CPACF
 - Libertad
