@@ -3,7 +3,7 @@ layout: event
 title: Charla Alejandro Fargosi
 datetime: 2020-06-30 3:00 PM
 feature: "/assets/img/banner.jpeg"
-place: Charlas en cuarentena by Bloque Constitucional. Defendiendo la libertad desde
+place: Charlas en cuarentena.  Bloque Constitucional. Defendiendo la libertad desde
   el encierro.
 price: 0
 description: Reforma Judicial sin pelos en la lengua.
