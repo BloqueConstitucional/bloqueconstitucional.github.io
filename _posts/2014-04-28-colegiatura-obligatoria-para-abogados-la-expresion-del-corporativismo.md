@@ -2,7 +2,7 @@
 layout: post
 date: 2014-04-28
 author: Ezequiel Spector
-feature: "/assets/img/default.png"
+feature: "/assets/img/colegiacion-obligatoria.jpg"
 tags:
 - CPACF
 - Libertad de Asociación
