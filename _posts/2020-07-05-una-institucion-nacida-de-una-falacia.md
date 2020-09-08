@@ -10,6 +10,15 @@ tags:
 title: Una institución nacida de una falacia
 
 ---
+
+El ejercicio de la abogacia se
+
+_El ejercicio de la abogacía en el ámbito de la ciudad de Buenos Aires se desarrolló, históricamente, sin la existencia de colegiación obligatoria alguna hasta que, en el año 1985, se sancionó la malhadada ley 23.187 que logró imponerla en base a una falacia._
+
+**Una institución nacida de una falacia**
+
+Por Alfredo Mendiguren
+
 **Falacia.** (Del lat. _fallacĭa_).
 
 **1.** f. Engaño, fraude o mentira con que se intenta dañar a alguien.
@@ -34,12 +43,10 @@ Como se ve, lejos se estaba de contar con una aspiración ampliamente mayoritari
 
 Particularmente y estando como asesor de una diputada nacional en el momento de debatirse el entonces proyecto de ley, mocioné la inclusión de un artículo que estableciera que la participación en la elección de autoridades fuera voluntaria y que, de no concurrir a votar como mínimo la mitad del padrón, ello constituiría un hecho revelador del desinterés de los matriculados en la institución y, por ende, la misma debería entrar en estado de disolución y liquidación. A tal fin el padrón debía incluir al total de los matriculados, sin exclusiones, toda vez que la falta de pago de la matrícula anual también implica desinterés en la subsistencia de la institución.
 
-  
 Como es de suponer, el bloque de la UCR, en aquel momento a través del diputado Vanossi, se opuso totalmente a considerar dicha propuesta.
 
 En rigor de verdad, los colegialistas siempre tuvieron como presunción _“iuris et de iure”_ que todos los abogados de la Capital Federal aspiraban a colegiarse compulsivamente pero, preventivamente, nunca aceptaron cotejar tal presunción con la realidad.
 
 Obsérvese que la pretensión de una nueva vuelta de tuerca intervencionista y parasitaria como lo fue el intento de creación de la Caja de Seguridad Social de Abogados reveló que la mayoría de los abogados reaccionó negativamente, lo que permite suponer similar resultado frente a una encuesta que ausculte respecto de la continuidad de un colegio obligatorio.
 
-  
 En definitiva, nos encontramos formando parte de un colegio, en lo que a mi atañe contra mi voluntad, como consecuencia de un embuste.
