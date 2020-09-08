@@ -13,10 +13,6 @@ Declaramos nuestra voluntad de reestablecer el imperio del sistema federal, de l
 
 Instamos democráticamente a la derogación de la obligatoriedad de pertenecer al CPACF!
 
-**Escribinos a** [**bloqueconstitucional@hotmail.com**](mailto:bloqueConstitucional@hotmail.com) **o bien a** [**bloqueconstitucional@gmail.com**](mailto:bloqueconstitucional@gmail.com)**. Sos bienvenido a sumarte!**
-
-**Podés seguirnos en Twitter en** [**@BloqueConst**]({{ site.twitter_link }})
-
 #### NUESTRA PLATAFORMA
 
 ##### **Lo que NO QUEREMOS**
@@ -72,3 +68,7 @@ Instamos democráticamente a la derogación de la obligatoriedad de pertenecer a
     8. Escribanos
     9. Martilleros
    10. ...
+
+       **Escribinos a** [**bloqueconstitucional@hotmail.com**](mailto:bloqueConstitucional@hotmail.com) **o bien a** [**bloqueconstitucional@gmail.com**](mailto:bloqueconstitucional@gmail.com)**. Sos bienvenido a sumarte!**
+
+       **Podés seguirnos en Twitter en** [**@BloqueConst**]({{ site.twitter_link }})
