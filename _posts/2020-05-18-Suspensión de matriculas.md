@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Suspensión de las matrículas durante la pandemia "
+title: " Suspensión de las matrículas durante la pandemia Covid-19"
 date: 2020-05-18
 author: María Laura Blanco Peña
 feature: "/assets/img/unnamed.jpg"
