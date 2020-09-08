@@ -20,7 +20,7 @@ Lamentablemente no hemos tenido ninguna respuesta y la feria se ha seguido prorr
 
 _Buenos Aires, 14  de abril de 2020_
 
-##### **PARTE DE PRENSA**
+##### **Parte de Prensa**
 
 **ABOGADOS PROPONEN A LA CORTE MEDIDAS PARA REINICIAR LA JUSTICIA DE MANERA REMOTA CON MÍNIMA PRESENCIA FÍSICA**
 
@@ -36,4 +36,4 @@ La propuesta de BLOQUE CONSTITUCIONAL va más lejos, ya que contempla también l
 
 _Firman la presentación realizada los abogados Ricardo Mihura Estrada y Manuel Ponce, y en forma remota acompaña, entre otros, el ex consejero de la Magistratura Dr. Alejandro Fargosi._
 
-![Imagen 1]({{ site.url }}/assets/img/basta-de-feria-01.jpg "Imágen") ![Imagen 2]({{ site.url }}/assets/img/basta-de-feria-02.jpg "Imágen") ![Imagen 3]({{ site.url }}/assets/img/basta-de-feria-03.jpg "Imágen") ![Imagen 4]({{ site.url }}/assets/img/basta-de-feria-04.jpg "Imágen") ![Imagen 5]({{ site.url }}/assets/img/basta-de-feria-05.jpg "Imágen") ![Imagen 6]({{ site.url }}/assets/img/basta-de-feria-06.jpg "Imágen")
+![Imagen 1]({{ site.url }}/assets/img/basta-de-feria-01.jpg "Imágen") ![Imagen 2]({{ site.url }}/assets/img/basta-de-feria-02.jpg "Imágen") ![Imagen 3]({{ site.url }}/assets/img/basta-de-feria-03.jpg "Imágen") ![Imagen 4]({{ site.url }}/assets/img/basta-de-feria-04.jpg "Imágen") ![Imagen 5]({{ site.url }}/assets/img/basta-de-feria-05.jpg "Imágen") 
