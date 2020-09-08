@@ -1,6 +1,6 @@
 ---
 layout: publicacion
-title: "¿DE QUÉ DEBERÍA OCUPARSE EL COLEGIO PÚBLICO DE ABOGADOS?"
+title: "¿De qué deberia ocuparse el Colegio de Abogados?"
 author: Marcelo Gobbi
 external: ''
 photo: "/assets/img/unnamed-1.jpg"
