@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SUSPENSION DE MATRICULAS DE ABOGADOS DURANTE LA PANDEMIA DEL COVID-19.
+title: " Suspensión de las matrículas durante la pandemia "
 date: 2020-05-18
 author: María Laura Blanco Peña
 feature: "/assets/img/unnamed.jpg"
