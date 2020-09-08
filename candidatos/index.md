@@ -1,6 +1,6 @@
 ---
 layout: candidatos
-title: Candidatos
+title: Cargos actuales en CPACF
 
 ---
 ##### **Consejo Directivo**
