@@ -11,7 +11,8 @@ tags:
 title: Declaración de principios
 
 ---
-Estos son los principios que contituyen el eje de nuestra propuesta:
+
+[Download File]( "Download File")Estos son losprincipios que contituyen el eje de nuestra propuesta:
 
 • Participamos en la construcción de una Justicia abierta, libre de las cargas financieras y burocráticas que entorpecen el ejercicio de la abogacía, el acceso a la Justicia y el imperio del Estado de Derecho.
 
@@ -21,4 +22,4 @@ Estos son los principios que contituyen el eje de nuestra propuesta:
 
 • Mientras se encuentren vigentes las leyes de colegiación obligatoria exigimos a las autoridades de los colegios profesionales su estricto cumplimiento, no extralimitarse en sus competencias legales, y recaudar, administrar y aplicar sus recursos con legalidad, transparencia y austeridad republicanas.
 
-• Para defender estos principios nos organizamos, convocamos a los colegas de buena voluntad y nos comprometemos a realizar prudente acción política republicana, respetando y haciendo respetar la Constitución Nacional y la Ley.
+• Para defender estos principios nos organizamos, convocamos a los colegas de buena voluntad y nos comprometemos a realizar prudente acción política republicana, respetando y haciendo respetar la Constitución Nacional y la Ley
