@@ -3,7 +3,7 @@ layout: post
 title: " Suspensión de las matrículas durante la pandemia Covid-19"
 date: 2020-05-18
 author: María Laura Blanco Peña
-feature: "/assets/img/unnamed.jpg"
+feature: "/assets/img/suspension.jpg"
 tags:
 - libertad
 - matricula
@@ -11,7 +11,9 @@ tags:
 - COVID
 
 ---
-El 14 de mayo pasado el Boletín Oficial publicó la resolución del Colegio Público de Abogados de Capital Federal (CPACF) que suspende todas las matrículas que no hayan pagado los últimos 3 períodos quedando **INHABILITADOS** para el ejercicio profesional más de 3000 abogados listados en un anexo de 40 hojas.- (1)
+_El 14 de mayo pasado el Boletín Oficial publicó la resolución del Colegio Público de Abogados de Capital Federal (CPACF) que suspende todas las matrículas que no hayan pagado los últimos 3 períodos quedando **INHABILITADOS** para el ejercicio profesional más de 3000 abogados listados en un anexo de 40 hojas.-_ 
+
+**Suspensión de las matrículas durante la pandemia Covid19**
 
 El CPACF, en plena vigencia del Aislamiento Social Preventivo y Obligatorio dispuesto por el gobierno nacional mediante DNU 297/20 -y prórrogas posteriores-, y transcurriendo la Acordada N° 6 de la Corte Suprema de Justicia de la Nación (CSJN) del 20 de marzo pasado -y siguientes prórrogas- que estableció la Feria Extraordinaria del Poder Judicial de la Nación, dispuso la **INHABILITACION DE 3000 matriculados** por aplicación del artículo 53 último párrafo de la Ley 23.187, sancionada en 1985 cuando se presuponía que existía un "abandono de la profesión" en casos de mora.-
 
