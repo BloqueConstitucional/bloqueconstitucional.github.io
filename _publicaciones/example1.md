@@ -3,7 +3,7 @@ layout: publicacion
 title: "¿De qué deberia ocuparse el Colegio de Abogados?"
 author: Marcelo Gobbi
 external: ''
-photo: "/assets/img/unnamed-1.jpg"
+photo: "/assets/img/colegio-gobbi.png"
 description: El Rol del CPACF y la desviación de su fin
 
 ---
