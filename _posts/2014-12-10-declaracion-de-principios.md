@@ -2,7 +2,7 @@
 layout: post
 date: 2014-12-10
 author: Ricardo Mihura Estrada
-feature: "/assets/img/default.png"
+feature: "/assets/img/nuestros-principios.png"
 tags:
 - Libertad de Asociación
 - Principios
@@ -12,7 +12,7 @@ title: Declaración de principios
 
 ---
 
-[Download File]( "Download File")Estos son losprincipios que contituyen el eje de nuestra propuesta:
+Estos son los principios que nos orientan:
 
 • Participamos en la construcción de una Justicia abierta, libre de las cargas financieras y burocráticas que entorpecen el ejercicio de la abogacía, el acceso a la Justicia y el imperio del Estado de Derecho.
 
