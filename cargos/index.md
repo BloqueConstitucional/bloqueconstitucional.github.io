@@ -3,11 +3,13 @@ layout: default
 title: Cargos 2018-2020
 
 ---
-### **CARGOS DE BLOQUE CONSTITUCIONAL**
-##### **EN EL COLEGIO PUBLICO DE ABOGADOS DE LA CAPITAL FEDERAL**
-##### *PERÍODO 2018 - 2020*
+#### **CARGOS DE BLOQUE CONSTITUCIONAL**
 
-----
+##### **EN EL COLEGIO PUBLICO DE ABOGADOS DE LA CAPITAL FEDERAL**
+
+##### _PERÍODO 2018 - 2020_
+
+***
 
 ##### **Consejo Directivo**
 
@@ -16,6 +18,7 @@ Consejero suplente: PUSINERI, Pedro Pablo
 ##### **Asamblea**
 
 ###### **Delegados titulares**
+
 1. MIHURA ESTRADA, Ricardo
 2. LOVERA, Mónica Beatriz
 3. VALSANGIACOMO ANDURANDEGUI, Roxana
@@ -26,9 +29,10 @@ Consejero suplente: PUSINERI, Pedro Pablo
 8. ROSSI, José Antonio T.
 
 ###### **Delegados Suplentes:**
-9. CHIDA, Julieta
-10. LLAMBIAS PRAVAZ, Marcelo Alberto
-11. DE ROSA, Susana N.
-13. OYUELA, Jorge Guillermo
-14. PALLA, Marcela Aldina
-15. D'ONOFRIO, Pablo Martín
+
+1. CHIDA, Julieta
+2. LLAMBIAS PRAVAZ, Marcelo Alberto
+3. DE ROSA, Susana N.
+4. OYUELA, Jorge Guillermo
+5. PALLA, Marcela Aldina
+6. D'ONOFRIO, Pablo Martín
