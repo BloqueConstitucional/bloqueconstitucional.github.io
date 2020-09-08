@@ -1,7 +1,7 @@
 ---
 name: Ricardo Mihura
-bio: "Co-fundador de Bloque Constitucional.\nAbogado y especialista en tributación.
-  Socio de Leverone y Mihura Estrada.\nDerecho Tributario. "
+bio: "Co-fundador de Bloque Constitucional.\nAbogado y especialista  Derecho Tributario.
+  Socio de Leverone y Mihura Estrada. "
 photo: "/assets/img/ricardo.jpg"
 social:
   twitter: https://twitter.com/RikyMihura
