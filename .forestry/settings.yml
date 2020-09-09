@@ -15,6 +15,13 @@ sections:
   templates:
   - post-largo
 - type: directory
+  path: ''
+  label: Acciones
+  create: all
+  match: "**/*"
+  templates:
+  - post-largo
+- type: directory
   path: _miembros
   label: Miembros
   create: documents
