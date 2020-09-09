@@ -7,7 +7,6 @@ description: "\nA partir del año 1988 se legalizó la matriculación compulsiva
   alli el Colegio Público de Abogados de la Capital Federal se convirtió en una corporación,
   al decir de Simone Weil, un “estado dentro del estado” "
 photo: "/assets/img/colegio2-1.jpg"
-published: false
 
 ---
 La creación del Colegio Público de Abogados de la Capital Federal en el año 1985 resultó en pleno fervor democrático una síntesis de compromiso entre las posturas enarboladas por quienes pretendían la identificación de la abogacía como una organización corporativa de base representativa, y la de aquéllos que la entendían como una profesión que requiere esencialmente de personas libres y responsables.
