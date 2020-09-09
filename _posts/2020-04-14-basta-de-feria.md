@@ -3,7 +3,7 @@ layout: post
 title: "¡Basta de Feria!"
 date: 2020-04-14
 author: Ricardo Mihura
-feature: "/assets/img/basta-de-feria1.jpg"
+feature: "/assets/img/basta-de-feria-judicial.png"
 tags:
 - libertad
 - feria
