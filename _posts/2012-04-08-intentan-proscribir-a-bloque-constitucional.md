@@ -9,9 +9,9 @@ title: Intentan proscribir a Bloque Constitucional
 ---
 En el Colegio Público de Abogados de la Capital Federal se vive un **tenso ****clima **pre-electoral a raíz de que las autoridades pretenden dejar afuera a la debutante agrupación “Bloque Constitucional”, que propone la colegiación voluntaria, bajar la matrícula anual a valores mínimos y eliminar el bono de derecho fijo que hoy se paga para iniciar o contestar cualquier acción judicial.
 
-Luego de la presentación de las [listas de candidatos](http://www.bloqueconstitucional.org/2012/03/candidatos-para-integrar-el.html) y adherentes, las diferentes agrupaciones tienen la posibilidad de subsanar defectos formales que se pueden suscitar, como el reemplazo de un candidato por no reunir los requisitos necesarios.
+Luego de la presentación de las listas de candidatos y adherentes, las diferentes agrupaciones tienen la posibilidad de subsanar defectos formales que se pueden suscitar, como el reemplazo de un candidato por no reunir los requisitos necesarios.
 
-[Las listas que quedaron oficializadas son la del “Frente Gremial Colegio paraTodos” que representa a la Cámpora, la alianza de conservadores y radicales “Cambio Pluralista”, la oficialista “Gente deDerecho” que cuenta con el apoyo de Julio Piumato y la agrupación de la mutual de abogados “Nueva Alternativa”.](http://www.noticiasurbanas.com.ar/info_item.shtml?sh_itm=bdb6ab10d64fddde4d1b4b3087b105ee)
+Las listas que quedaron oficializadas son la del “Frente Gremial Colegio paraTodos” que representa a la Cámpora, la alianza de conservadores y radicales “Cambio Pluralista”, la oficialista “Gente deDerecho” que cuenta con el apoyo de Julio Piumato y la agrupación de la mutual de abogados “Nueva Alternativa”.
 
 La agrupación Bloque Constitucional presentó sus listas de candidatos que encabezan [Daniel Rybnik](http://twitter.com/#%21/drybnik) (Presidente), [Ricardo Mihura Estrada](http://ar.linkedin.com/pub/ricardo-mihura-estrada/33/674/9aa) (Tribunal de Disciplina) y [María Laura Blanco Peña](http://ar.linkedin.com/in/marialbp) (Asamblea de Delegados), además de 104 adherentes, sobre un total de 100 que se requieren para apoyar las nominaciones.
 
