@@ -3,7 +3,11 @@ layout: post
 date: 2019-10-21
 author: Bloque Constitucional
 feature: "/assets/img/estafa.jpg"
-tags: []
+tags:
+- inflación
+- dictamen
+- matricula
+- bono
 title: Siempre hay un vivo que se aprovecha de la inflación
 
 ---
