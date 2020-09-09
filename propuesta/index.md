@@ -5,6 +5,8 @@ title: Qué Queremos
 ---
 # ¿Qué es Bloque Constitucional?
 
+![](/assets/img/bloque-inicio.png)
+
 Con la finalidad de canalizar la insatisfacción de los Abogados Indignados con el Colegio Público de Abogados de la Capital Federal (CPACF) por no denunciar, esconder, utilizar y beneficiarse con el status quo contrario a la Constitución a la que juramos fidelidad hemos formado la agrupación "Bloque Constitucional" - Lista 61.
 
 Bregamos por la Libre Unión de los Abogados, sin que colegiarnos sea un requisito para poder trabajar. Proponemos que se haga efectiva la autonomía de la Ciudad de Buenos Aires, y que sea la Legislatura local quien legisle sobre el ejercicio de la abogacía en la Ciudad de Buenos Aires. Nos avergonzamos por los privilegios ajenos al ejercicio profesional que se nos conceden a los que no tiene acceso la mayoría de la población. Nos resistimos a las cargas y costos que encarecen el ejercicio de la profesión y el acceso a la justicia de los habitantes.
