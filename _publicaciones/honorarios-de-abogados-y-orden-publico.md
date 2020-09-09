@@ -3,7 +3,7 @@ layout: publicacion
 title: Honorarios de abogados y orden público.
 author: Marcelo Gobbi
 external: ''
-photo: "/assets/img/honorarios.png"
+photo: "/assets/img/honorarios2.jpg"
 description: 'La ley de honorarios profesionales de abogados trae más problemas que
   soluciones. '
 
