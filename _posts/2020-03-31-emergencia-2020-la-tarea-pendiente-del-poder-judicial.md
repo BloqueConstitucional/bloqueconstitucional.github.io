@@ -3,7 +3,7 @@ layout: post
 title: 'Emergencia 2020: la tarea pendiente del Poder Judicial'
 date: 2020-03-31
 author: Marcelo Gobbi
-feature: "/assets/img/la-digitalizacion-de-la-justicia.jpg"
+feature: "/assets/img/la-digitalizacion-de-la-justicia-1.jpg"
 tags:
 - libertad
 - COVID
