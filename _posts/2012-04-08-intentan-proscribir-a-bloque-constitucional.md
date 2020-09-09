@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-04-08
+date: 2012-04-09
 author: Bloque Constitucional
 feature: "/assets/img/blog1.png"
 tags: []
