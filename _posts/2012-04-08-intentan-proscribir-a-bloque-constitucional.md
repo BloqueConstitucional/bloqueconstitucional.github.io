@@ -7,7 +7,7 @@ tags: []
 title: Intentan proscribir a Bloque Constitucional
 
 ---
-En el [Colegio Público de Abogados de la Capital Federal](http://www.cpacf.org.ar/) se vive un [**tenso **](http://diariojudicial.com/noticias/En-sus-marcas-listos...-20120405-0010.html)[**clima **](http://www.diariopym.com.ar/notaprima.asp?iden=12738)pre-electoral a raíz de que las autoridades pretenden [dejar afuera](http://politicaymunicipios.com.ar/notaprima.asp?iden=1994801) a la debutante agrupación [“Bloque Constitucional”](http://www.bloqueconstitucional.org/2012/03/elecciones-cpacf-2442012.html), que propone la colegiación voluntaria, bajar la matrícula anual a valores mínimos y eliminar el bono de derecho fijo que hoy se paga para iniciar o contestar cualquier acción judicial.
+En el Colegio Público de Abogados de la Capital Federal se vive un **tenso ****clima **pre-electoral a raíz de que las autoridades pretenden dejar afuera a la debutante agrupación “Bloque Constitucional”, que propone la colegiación voluntaria, bajar la matrícula anual a valores mínimos y eliminar el bono de derecho fijo que hoy se paga para iniciar o contestar cualquier acción judicial.
 
 Luego de la presentación de las [listas de candidatos](http://www.bloqueconstitucional.org/2012/03/candidatos-para-integrar-el.html) y adherentes, las diferentes agrupaciones tienen la posibilidad de subsanar defectos formales que se pueden suscitar, como el reemplazo de un candidato por no reunir los requisitos necesarios.
 
