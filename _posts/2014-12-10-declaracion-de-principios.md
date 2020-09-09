@@ -2,7 +2,7 @@
 layout: post
 date: 2014-12-10
 author: Ricardo Mihura Estrada
-feature: "/assets/img/nuestros-principios.png"
+feature: "/assets/img/principios1.jpg"
 tags:
 - Libertad de Asociación
 - Principios
