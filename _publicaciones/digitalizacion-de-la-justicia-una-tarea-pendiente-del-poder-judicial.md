@@ -4,7 +4,7 @@ title: Digitalización de la justicia, una tarea pendiente del Poder Judicial
 author: Marcelo Gobbi
 external: ''
 description: ''
-photo: "/assets/img/la-digitalizacion-de-la-justicia.jpg"
+photo: "/assets/img/la-digitalizacion-de-la-justicia-1.jpg"
 
 ---
 Pocas horas después del atentado del 9/11, el entonces alcalde de Nueva York apareció con casco, barbijo y ropa de bombero en medio de los escombros prometiendo reconstrucción y que la vida seguiría. Podría pensarse que la presencia allí de Giuliani no sirvió para agilizar la reconstrucción de nada ni para rescatar a nadie. O, al revés, que hizo bien en disfrazarse para comunicar, como líder, que se ponía al frente del problema, que no se iba precisamente a descansar, y así motivar a más de uno que tenía que cavar para ver si encontraba a alguien más con vida.
