@@ -2,7 +2,7 @@
 layout: post
 date: 2019-03-01
 author: Ricardo Mihura Estrada
-feature: "/assets/img/prespuesto-cpacf.png"
+feature: "/assets/img/presupuesto2.jpg"
 tags:
 - Presupuesto
 - CPACF
