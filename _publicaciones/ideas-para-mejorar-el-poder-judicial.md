@@ -8,7 +8,6 @@ description: La libertad en el ejercicio profesional conlleva efectos muy releva
   jurídico,(b) la reducción de costos y(c)  la mejora de los servicios a los que pueden
   acceder los abogados
 photo: "/assets/img/ideas-para-mejorar-la-justicia.jpg"
-published: false
 
 ---
 **I.- IDEA:**
