@@ -5,6 +5,5 @@ author: Bloque Constitucional
 external: ''
 description: ''
 photo: "/assets/img/blog3.png"
-published: false
 
 ---
