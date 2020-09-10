@@ -5,7 +5,6 @@ author: " Ricardo Mihura Estrada"
 external: ''
 description: ''
 photo: "/assets/img/presupuesto2.jpg"
-published: false
 
 ---
 El oficialismo en el Colegio Público de Abogados de la Capital Federal (agrupación Gente de Derecho, Dr. Jorge Rizzo) generó un PRESUPUESTO de $638 millones para este año 2019.
