@@ -8,7 +8,6 @@ description: |-
 
   2397 votaron a los candidatos de Bloque Constitucional quienes obtuvieron el 23% de los votos.
 photo: "/assets/img/fargosi-magistratura.jpg"
-published: false
 
 ---
 
