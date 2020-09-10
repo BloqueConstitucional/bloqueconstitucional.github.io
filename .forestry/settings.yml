@@ -15,11 +15,6 @@ sections:
   path: propuesta/index.md
   label: "¿Qué es Bloque Constitucional?"
 - type: directory
-  path: _acciones
-  label: post largos
-  create: documents
-  match: "**/*"
-- type: directory
   path: _publicaciones
   label: Posts largos
   create: documents
