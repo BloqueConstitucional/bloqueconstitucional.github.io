@@ -21,5 +21,7 @@ Con esta actitud, el Colegio Público de Abogados de la Capital,se aparta de est
 
 Otra vez nos preguntamos cuál es el servicio que presta el Colegio a los abogados de su matrícula, ya que si bien se puede considerar que son de utilidad los trámites que se pueden realizar en el Colegio, el interés principal de los abogados es que el mismo ejerza su representación en los estrados de la justicia o ante las organizaciones en que se vean involucrados sus derechos. De no ser así, por lo menos tendría que abstenerse de cuestionar a un amparo que apunta a defender la actividad que se ha visto cercenada durante esta centenal.
 
+[https://youtu.be/67cnMcmv0qw](https://youtu.be/67cnMcmv0qw "https://youtu.be/67cnMcmv0qw")
+
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/67cnMcmv0qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
