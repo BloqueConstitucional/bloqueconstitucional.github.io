@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: En los medios
+  create: documents
+  match: "**/*"
+  templates:
+  - en-los-medios
 - type: document
   path: propuesta/index.md
   label: "¿Qué es Bloque Constitucional?"
