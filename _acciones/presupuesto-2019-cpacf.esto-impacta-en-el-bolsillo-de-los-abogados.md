@@ -4,7 +4,7 @@ title: Presupuesto 2019 CPACF. Esto impacta en el bolsillo de los abogados
 author: Bloque Constitucional
 external: ''
 description: ''
-photo: ''
+photo: "/assets/img/bolsillo.jpg"
 published: false
 
 ---
