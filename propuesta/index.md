@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Qué Queremos
+En_los_medios: ''
 
 ---
 > > > > # ¿Qué es Bloque Constitucional?
@@ -73,4 +74,4 @@ Instamos democráticamente a la derogación de la obligatoriedad de pertenecer a
 
        **Escribinos a** [**bloqueconstitucional@hotmail.com**](mailto:bloqueConstitucional@hotmail.com) **o bien a** [**bloqueconstitucional@gmail.com**](mailto:bloqueconstitucional@gmail.com)**. Sos bienvenido a sumarte!**
 
-       **Podés seguirnos en Twitter en** [**@BloqueConst**]({{ site.twitter_link }})
+           Podés seguirnos en Twitter en @BloqueConst
