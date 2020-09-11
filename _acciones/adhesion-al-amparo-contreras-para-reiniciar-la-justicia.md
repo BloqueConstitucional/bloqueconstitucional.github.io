@@ -8,6 +8,7 @@ photo: ''
 published: false
 
 ---
+    
     En este mes de junio se inició un amparo colectivo ante el Juzgado Nacional en lo Contencioso Administrativo Federal Nº 3, Secretaría 5 a cargo del Dr Santiago Carrillo ubicado en la calle Tucumán 1381 Piso 2 de la Ciudad Autónoma de Buenos Aires caratulado: Contreras Andrea Claudia Elizabeth y otros C/ P.E. Nacional y otros S/ Amparo Ley 16986 ( Expte CAF 009921/2020 el que tiene por objeto la declaración de inconstitucionalidad de la Acordada de la SCJ 6/2020 y las subsiguientes que prorrogan su vigencia, además se solicita que se ordene de inmediato el restablecimiento de la prestación del servicio de Justicia mediante la urgente y definitiva implementación, puesta en funcionamiento y aplicación de las modalidades de teletrabajo, por otro lado se pide que se ordene al Poder Ejecutivo Nacional que declare a la Justicia como actividad esencial, por último se solicita también que se cite dentro de los 5 días hábiles corridos desde la publicación de edictos a los abogados matriculados en el ámbito de la Capital Federal que se consideren afectados, así como a las distintas asociaciones de abogados y al Colegio Público de Abogados de Capital Federal
 
 En un auto del 19 de junio del 2020 el juez de la causa citó a las asociaciones, abogados y al Colegio Público de Abogados de Capital Federal a adherir al amparo, este plazo vence **el 1 de julio de 2020, es decir mañana**
