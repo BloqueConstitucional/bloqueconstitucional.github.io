@@ -10,6 +10,11 @@ fields:
   name: title
   hidden: false
   label: Título
+- name: En_los_medios
+  type: text
+  config:
+    required: false
+  label: Medios
 pages:
 - candidatos/index.md
 - cargos/index.md
