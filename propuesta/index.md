@@ -3,7 +3,7 @@ layout: default
 title: Qué Queremos
 
 ---
-# ¿Qué es Bloque Constitucional?
+> > > > # ¿Qué es Bloque Constitucional?
 
 ![](/assets/img/bloque-inicio.png)
 
