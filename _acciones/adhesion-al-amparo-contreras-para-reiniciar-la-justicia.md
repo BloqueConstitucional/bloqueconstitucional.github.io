@@ -4,7 +4,7 @@ title: Adhesion al Amparo Contreras para reiniciar la Justicia
 author: Bloque Constitucional
 external: ''
 description: ''
-photo: ''
+photo: "/assets/img/contreras.jpg"
 published: false
 
 ---
