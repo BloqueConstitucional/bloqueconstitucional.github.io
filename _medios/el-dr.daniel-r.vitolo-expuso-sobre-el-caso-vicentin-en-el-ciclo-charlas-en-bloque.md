@@ -8,7 +8,6 @@ description: "En el ciclo “Charlas en Bloque” convocado por Bloque Constituc
   el Dr. Vítolo se explayó sobre la intervención presidencial y el proyecto de expropiación
   de la empresa concursada Vicentin SAIC.\n\n "
 photo: ''
-published: false
 
 ---
 El sitio Abogados.com.ar, publicó una nota relacionada con la charla organizada por Bloque Constitucional en la que el Dr Vítolo hablo sobre la intervención de Vicentín y los alcances del proyecto de expropiación.
