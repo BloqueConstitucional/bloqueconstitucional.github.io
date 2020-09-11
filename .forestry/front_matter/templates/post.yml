@@ -32,5 +32,3 @@ fields:
   type: tag_list
   default: []
   label: Tags
-pages:
-- _posts/2020-09-10-siempre-hay-un-vivo-que-se-aprovecha-de-la-inflacion.md
