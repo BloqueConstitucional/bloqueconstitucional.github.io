@@ -5,7 +5,6 @@ author: Bloque Constitucional
 external: ''
 description: ''
 photo: "/assets/img/bolsillo.jpg"
-published: false
 
 ---
 El 11/2/2019, funcionarios del Colegio Público de Abogados de la Capital Federal entregaron a la Comisión de Presupuesto, Balances y Cuentas los siguientes documentos:
