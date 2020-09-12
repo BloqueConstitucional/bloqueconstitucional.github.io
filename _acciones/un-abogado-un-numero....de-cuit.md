@@ -5,7 +5,6 @@ author: Bloque Constitucional
 external: ''
 description: La protección de datos personales es una obligación del Colegio
 photo: "/assets/img/datos-personales.jpg"
-published: false
 
 ---
 [A partir de la nota dirigida al presidente de la Corte Ricardo Lorenzetti presentada por Bloque Constitucional ](https://docs.google.com/file/d/0BwSsihU1OF0JZ3lsbTA0M1JYVEU/edit "Nota")el año pasado, quedó claro que la supuesta obligación de utilizar las cuentas de correo electrónico con la extensión @cpacf.org.ar publicitada por el Colegio Público de Abogados de la Capital Federal para recibir las notificaciones electrónicas no era más que el sueño de controlarlo todo de su presidente Jorge Rizzo.
