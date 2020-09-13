@@ -43,5 +43,3 @@ fields:
   config:
     required: false
   label: eventbrite link
-pages:
-- _eventos/hablemos-de-justicia-para-que-la-justicia.md
