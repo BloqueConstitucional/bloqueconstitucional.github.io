@@ -2,7 +2,7 @@
 layout: publicacion
 title: Media Sanción del Código Civil y Comercial
 author: Daniel Rybnik
-external: ''
+external: http://www.elojodigital.com/contenido/12712-el-templo-de-la-corrupcion
 description: ''
 photo: "/assets/img/forestry-codigo-civil-y-comercial.jpg"
 published: false
