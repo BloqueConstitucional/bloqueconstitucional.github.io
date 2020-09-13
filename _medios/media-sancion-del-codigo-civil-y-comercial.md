@@ -4,7 +4,7 @@ title: Media Sanción del Código Civil y Comercial
 author: Daniel Rybnik
 external: ''
 description: ''
-photo: ''
+photo: "/assets/img/forestry-codigo-civil-y-comercial.jpg"
 published: false
 
 ---
