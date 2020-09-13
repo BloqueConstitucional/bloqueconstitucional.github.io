@@ -5,7 +5,6 @@ author: Bloque Constitucional
 external: ''
 description: ''
 photo: "/assets/img/conjueces.jpg"
-published: false
 
 ---
 La agrupación de abogados independientes **BLOQUE CONSTITUCIONAL**, con relación al fallo “_Uriarte_”, por el cual la Corte Suprema de Justicia de la Nación declaró la inconstitucionalidad de la **Ley de Subrogancias** (Ley 27.145), declara que:
