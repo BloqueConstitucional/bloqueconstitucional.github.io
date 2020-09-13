@@ -5,7 +5,6 @@ author: Bloque Constitucional
 external: ''
 description: ''
 photo: "/assets/img/forestry-balances-2015.jpg"
-published: false
 
 ---
 El 30 de mayo de 2016 firmamos dictamen en minoría, con observaciones al BALANCE y al PROYECTO DE PRESUPUESTO y AUMENTO DE MATRÍCULA Y BONO del CPACF.
