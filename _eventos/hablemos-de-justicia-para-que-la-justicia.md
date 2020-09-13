@@ -7,7 +7,6 @@ title: 'Hablemos de Justicia: ¿ Para qué la Justicia?'
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 En un ciclo de clases de la Fundación Libertad Y Justicia, Bloque Constitucional participó en la organización académica: En esta primera clase se hablò acerca de ¿Para qué la Justicia? Justicia Vs Poder, El sistema de Justicia Argentino, Organos Complementarios, El Consejo de la Magistratura y la Oficina Anticorrupción, con la introducción de Ricardo Mihura Estrada, la coordinación de Pablo Pirovano y la exposición de Héctor Chayer.
