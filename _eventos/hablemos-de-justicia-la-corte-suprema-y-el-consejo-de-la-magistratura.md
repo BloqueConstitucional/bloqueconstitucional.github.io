@@ -7,7 +7,6 @@ title: 'Hablemos de Justicia: La Corte Suprema y el Consejo de la Magistratura,-
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** Esta clase estuvo a cargo del Dr Alejandro Fargosi y la coordinación del **Dr Javier Canosa.**
