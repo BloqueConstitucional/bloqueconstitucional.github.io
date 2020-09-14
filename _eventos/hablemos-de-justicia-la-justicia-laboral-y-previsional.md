@@ -1,6 +1,6 @@
 ---
 layout: event
-datetime: 2020-09-14 7:45 PM
+datetime: 2020-09-08 7:45 PM
 feature: "/assets/img/forestry-jornada4.jpg"
 price: 0
 title: 'Hablemos de Justicia: La Justicia Laboral y Previsional'
