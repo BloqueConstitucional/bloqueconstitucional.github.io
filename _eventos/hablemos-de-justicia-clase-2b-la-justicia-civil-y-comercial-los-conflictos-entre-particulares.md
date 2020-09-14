@@ -3,7 +3,7 @@ layout: event
 datetime: 2020-09-01 3:57 PM
 feature: "/assets/img/forestry-jornada2.jpg"
 price: 0
-title: 'Hablemos de Justicia: Clase 2B : La Justicia Civil y Comercial: Los Conflictos
+title: 'Hablemos de Justicia: Clase 2 B : La Justicia Civil y Comercial: Los Conflictos
   entre particulares'
 place: ''
 description: ''
