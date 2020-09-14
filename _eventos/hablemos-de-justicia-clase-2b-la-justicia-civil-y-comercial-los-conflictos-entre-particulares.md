@@ -8,7 +8,6 @@ title: 'Hablemos de Justicia: Clase 2B : La Justicia Civil y Comercial: Los Conf
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 **Jornadas " Hablemos de Justicia" organizadas por la Fundación Libertad y Progreso, con el apoyo de la Fundación Friederich Naumman y la organización académica de Bloque Constitucional. Esta clase estuvo a cargo de los Dres Francisco Carrega y la Dra Miriam Rustan con la coordinación de la Dra Estela Tramontini.**
