@@ -13,6 +13,6 @@ Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizad
 
 La temática en esta oportunidad fue la **La Justicia Penal: Los delitos y sus penas. La instrucción, el juicio y la ejecución de las penas. Los recursos y las nulidades. Los procesos eternos y su prescripción. Prisión preventiva, excarcelación y libertad. Prisión domiciliaria y otras penas. Los delitos contra el Estado y los delitos Económicos.**
 
-Pueden ver el video aquí:
+**Pueden** ver el video aquí:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0NNXH9HxoqM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
