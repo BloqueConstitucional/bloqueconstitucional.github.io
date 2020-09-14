@@ -7,7 +7,6 @@ title: 'Hablemos de Justicia: La Justicia Laboral y Previsional'
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La clase estuvo a cargo del **Dr Julio Cordero** y la coordinación de la **Dra Maria Laura Blanco Peña.**
