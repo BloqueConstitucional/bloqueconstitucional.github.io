@@ -13,6 +13,6 @@ Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizad
 
 La temática en esta oportunidad fue la **Justicia Laboral y Previsional, Mitos y Realidades de la Justicia Laboral. El factor tiempo en los procesos y en los reclamos. Los intereses: Trabajador Vs Empresario. El interés sindical, de los abogados y otros partícipes de los conflictos laborales.**
 
-Ver el video aquí: 
+**Ver el video aquí:**
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/XYay_bTM9xM](https://www.youtube.com/embed/XYay_bTM9xM "https://www.youtube.com/embed/XYay_bTM9xM")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
