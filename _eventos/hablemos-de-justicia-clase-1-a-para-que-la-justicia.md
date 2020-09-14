@@ -7,7 +7,6 @@ title: 'Hablemos de Justicia:  Clase 1 A ¿Para qué la Justicia?'
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 **Jornada " Hablemos de Justicia" organizadas por la Fundación Libertad y Progreso con el apoyo de la Fundación Friederich Nauman y la organización académica de Bloque Cosntitucional.  La introducción estuvo a cargo del Dr Ricardo Mihura estrada y la clase del Dr Héctor Chayer con la coordinación de Pablo Pirovano.**
