@@ -7,7 +7,6 @@ title: 'Hablemos de Justicia: El Proceso Penal: Los delitos y sus penas'
 place: ''
 description: ''
 external: ''
-published: false
 
 ---
 Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La clase estuvo a cargo del **Dr Mariano Cuneo Libarona** y la coordinación del **Dr Pablo Torres Barthe**
