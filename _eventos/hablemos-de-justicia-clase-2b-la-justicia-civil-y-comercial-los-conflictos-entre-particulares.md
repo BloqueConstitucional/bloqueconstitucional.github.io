@@ -3,14 +3,15 @@ layout: event
 datetime: 2020-09-01 3:57 PM
 feature: "/assets/img/forestry-jornada2.jpg"
 price: 0
-title: 'Hablemos de Justicia: Clase 2 B : La Justicia Civil y Comercial: Los Conflictos
-  entre particulares'
+title: 'Hablemos de Justicia: : La Justicia Civil y Comercial: Los Conflictos entre
+  particulares'
 place: ''
 description: ''
 external: ''
 
 ---
-Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** Esta clase estuvo a cargo del **Dr Alberto Bianchi** y la coordinación del **Dr Alejandro Sarubbi Benitez**
+
+Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La clase estuvo a cargo del **Dr Francisco** **Carrega** y la **Dra Miriam Rustan** con la coordinación de la Dra Estela Tramontini-
 
 La introducción estuvo a cargo del **Dr Ricardo Mihura Estrada** y la clase del **Dr Héctor Chayer** con la coordinación del **Dr Pablo Pirovano**.
 
