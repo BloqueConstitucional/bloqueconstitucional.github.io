@@ -13,8 +13,6 @@ external: ''
 
 Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La clase estuvo a cargo del **Dr Francisco** **Carrega** y la **Dra Miriam Rustan** con la coordinación de la Dra Estela Tramontini-
 
-La introducción estuvo a cargo del **Dr Ricardo Mihura Estrada** y la clase del **Dr Héctor Chayer** con la coordinación del **Dr Pablo Pirovano**.
-
 En esta clase se abordó la Justicia Civil y Comercial: Los Conflictos entre particulares: La Justicia de Familia: Divorcio.- Adopciones.- Insanías y sucesiones. Los niños en la justicia, Derecho Civil y Comercial: Cobranzas.- Desalojos. Reclamo de Daños y discusiones contractuales. Quiebras y Concursos.
 
 Ver el video aqui
