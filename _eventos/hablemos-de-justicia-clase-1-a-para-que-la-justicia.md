@@ -10,7 +10,7 @@ external: ''
 published: false
 
 ---
-Jornada " Hablemos de Justicia" organizadas por la Fundación Libertad y Progreso con el apoyo de la Fundación Friederich Nauman y la organización académica de Bloque Cosntitucional.  La introducción estuvo a cargo del Dr Ricardo Mihura estrada y la clase del Dr Héctor Chayer con la coordinación de Pablo Pirovano.
+**Jornada " Hablemos de Justicia" organizadas por la Fundación Libertad y Progreso con el apoyo de la Fundación Friederich Nauman y la organización académica de Bloque Cosntitucional.  La introducción estuvo a cargo del Dr Ricardo Mihura estrada y la clase del Dr Héctor Chayer con la coordinación de Pablo Pirovano.**
 
 La temática de las charlas se adaptaron para el público en general, ciudadanos no abogados. En esta charla se habló acerca de: ¿ Para qué la Justicia. Derecho Vs Poder, el Sistema Jurídico Argentino, Organos Complementarios, el Consejo de la Magistratura y la Oficina Anticorrupción y Reforma a la Justicia Federal.
 
