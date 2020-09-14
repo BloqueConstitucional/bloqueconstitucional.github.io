@@ -1,6 +1,6 @@
 ---
 layout: event
-datetime: 2020-09-14 7:03 PM
+datetime: 2020-09-10 7:03 PM
 feature: "/assets/img/forestry-jornada5.jpg"
 price: 0
 title: 'Hablemos de Justicia: La justicia contencioso Administrativa.'
