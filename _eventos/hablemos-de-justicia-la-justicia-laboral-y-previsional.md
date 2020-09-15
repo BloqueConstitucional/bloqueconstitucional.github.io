@@ -15,4 +15,4 @@ La temática en esta oportunidad fue la **Justicia Laboral y Previsional, Mitos 
 
 **Ver el video aquí:**
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/XYay_bTM9xM](https://www.youtube.com/embed/XYay_bTM9xM "https://www.youtube.com/embed/XYay_bTM9xM")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XYay_bTM9xM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
