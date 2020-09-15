@@ -17,3 +17,5 @@ En esta clase se abordó la Justicia Civil y Comercial: Los Conflictos entre par
 **Ver el video aqui**
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/urEBRuasjyQ](https://www.youtube.com/embed/urEBRuasjyQ "https://www.youtube.com/embed/urEBRuasjyQ")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/urEBRuasjyQ](https://www.youtube.com/embed/urEBRuasjyQ "https://www.youtube.com/embed/urEBRuasjyQ")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
