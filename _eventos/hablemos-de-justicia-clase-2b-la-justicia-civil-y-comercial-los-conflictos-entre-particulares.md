@@ -12,6 +12,4 @@ external: ''
 ---
 En esta clase se abordó la Justicia Civil y Comercial: Los Conflictos entre particulares: La Justicia de Familia: Divorcio.- Adopciones.- Insanías y sucesiones. Los niños en la justicia, Derecho Civil y Comercial: Cobranzas.- Desalojos. Reclamo de Daños y discusiones contractuales. Quiebras y Concursos.
 
-**Ver el video aqui**<iframe width="560" height="315" src="[https://www.youtube.com/embed/urEBRuasjyQ](https://www.youtube.com/embed/urEBRuasjyQ "https://www.youtube.com/embed/urEBRuasjyQ")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/urEBRuasjyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/urEBRuasjyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
