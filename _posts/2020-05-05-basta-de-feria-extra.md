@@ -3,7 +3,7 @@ layout: post
 title: Basta de feria extraordinaria.
 date: 2020-05-05
 author: Ricardo Mihura
-feature: "/assets/img/tribunales.jpg"
+feature: "/assets/img/forestry-tribunales.jpg"
 tags:
 - libertad
 - Justicia
