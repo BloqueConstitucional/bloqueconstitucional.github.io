@@ -13,6 +13,6 @@ Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizad
 
 La temática de las charlas se adaptaron para el público en general, ciudadanos no abogados. En esta charla se habló acerca de: ¿ Para qué la Justicia. Derecho Vs Poder, el Sistema Jurídico Argentino, Organos Complementarios, el Consejo de la Magistratura y la Oficina Anticorrupción y Reforma a la Justicia Federal.
 
-**Pueden ver la charla aqui**
+**Pueden ver la charla aqui:**
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/cUl6iFLw8gE](https://www.youtube.com/embed/cUl6iFLw8gE "https://www.youtube.com/embed/cUl6iFLw8gE")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
