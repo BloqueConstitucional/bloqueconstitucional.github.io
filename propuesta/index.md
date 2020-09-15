@@ -2,7 +2,6 @@
 layout: default
 title: Qué Queremos
 En_los_medios: ''
-published: false
 
 ---
 > > > > # ¿Qué es Bloque Constitucional?
