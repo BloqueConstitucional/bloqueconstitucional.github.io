@@ -13,7 +13,7 @@ tags:
 ---
 La República necesita que la Justicia se reinicie plenamente y así lo hemos solicitado a la Corte Suprema, con propuesta de medidas concretas, que pueden verse en [este documento](https://1drv.ms/b/s!Ah0sfoie1drYh4wSm2RlqDpmeE6y6A?e=NSso0y)
 
-Lamentablemente no hemos tenido ninguna respuesta y la feria se ha seguido prorrogando.
+Lamentablemente no hemos tenido ninguna respuesta y la feria se ha seguido prorrogando
 
 ***
 
