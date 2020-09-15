@@ -9,7 +9,7 @@ description: ''
 external: ''
 
 ---
-Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La introducción estuvo a cargo del **Dr Ricardo Mihura Estrada** y la clase del **Dr Héctor Chayer** con la coordinación del **Dr Pablo Pirovano**.
+Jornada **" Hablemos de Justicia**" destinadas a público no abogados, organizadas por la **Fundación** **Libertad y Progreso** con el apoyo de la **Fundación Friederich Naumann** y la organización académica de **Bloque Constitucional.** La introducción estuvo a cargo del **Dr Ricardo Mihura Estrada** y la clase del **Dr Héctor Chayer** con la coordinación del **Dr Pablo Pirovano**
 
 La temática de las charlas se adaptaron para el público en general, ciudadanos no abogados. En esta charla se habló acerca de: ¿ Para qué la Justicia. Derecho Vs Poder, el Sistema Jurídico Argentino, Organos Complementarios, el Consejo de la Magistratura y la Oficina Anticorrupción y Reforma a la Justicia Federal.
 
