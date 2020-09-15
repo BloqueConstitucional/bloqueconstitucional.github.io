@@ -46,4 +46,4 @@ En rigor de verdad, los colegialistas siempre tuvieron como presunción _“iuri
 
 Obsérvese que la pretensión de una nueva vuelta de tuerca intervencionista y parasitaria como lo fue el intento de creación de la Caja de Seguridad Social de Abogados reveló que la mayoría de los abogados reaccionó negativamente, lo que permite suponer similar resultado frente a una encuesta que ausculte respecto de la continuidad de un colegio obligatorio.
 
-En definitiva, nos encontramos formando parte de un colegio, en lo que a mi atañe contra mi voluntad, como consecuencia de un embuste.
+En definitiva, nos encontramos formando parte de un colegio, en lo que a mi atañe contra mi voluntad, como consecuencia de un embuste
