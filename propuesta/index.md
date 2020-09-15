@@ -73,6 +73,6 @@ Instamos democráticamente a la derogación de la obligatoriedad de pertenecer a
     9. Martilleros
    10. ...
 
-       **Escribinos a** [**bloqueconstitucional@hotmail.com**](mailto:bloqueConstitucional@hotmail.com) **o bien a** [**bloqueconstitucional@gmail.com**](mailto:bloqueconstitucional@gmail.com)**. Sos bienvenido a sumarte!**
+       Escribinos a [bloqueconstitucional@hotmail.com](mailto:bloqueConstitucional@hotmail.com) o bien a [bloqueconstitucional@gmail.com](mailto:bloqueconstitucional@gmail.com). Sos bienvenido a sumarte!
 
            Podés seguirnos en Twitter en @BloqueConst
