@@ -15,4 +15,4 @@ La temática de las charlas se adaptaron para el público en general, ciudadanos
 
 **Pueden ver la charla aqui:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cUl6iFLw8gE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUl6iFLw8gE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
