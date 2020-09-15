@@ -9,7 +9,7 @@ tags:
 title: 'Colegiatura obligatoria para abogados: la expresión del corporativismo'
 
 ---
-Todos hemos oído de mafias que hostigan a los comerciantes callejeros, obligándolos a pagarles un porcentaje de sus ganancias a cambio de dejarlos trabajar en paz, sin acosarlos, e incluso a cambio de algo de protección. Los comerciantes no hablan de ellas, probablemente por miedo, pero ahí están, controlando a los trabajadores de a pie que sólo desean ejercer el comercio libremente.
+Todos hemos oído de mafias que hostigan a los comerciantes callejeros, obligándolos a pagarles un porcentaje de sus ganancias a cambio de dejarlos trabajar en paz, sin acosarlos, e incluso a cambio de algo de protección. Los comerciantes no hablan de ellas, probablemente por miedo, pero ahí están, controlando a los trabajadores de a pie que sólo desean ejercer el comercio libremente
 
 Lo que no todos saben es que los abogados también son obligados a pagar una cuota anual y de inscripción para poder ejercer su profesión; si no lo hacen, simplemente tienen prohibido trabajar. Los colegios públicos de abogados, que son las corporaciones que se encargan de cobrar ese dinero, cada uno en una jurisdicción diferente, cosa de mantener bien establecidos los monopolios, no son mafias, porque actúan con el uso de la coerción estatal. Quizá ello lo haga más grave aún: el Estado puede castigar a las mafias que hostigan a los comerciantes, pero cuando el mismo Estado actúa así con los abogados, el problema se vuelve más serio.
 
