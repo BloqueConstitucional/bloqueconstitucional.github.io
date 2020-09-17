@@ -4,7 +4,7 @@ title: 'CPACF: Un ejemplo de lo que pasa cuando los abogados miramos para otro l
 author: Daniel Rybnik
 external: ''
 description: ''
-photo: "/assets/img/cpacf-_-cuando-los-abogados-miramos-para-otro-lado_.jpg"
+photo: "/assets/img/forestry-abogados.jpg"
 published: false
 
 ---
