@@ -5,7 +5,6 @@ author: Bloque Constitucional
 external: ''
 description: ''
 photo: "/assets/img/consejo-de-la-magistratura-forestry1.jpg"
-published: false
 
 ---
 En oportunidad de las elecciones en el Consejo de la Magistratura Bloque Constitucional pidió a la Justicia que se oficializara su lista de candidatos, lo que publicado en diario El Cronista.
