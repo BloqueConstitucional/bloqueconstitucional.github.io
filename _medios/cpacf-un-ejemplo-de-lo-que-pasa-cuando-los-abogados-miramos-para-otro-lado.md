@@ -5,7 +5,6 @@ author: Daniel Rybnik
 external: ''
 description: ''
 photo: "/assets/img/foresry-abogados.jpg"
-published: false
 
 ---
 En esta nota publicada en Noticias Judiciales, Daniel Rybnik nos dice que: La luz verde para la colegiación obligatoria, no significó la derogación del derecho a la libertad de asociación en su vertiente negativa (el llamado “opt out”), porque –decía el Supremo Tribunal- la inscripción en la matrícula del CPACF no importa ingresar a un vínculo asociativo con los demás miembros.
